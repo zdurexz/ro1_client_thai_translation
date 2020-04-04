@@ -40,31 +40,31 @@ Passwords ต้องมีตัวอักษรอย่างน้อย 4 ตัวอักษร โปรดลองใหม่อีกครั้ง#
 /skip: เปิด/ปิด การใช้งาน Frame Skip#
 /v (0~127): ควบคุมระดับความดังของ Sound Effects#
 /bv (0~127): ควบคุมระดับความดังของ BGM#
-/ex (Character Name): Blocks whispering from the Character#
-/ex: View a list of Characters you have Blocked#
-/in (Character Name): Allows whispering from the Character#
-/inall: Allows whispers from anyone#
-/exall: Blocks whispers from everyone#
-Right click on a character and select [Register as a Friend] to add a person to your Friend List.#
-F12 Brings up a Hotkey Window which allows you to drag and drop Recovery Items, Equipment and Skills into it for faster access.#
-You can't type the same word/phrase more than 3 times.#
-Chat Filter: Yeah, uh, I don't think so buddy...#
-You cannot overlap items on a window.#
-You cannot carry more items because you are overweight.#
-You cannot get the item.#
-The deal has successfully completed.#
-You do not have enough zeny.#
-You are over your Weight Limit.#
-The deal has failed.#
-You've blocked whispers from everyone.#
-You've failed to block all whispers.#
-You've allowed whispers from everyone.#
-You've failed to allow all whispers.#
-You have no Block List.#
-[ Character Block List ]#
-Room has been successfully created.#
-Room Limit Exceeded.#
-Same Room exists.#
+/ex (ชื่อตัวละคร): ระงับการกระซิบ จากตัวละครที่ระบุ#
+/ex: ดูรายการตัวละครที่ถูกระงับการกระซิบ#
+/in (ชื่อตัวละคร): อนุมัติการกระซิบ จากตัวละครที่ระบุ#
+/inall: อนุมัติการกระซิบ จากทุกตัวละคร#
+/exall: ระงับการกระซิบ จากทุกตัวละคร#
+คลิกขวาที่ตัวละครและเลือก [ขอเป็นเพื่อน] เพื่อขอเป็นเพื่อนกับตัวละครดังกล่าว#
+กด F12 เพื่อเปิดหน้าต่าง Hotkey ขึ้นมา โดยสามารถลากสิ่งใด ๆ ก็ได้มาวางไว้ เพื่อกดใช้ได้อย่างรวดเร็ว#
+คุณไม่สามารถส่งคำเดิมได้มากกว่า 3 ครั้ง#
+ตัวกรองคำพูด: เอิ่มมม อย่าพูดแบบนั้นสิเพื่อนเอ๋ย...#
+ไม่สามารถวาง Item บนหน้าต่างดัวกล่าวได้#
+ไม่สามารถแบก Item ได้มากกว่านี้อีกแล้ว เพราะว่าคุณแบก Item มากเกินไป#
+ไม่สามารถหยิบ Item ดังกล่าวได้ในขณะนี้#
+การแลกเปลี่ยนเรียบร้อยแล้ว#
+คุณมี Zeny ไม่เพียงพอ#
+คุณแบก Item มากเกินไป#
+เกิดข้อผิดพลาดกับการแลกเปลี่ยน#
+ระงับการกระซิบจากทุกตัวละคร#
+เกิดข้อผิดพลาดกับการระงับการกระซิบจากทุกตัวละคร#
+อนุมัติการกระซิบจากทุกตัวละคร#
+เกิดข้อผิดพลาดกับการอนุมัติการกระซิบจากทุกตัวละคร#
+ไม่พบรายการที่ระงับ#
+[ รายการตัวละครที่ถูกระงับ ]#
+ห้องสนทนาถูกสร้างเรียบร้อยแล้ว#
+ห้องสนทนามีผู้เข้าร่วมเต็มแล้ว#
+มีคนใช้ชื่อห้องสนทนาดังกล่าวไปแล้ว#
 The Room is full.#
 You have been kicked out of this room.#
 The deal has been rejected.#
