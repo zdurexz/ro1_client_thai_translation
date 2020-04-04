@@ -63,32 +63,32 @@ Passwords ต้องมีตัวอักษรอย่างน้อย 4 ตัวอักษร โปรดลองใหม่อีกครั้ง#
 ไม่พบรายการที่ระงับ#
 [ รายการตัวละครที่ถูกระงับ ]#
 ห้องสนทนาถูกสร้างเรียบร้อยแล้ว#
-ห้องสนทนามีผู้เข้าร่วมเต็มแล้ว#
+จำนวนผู้เข้าร่วมห้องสนทนาที่ระบุมากเกินกว่ากำหนด#
 มีคนใช้ชื่อห้องสนทนาดังกล่าวไปแล้ว#
-The Room is full.#
-You have been kicked out of this room.#
-The deal has been rejected.#
-You are too far away from the person to trade.#
-The Character is not currently online or does not exist.#
-The person is in another deal.#
-You cannot trade because this character will exceed his weight limit.#
-The deal has been canceled.#
-The deal has successfully completed.#
-The deal has failed.#
-Party has successfully been organized.#
-That Party Name already exists.#
-The Character is already in a party.#
-The Character already joined another party.#
-Request for party rejected.#
-Request for party accepted.#
-Party Capacity exceeded.#
-You left the party.#
-Send to All#
-Send to Party#
-Request a deal with %s#
-Ask %s to join your party#
-Pri:#
-Pub:#
+ห้องสนทนามีผู้เข้าร่วมเต็มแล้ว#
+คุณถูกเชิญออกจากห้องสนทนา#
+การแลกเปลี่ยนถูกปฎิเสธจากตัวละครดังกล่าว#
+คุณอยู่ไกลเกินไปที่จะแลกเปลี่ยนกับตัวละครดังกล่าว#
+ไม่พบตัวละครดังกล่าว#
+ตัวละครดังกล่าวกำลังแลกเปลี่ยนกับผู้เล่นอื่นอยู่#
+คุณไม่สามารถกระทำการแลกเปลี่ยนได้เนื่องจากแบก Item มากเกินไป#
+การแลกเปลี่ยนถูกยกเลิกเรียบร้อยแล้ว#
+การแลกเปลี่ยนเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดกับการแลกเปลี่ยน#
+Party ถูกจัดตั้งขึ้นเรียบร้อยแล้ว#
+มีคนใช้ชื่อ Party ดังกล่าวไปแล้ว#
+ตัวละครดังกล่าวอยู่ใน Party อยู่แล้ว#
+ตัวละครดังกล่าวอยู่ใน Party อื่นอยู่แล้ว#
+คำชวน Party ที่ส่งไปถูกปฎิเสธ#
+ผู้เล่นดังกล่าวยินยอมเข้าร่วม Party ด้วย#
+จำนวนผู้เล่นใน Party เต็มแล้ว#
+คุณออกจาก Party#
+ส่งไปยังสาธารณะ#
+ส่งไปยัง Party#
+ส่งคำขอการแลกเปลี่ยนกับ %s เรียบร้อยแล้ว#
+ส่งคำชวนกับ %s ให้เข้า Party ของคุณเรียบร้อยแล้ว#
+ส่วนตัว:#
+สาธารณะ:#
 Click ''Restart'' to go back to your save point or click ''Exit'' to select another character.#
 Please select a Deal Type.#
  requests a deal.#
