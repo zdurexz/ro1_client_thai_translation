@@ -148,28 +148,28 @@ Wind#
 คุณคือ MVP แต่คุณไม่สามารถรับรางวัลได้เนื่องจากแบก Item มากเกินไป#
 ไม่พบตัวละครดังกล่าว#
  ไม่ต้องการรับการกระซิบของคุณ#
- is not in the mood to talk with anyone.#
-Killed/Disconnected User.#
-Kill has failed.#
-You got %s (%d).#
-[Alt] + [=]: Fix the interval error between letters.#
-[F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
-How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/โ€ฆ.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
-How to Speak to Party: Add % in front of every message.(Example: \%Hello\)#
-You haven't learned enough Basic Skills to Trade.#
-You haven't learned enough Basic Skills to use Emotion icons.#
-You haven't learned enough Basic Skills to Sit.#
-You haven't learned enough Basic Skills to create a chat room.#
-You haven't learned enough Basic Skills to Party.#
-You haven't learned enough skills to Shout.#
-You haven't learned enough skills for Pking.#
-Buying Items#
-Item Shop#
-Selling Items#
-Storage#
- is put on.#
- is taken off.#
+ ไม่มีอารมณ์คุยกับใครในตอนนี้#
+ผู้เล่นดังกล่าว หมดสติ/ตัดขาดการเชื่อมต่อ#
+เกิดข้อผิดพลาดกับการสั่งอัปเปหิ#
+คุณได้รับ %s (%d)#
+[Alt] + [=]: เพื่อแก้ไขช่องโหว่ของตัวอักษร#
+[F10]: เพื่อปรับขนาดหน้าต่างสนทนา และ [Alt] + [F10]: เพื่อเปิด/ปิด หน้าต่างสนทนา#
+วิธีการกระซิบ: พิมพ์ชื่อตัวละครทางซ้ายของหน้าต่างสนทนาและพิมพ์ข้อความทางขวา ปุ่ม Tab จะช่วยสลับช่องให้คุณได้อย่างรวดเร็ว#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: การแสดงความรู้สึก สามารถใช้ได้โดยกดปุ่ม Alt + (1~9) หรือ Ctrl + (-=\\)#
+วิธีพูดภายใน Party: เพิ่ม % ด้านหน้าของทุก ๆ ข้อความก่อนจะส่ง (ตัวอย่าง: \%ไง\)#
+คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถทำการแลกเปลี่ยนได้#
+คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถใช้การแสดงอารมณ์ได้#
+คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถนั่งได้#
+คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถสร้างห้องสนทนาได้#
+คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถเข้าร่วม Party ได้#
+คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถตะโกนได้#
+คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถท้าประลองกับผู้เล่นอื่นได้#
+Item ที่สามารถซื้อได้#
+ร้านค้า Item#
+Item ที่กำลังขาย#
+คลังเก็บของ#
+ ถูกสวมใส่#
+ ถูกถอดออก#
 To add names on the Whispering List#
 How to Take Screen Shots: Press [Print Screen] or [Scroll Lock]#
 Tip of the Day#
