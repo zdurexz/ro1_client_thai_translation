@@ -89,47 +89,47 @@ Party ถูกจัดตั้งขึ้นเรียบร้อยแล้ว#
 ส่งคำชวนกับ %s ให้เข้า Party ของคุณเรียบร้อยแล้ว#
 ส่วนตัว:#
 สาธารณะ:#
-Click ''Restart'' to go back to your save point or click ''Exit'' to select another character.#
-Please select a Deal Type.#
- requests a deal.#
- Party has sent you an invitation. Would you like to join?#
-Invalid Command#
-Leave party#
-Expel#
-Send Message#
-1:1 Chat#
-Information#
-Party Setup#
-Friend#
+กด ''กลับสู่ Save Point ล่าสุด'' เพื่อกลับไปยัง Save Point ล่าสุดหรือกด ''ยังไม่ทำอะไร'' เพื่อรอผู้เล่นอื่นมาช่วย#
+โปรดเลือกประเภทของการแลกเปลี่ยน#
+ ยื่นคำขอการแลกเปลี่ยนกับคุณ#
+ ได้ส่งคำชวนเข้า Party กับคุณ คุณต้องการเข้าร่วมหรือไม่?#
+คำสั่งที่ระบุผิดพลาด#
+ออกจาก Party#
+ขับไล่#
+ส่งข้อความ#
+การสนทนา 1:1#
+ข้อมูล#
+ตั้งค่า Party#
+เพื่อน#
 Party#
-Equipment#
-Status#
-Inventory#
-/organize ''Party Name'' To organize a party. Type /leave To leave a Party.#
-If you are the party master, you can invite someone into your party by right-clicking on a Character.#
-Consumables#
-Attack#
-Support#
-Entire#
-Weapons#
-Defense#
+อุปกรณ์สวมใส่#
+สถานะ#
+ช่องเก็บของ#
+/organize ''ชื่อ Party'' เพื่อจัดตั้ง Party พิมพ์ /leave เพื่อออกจาก Party#
+หากคุณเป็นหัวหน้า Party, คุณสามารถชวนผู้เล่นอื่นได้โดยคลิกขวาที่ตัวละครนั้น ๆ#
+ของกดใช้#
+โจมตี#
+สนับสนุน#
+ทั้งหมด#
+อาวุธ#
+ป้องกัน#
 Water#
 Earth#
 Fire#
 Wind#
-Please avoid buying 2 of the same items at one time.#
-Please change your desktop Color Depth to 16-bit when running Ragnarok in windowed mode.#
-Please wait...#
-Please wait...#
-Please wait...#
-Please wait...#
-Make a Room#
-Room Setup#
-Kick Character Out#
-Give Master Authority#
-View Information#
-Chat Room#
-Ppl#
+ไม่สามารถซื้ออุปกรณ์สวมใส่ชิ้นเดียวกันได้มากกว่า 1 ชิ้นต่อรอบ#
+โปรดเปลี่ยน Color Depth ของจอคุณเป็น 16-bit หากเล่นใน Windowed Mode#
+โปรดรอสักครู่...#
+โปรดรอสักครู่...#
+โปรดรอสักครู่...#
+โปรดรอสักครู่...#
+สร้างห้องสนทนา#
+ตั้งค่าห้องสนทนา#
+ขับไล่ผู้เล่น#
+ให้อำนาจหัวหน้าห้องสนทนา#
+ดูข้อมูล#
+ห้องสนทนา#
+ผู้เล่น#
 /sit: Sit command. If you are sitting, you will stand instead.#
 /stand: Stand command. If you are standing, you will sit instead.#
 /chat: Creates a Chat Room#
