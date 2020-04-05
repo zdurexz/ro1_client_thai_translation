@@ -130,24 +130,24 @@ Wind#
 ดูข้อมูล#
 ห้องสนทนา#
 ผู้เล่น#
-/sit: Sit command. If you are sitting, you will stand instead.#
-/stand: Stand command. If you are standing, you will sit instead.#
-/chat: Creates a Chat Room#
-/q: Leaves a Chat Room#
-/deal ''Character Name'' Requests a deal with a character#
-/organize ''Party Name'' Organizes a party#
-/leave: Leaves a party#
-/expel ''Character Name'' kicks a Character out of your party#
-[Alt] + [End]: Turns HP/SP Bar On or Off#
-[Alt] + [Home]: Turns Ground Cursor On or Off#
-[Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
-Congratulations! You are the MVP! Your reward item is #
+/sit: ทำให้ตัวละครนั่งลง แต่ถ้าคุณนั่งอยู่แล้วคุณจะลุกขึ้นแทน#
+/stand: ทำให้ตัวละครลุกขึ้น แต่ถ้าคุณยืนอยู่แล้วคุณจะนั่งลงแทน#
+/chat: สร้างห้องสนทนา#
+/q: ออกจากห้องสนทนา#
+/deal ''ชื่อตัวละคร'' ส่งคำขอการแลกเปลี่ยนกับตัวละครดังกล่าว#
+/organize ''ชื่อ Party'' เพื่อจัดตั้ง Party#
+/leave: เพื่อออกจาก Party#
+/expel ''ชื่อตัวละคร'' ขับไล่ตัวละครดังกล่าวออกจาก Party ของคุณ#
+[Alt] + [End]: เปิด/ปิด แถบแสดง HP/SP#
+[Alt] + [Home]: เปิด/ปิด การแสดงตำแหน่งช่องที่จะเคลื่อนที่ไป#
+[Insert]: ทำให้คุณนั่งหรือยืน (Hotkey ของการใช้ /sit และ /stand)#
+ยินดีด้วย! คุณคือ MVP! รางวัลคือ #
 !!#
-Congratulations! You are the MVP! Your reward EXP Points are #
+ยินดีด้วย! คุณคือ MVP! EXP ที่ได้รับคือ #
 !!#
-You are the MVP, but you can't take the reward because you are over your weight limit.#
-There is no such character name or the user is offline.#
- doesn't want to receive your messages.#
+คุณคือ MVP แต่คุณไม่สามารถรับรางวัลได้เนื่องจากแบก Item มากเกินไป#
+ไม่พบตัวละครดังกล่าว#
+ ไม่ต้องการรับการกระซิบของคุณ#
  is not in the mood to talk with anyone.#
 Killed/Disconnected User.#
 Kill has failed.#
