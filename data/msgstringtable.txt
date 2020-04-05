@@ -206,18 +206,18 @@ HP ไม่เพียงพอ#
 เกิดข้อผิดพลาดกับการใช้ Steal#
 การแลกเปลี่ยน#
 เกิดข้อผิดพลาดกับการใช้ Envenom#
-You cannot use this ID on this server.#
-Your Speed has increased.#
-Your Speed has decreased.#
-/memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
-Random Area#
-Select an Area to Warp#
-Skill Level is not high enough#
-There are no memorized locations (Memo Points).#
-You haven't learned Warp.#
-Saved location as a Memo Point for Warp Skill.#
-Cancel#
-There is a Delay after using a Skill.#
+ไม่สามารถใช้ ID ดังกล่าวได้ใน Server นี้#
+ความเร็วในการเคลื่อนที่ของคุณเพิ่มขึ้น#
+ความเร็วในการเคลื่อนที่ของคุณลดลง#
+/memo: เพื่อจดจำสถานที่เพื่อใช้ในการ Warp (ถ้าคุณเป็น Class Acolyte)#
+สุ่มสถานที่#
+เลือกสถานที่ที่ต้องการ Warp#
+เลเวล Skill ยังไม่สูงพอ#
+ไม่มีสถานที่ที่ได้จดจำไว้ (จุด Memo)#
+คุณยังไม่ได้เรียนรู้การ Warp#
+บันทึกสถานที่เป็นจุด Memo สำหรับ Skill Warp เรียบร้อยแล้ว#
+ยกเลิก#
+มี Delay หลังการใช้ Skill ดังกล่าว#
 You can't have this item because you will exceed the weight limit.#
 Out of the maximum capacity#
 Cart Items#
