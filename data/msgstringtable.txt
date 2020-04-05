@@ -170,42 +170,42 @@ Item ที่กำลังขาย#
 คลังเก็บของ#
  ถูกสวมใส่#
  ถูกถอดออก#
-To add names on the Whispering List#
-How to Take Screen Shots: Press [Print Screen] or [Scroll Lock]#
-Tip of the Day#
-^3850a0Did you know...?^709fed#
-Display at startup#
-/tip: Opens ''Tip of the Day''#
-There are %d Players Currently Connected.#
-(%s) has entered.#
-(%s) has left.#
-(%s) was kicked out.#
-%d ea.#
-%s: %d ea.#
+เพื่อเพิ่มชื่อไปยังรายการกระซิบ#
+วิธีการถ่ายภาพ: กดปุ่ม [Print Screen] หรือ [Scroll Lock]#
+เกร็ดน่ารู้ประจำวัน#
+^3850a0คุณรู้หรือไม่ว่า...?^709fed#
+แสดงเมื่อเริ่มเกม#
+/tip: เปิดหน้าต่าง ''เกร็ดน่ารู้ประจำวัน''#
+ขณะนี้มีผู้เล่น %d คน#
+(%s) ได้เข้ามา#
+(%s) ได้ออกไป#
+(%s) ได้ถูกขับไล่#
+%d ชิ้น#
+%s: %d ชิ้น#
 %s %s: %d#
-Available Items to sell#
-Shop Items#
-Unknown Area#
-Your Client language doesn't match the Server language.#
-Please move your equipment to the inventory. And close the equipment window.#
-This server provides English Text Characters Only.#
-This is not implemented yet.#
-No Whisper List.#
-: Whispering Blocked.#
-: Whispering Block has failed.#
-: Whispering Block has failed. Block List is full.#
-: Whispering accepted.#
-: Command has failed.#
-: Command has failed. Block List is full.#
-You cannot put a space at the beginning or end of a name.#
-Private#
-Public#
-Not Enough SP#
-Not Enough HP#
-Skill has failed.#
-Steal has failed.#
-Trade#
-Envenom skill has failed.#
+Item ที่สามารถขายได้#
+Item ที่สามารถซื้อได้#
+พื้นที่ที่ไม่รู้จัก#
+ภาษาของตัวเกมของคุณไม่ตรงกับ Server#
+โปรดย้ายอุปกรณ์สวมใส่ไปยังช่องเก็บของ และปิดหน้าต่างอุปกรณ์สวมใส่#
+Server นี้สนับสนุนตัวอักษร English เท่านั้น#
+การกระทำดังกล่าวยังไม่เปิดการใช้งาน#
+ไม่พบรายการกระซิบ#
+: การกระซิบถูกระงับ#
+: เกิดข้อผิดพลาดกับการระงับการกระซิบ#
+: เกิดข้อผิดพลาดกับการระงับการกระซิบ เนื่องจากรายการที่ระงับเต็มแล้ว#
+: อนุมัติการกระซิบ#
+: เกิดข้อผิดพลาดกับคำสั่งดังกล่าว#
+: เกิดข้อผิดพลาดกับคำสั่งดังกล่าว เนื่องจากรายการที่ระงับเต็มแล้ว#
+คุณไม่สามารถใส่ช่องว่างได้ที่ ตัวอักษรแรกหรือตัวสุดท้ายของชื่อ#
+ส่วนตัว#
+สาธารณะ#
+SP ไม่เพียงพอ#
+HP ไม่เพียงพอ#
+เกิดข้อผิดพลาดกับการใช้ Skill#
+เกิดข้อผิดพลาดกับการใช้ Steal#
+การแลกเปลี่ยน#
+เกิดข้อผิดพลาดกับการใช้ Envenom#
 You cannot use this ID on this server.#
 Your Speed has increased.#
 Your Speed has decreased.#
