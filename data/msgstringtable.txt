@@ -390,26 +390,26 @@ Guild ของคุณเต็มแล้ว#
 ให้คะแนนความประพฤติ ดี#
 ให้คะแนนความประพฤติ ไม่ดี#
 ส่งคำขอการแลกเปลี่ยนกับ (%s) แล้ว#
-Ask (%s) to join your party#
- Guild is asking you to agree to an Alliance with them. Do you accept?#
-This Guild is already your Ally.#
-You reject the offer#
-You accept the offer#
-They have too many Alliances.#
-You have too many Alliances.#
-Set this guild as an Alliance#
-Guild was successfully disbanded.#
-You have failed to disband the guild due to your incorrect SSN.#
-You have failed to disband the guild because there are guildsmen still present.#
-Set this guild as an Antagonist#
-Choose Hair Color#
-You don't have necessary item to create a Guild.#
-Monster Info#
-Name#
-Level#
+ส่งคำเชิญชวนเข้า Party ให้ (%s) แล้ว#
+ ได้ขอเป็นพันธมิตรกับ Guild ของคุณ ยืนยันหรือไม่?#
+Guild ดังกล่าวเป็นพันธมิตรกับ Guild ของคุณอยู่แล้ว#
+คุณปฎิเสธข้อเสนอ#
+คุณตอบรับข้อเสนอ#
+พวกเขามีพันธมิตรมากเกินไป#
+คุณมีพันธมิตรมากเกินไป#
+ตั้งให้ Guild ดังกล่าวเป็นพันธมิตร#
+ยุบ Guild เรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการยุบ Guild เนื่องจากเลขประจำตัวประชาชนผิดพลาด#
+เกิดข้อผิดพลาดในการยุบ Guild เนื่องจากยังมีสมาชิกเหลืออยู่#
+ตั้งให้ Guild ดังกล่าวเป็นศัตรู#
+เลือกสีผม#
+ไม่มี Item ในการจัดตั้ง Guild#
+ข้อมูล Monster#
+ชื่อ#
+เลเวล#
 HP#
-Size#
-Type#
+ขนาด#
+ประเภท#
 MDEF#
 Attribute#
 Neutral#
@@ -422,17 +422,17 @@ Holy#
 Shadow#
 Ghost#
 Undead#
-You can't create items yet.#
-Item List you can craft#
- Create#
+ยังไม่สามารถสร้าง Item ได้#
+รายการ Item ที่สามารถสร้างได้#
+ สร้าง#
 's materials#
- item creation failed.#
- item created successfully.#
- item creation failed.#
- item created successfully.#
-You are not the required lvl.#
-Too high lvl for this job.#
-Not the suitable job for this type of work.#
+ เกิดข้อผิดพลาดในการสร้าง Item#
+ การสร้าง Item เสร็จเรียบร้อยแล้ว#
+ เกิดข้อผิดพลาดในการสร้าง Item#
+ การสร้าง Item เสร็จเรียบร้อยแล้ว#
+เลเวลยังไม่ถึงเลเวลที่กำหนด#
+เลเวลสูงเกินไปสำหรับงานนี้#
+งานดังกล่าวไม่เหมาะสมกับอาชีพ#
 Record a message in the Talkie Box#
 Please type a message for the Talkie Box#
 Send to Guild#
