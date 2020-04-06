@@ -375,21 +375,21 @@ ID ดังกล่าวถูกลบไปแล้ว#
 จัดตั้ง Guild เรียบร้อยแล้ว#
 คุณอยู่ใน Guild อยู่แล้ว#
 มีคนใช้ชื่อ Guild ดังกล่าวไปแล้ว#
- Guild has sent you an invitation. Would you like to join this Guild?#
-He/She is already in a Guild.#
-Offer Rejected#
-Offer Accepted#
-Your Guild is Full.#
-Send (%s) a Guild invitation#
-You haven't learned enough skills for aligning.#
-Aligning completed.#
-You already spent your point for today.#
-Hasn't been a month yet since you aligned this person.#
-Remember, Spamming isn't nice.#
-Please refrain from ill-mannered conduct, thank you.#
-Align with a Good Point#
-Align with a Bad Point#
-Request a deal with (%s)#
+ ได้ส่งคำเชิญชวนให้เข้าร่วม Guild คุณต้องการเข้าร่วม Guild ดังกล่าวหรือไม่?#
+เขา/เธอ มี Guild อยู่แล้ว#
+ข้อเสนอถูกปฎิเสธ#
+ข้อเสนอถูกยอมรับ#
+Guild ของคุณเต็มแล้ว#
+ส่งคำเชิญชวนเข้า Guild ให้ (%s) เรียบร้อยแล้ว#
+คุณยังไม่มี Skill สำหรับการให้คะแนนความประพฤติ#
+การให้คะแนนความประพฤติเรียบร้อยแล้ว#
+วันนี้คุณใช้แต้มไปหมดแล้ว#
+ต้องรออย่างน้อย 1 เดือนเพื่อให้คะแนนความประพฤติผู้เล่นเดิมได้อีกครั้ง#
+โปรดจำไว้ว่า การกดซ้ำ ๆ มันไม่ได้ส่งผลดีอะไร#
+โปรดใช้ถ้อยคำที่สุภาพ ขอบคุณ#
+ให้คะแนนความประพฤติ ดี#
+ให้คะแนนความประพฤติ ไม่ดี#
+ส่งคำขอการแลกเปลี่ยนกับ (%s) แล้ว#
 Ask (%s) to join your party#
  Guild is asking you to agree to an Alliance with them. Do you accept?#
 This Guild is already your Ally.#
