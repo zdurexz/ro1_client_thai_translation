@@ -218,27 +218,27 @@ HP ไม่เพียงพอ#
 บันทึกสถานที่เป็นจุด Memo สำหรับ Skill Warp เรียบร้อยแล้ว#
 ยกเลิก#
 มี Delay หลังการใช้ Skill ดังกล่าว#
-You can't have this item because you will exceed the weight limit.#
-Out of the maximum capacity#
-Cart Items#
-Take off Cart#
-Opening a stall#
-Please Name your Shop.#
-My Shop#
-Merchant Shop#
-Buying Items#
-%s Purchase Failed %s#
-Out of Stock#
-%s %d sold.#
-Available Items for Vending#
-Skill has failed because you do not have enough zeny.#
-Select a Target.#
-/pk on: Turns PK On. /pk off: Turns PK Off.#
-Shop#
-Cart Items [Alt+W]#
-Basic Information#
-The skill cannot be used with this weapon.#
-Buying %s has been failed. Out of Stock. Current Stock %d.#
+ไม่สามารถเคลื่อนย้าย Item ดังกล่าวได้เนื่องจากคุณแบก Item มากเกินไป#
+จำนวนชิ้นเกินกว่ากำหนดที่สามารถแบกได้#
+Item ภายในรถเข็น#
+นำรถเข็นออก#
+เปิดร้านค้าแผงลอย#
+โปรดใส่ชื่อร้านค้าของคุณ#
+ร้านค้าของคุณ#
+ร้านค้าของผู้ค้า#
+Item ที่กำลังจะซื้อ#
+%s เกิดข้อผิดพลาดกับการซื้อ %s#
+ของหมดแล้ว#
+%s %d ถูกขายออกไปแล้ว#
+Item ที่สามารถวางขายได้#
+มี Zeny ไม่เพียงพอสำหรับการใช้ Skill ดังกล่าว#
+เลือกเป้าหมาย#
+/pk on: เปิดการ PK /pk off: ปิดการ PK#
+ร้านค้า#
+Item ภายในรถเข็น [Alt+W]#
+ข้อมูลเบื้องต้น#
+อาวุธที่ใช้อยู่ไม่สามารถใช้กับ Skill ดังกล่าวได้#
+เกิดข้อผิดพลาดกับการซื้อ %s เนื่องจากของหมดแล้ว จำนวนของที่เหลืออยู่ %d#
 You've been disconnected due to a time gap between you and the server.#
 Please equip the proper ammunition first.#
 You can't attack or use skills because you've exceeded the Weight Limit.#
