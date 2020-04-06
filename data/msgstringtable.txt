@@ -348,33 +348,33 @@ Guild Skill#
 รายการกระซิบ#
 เปิดหน้าต่าง การกระซิบ#
 วิธีเปิดหน้าต่าง การกระซิบ: กดปุ่ม [Alt] + [H]#
-Open Whispering List Automatically#
-Delete#
-Close since next#
-Last Log-in Time#
-Last Log-in IP#
-Friend Setup#
-Are you sure that you want to delete?#
-Are you sure that you want to leave?#
-Register as a Friend#
-Open 1:1 Chat between Friends#
-Open 1:1 Chat#
-Open 1:1 Chat between Strangers#
-Alarm when you recieve a 1:1 Chat#
-Are you sure that you want to expel?#
-%s has withdrawn from the guild.#
-Secession Reason: %s#
-You have failed to disband the guild.#
-Disband Reason: %s#
-This ID has been removed.#
-Price: #
-%s has been expelled from our guild.#
-Expulsion Reason: %s#
-You can't put this item on.#
-You can't modify Party Setup.#
-Guild has been Created.#
-You are already in a Guild.#
-That Guild Name already exists.#
+เปิดหน้าต่าง รายการการกระซิบ อัตโนมัติ#
+ลบ#
+ปิดจนกระทั่ง#
+เข้าเล่นล่าสุด#
+IP ที่เข้าเล่นล่าสุด#
+การตั้งค่าเพื่อน#
+ต้องการลบจริง ๆ หรือไม่?#
+ต้องการออกจริง ๆ หรือไม่?#
+ขอเป็นเพื่อน#
+เปิดหน้าต่างการสนทนา 1:1 กับเพื่อน#
+เปิดหน้าต่างการสนทนา 1:1#
+เปิดหน้าต่างการสนทนา 1:1 กับคนที่ไม่รู้จัก#
+แจ้งเตือนเมื่อได้รับการสนทนา 1:1#
+ต้องการขับไล่จริง ๆ หรือไม่?#
+%s ได้ขอถอนตัวออกจาก Guild#
+เหตุผลของการถอนตัว: %s#
+เกิดข้อผิดพลาดในการยุบ Guild#
+เหตุผลของการยุบ Guild: %s#
+ID ดังกล่าวถูกลบไปแล้ว#
+ราคา: #
+%s ถูกขับไล่ออกจาก Guild#
+เหตุผลของการถูกขับไล่: %s#
+ไม่สามารถสวมใส่ Item ดังกล่าวได้#
+คุณไม่สามารถเปลี่ยนแปลงการตั้งค่า Party ได้#
+จัดตั้ง Guild เรียบร้อยแล้ว#
+คุณอยู่ใน Guild อยู่แล้ว#
+มีคนใช้ชื่อ Guild ดังกล่าวไปแล้ว#
  Guild has sent you an invitation. Would you like to join this Guild?#
 He/She is already in a Guild.#
 Offer Rejected#
