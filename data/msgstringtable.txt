@@ -239,44 +239,44 @@ Item ภายในรถเข็น [Alt+W]#
 ข้อมูลเบื้องต้น#
 อาวุธที่ใช้อยู่ไม่สามารถใช้กับ Skill ดังกล่าวได้#
 เกิดข้อผิดพลาดกับการซื้อ %s เนื่องจากของหมดแล้ว จำนวนของที่เหลืออยู่ %d#
-You've been disconnected due to a time gap between you and the server.#
-Please equip the proper ammunition first.#
-You can't attack or use skills because you've exceeded the Weight Limit.#
-You can't use skills because you've exceeded the Weight Limit.#
-Ammunition has been equipped.#
-Red Gemstone required.#
-Blue Gemstone required.#
+คุณถูกตัดการเชื่อมต่อจาก Server เนื่องจากเกิดช่องโหว่ของเวลาระหว่างคุณกับ Server#
+โปรดสวมใส่ชนิดกระสุนที่ถูกต้อง#
+ไม่สามารถโจมตีหรือใช้ Skill ได้เนื่องจากคุณแบก Item มากเกินไป#
+ไม่สามารถใช้ Skill ได้เนื่องจากคุณแบก Item มากเกินไป#
+สวมใส่กระสุนเรียบร้อยแล้ว#
+ต้องการ Red Gemstone#
+ต้องการ Blue Gemstone#
 Strength#
 Agility#
 Vitality#
 Intelligence#
 Dexterity#
 Luck#
-Hit Point#
-Defence Rate#
-Accuracy Rate#
-Critical Attack#
-Assigned Guild#
-Status Points to allocate#
-Magical Attack#
-Magical Defense#
-Flee Rate#
-Attack Speed#
-Server is jammed due to over population. Please try again shortly.#
-Option#
-Account ID blocked by the Game Master Team.#
-Incorrect User ID or Password. Please try again.#
-Choose Hairstyle#
-Hit Point#
-Defence Rate#
-Attack Snap On#
-Attack Snap Off#
-Skill Snap On#
-Skill Snap Off#
-/snap: Turns snap On | Off for fights, /skillsnap: Turns snap On | Off for skills. /itemsnap: Turns snap On | Off for items on the grounds.#
-Item Snap On#
-Item Snap Off#
-Snap#
+พลังชีวิต#
+อัตราการป้องกัน#
+อัตราความแม่นยำ#
+การโจมตี Critical#
+จัดตั้ง Guild#
+แต้ม Status Points ที่สามารถใช้ได้#
+พลังโจมตีเวทย์#
+พลังป้องกันเวทย์#
+อัตราการหลบหลีก#
+ความเร็วการโจมตี#
+Server มีผู้ใช้งานมากเกินไป โปรดรอสักครู่แล้วลองใหม่#
+การตั้งค่า#
+ID ถูกระงับโดย GM#
+ID หรือ Password ที่ระบุผิดพลาด โปรดลองใหม่อีกครั้ง#
+เลือกทรงผม#
+พลังชีวิต#
+อัตราการป้องกัน#
+เปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อโจมตีปกติ#
+ปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อโจมตีปกติ#
+เปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อใช้ Skill#
+ปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อใช้ Skill#
+/snap: เปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ สำหรับการต่อสู้, /skillsnap: เปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ สำหรับการใช้ Skill /itemsnap: เปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ สำหรับการเก็บของบนพื้น#
+เปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติสำหรับการเก็บของบนพื้น#
+ปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติสำหรับการเก็บของบนพื้น#
+ตัวช่วยล๊อคเป้าหมายอัตโนมัติ#
 You cannot carry more than 30,000 of one kind of item.#
 You cannot delete a Character with a level greater than 30. If you want to delete the character please contact a Game Master.#
 You cannot use an NPC shop while in a trade.#
