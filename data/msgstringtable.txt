@@ -433,21 +433,21 @@ Undead#
 เลเวลยังไม่ถึงเลเวลที่กำหนด#
 เลเวลสูงเกินไปสำหรับงานนี้#
 งานดังกล่าวไม่เหมาะสมกับอาชีพ#
-Record a message in the Talkie Box#
-Please type a message for the Talkie Box#
-Send to Guild#
-You didn't pay for this ID. Would you like to pay for it now?#
-Server is jammed due to overpopulation. Please try again after few minutes.#
-Server still recognizes your last log-in. Please try again after a few minutes.#
-Release Falcon#
-Dismount#
-Small#
-Med#
-Big#
+ฝากข้อความภายในกล่องพูดได้#
+โปรดใส่ข้อความสำหรับกล่องพูดได้#
+ส่งให้ Guild#
+ยังไม่มีการจ่ายเงินสำหรับ ID นี้ ต้องการจ่ายตอนนี้เลยหรือไม่?#
+Server มีผู้ใช้งานมากเกินไป โปรดลองใหม่ในภายหลัง#
+Server ยังไม่ได้ตัดการเชื่อมต่อครั้งล่าสุดของคุณ โปรดรอสักพักแล้วลองใหม่#
+ปล่อย Falcon#
+ลงจากพาหนะ#
+เล็ก#
+กลาง#
+ใหญ่#
 Double#
 Triple#
 Quadruple#
-You are prohibited to log in until %s.#
+คุณถูกจำกัดการเชื่อมต่อจนถึง %s#
 's #
 's Fire #
 's Ice #
@@ -455,21 +455,21 @@ You are prohibited to log in until %s.#
 's Earth #
 211.239.161.246#
 6900#
-http://www.ragnarok.co.kr#
-Kill %s#
+https://discord.gg/TK6rVtY#
+กำจัด %s#
 Very Strong#
 Very Very Strong#
 Very Very Very Strong#
-The Reason of Expulsion#
-Attack Speed is up.#
-Attack Speed is down.#
-Weapon Damage is improved.#
-Weapon Damage is reduced.#
-Cast Delay is reduced.#
-Cast Delay has returned to normal.#
-Weapon is temporarily enchanted with Poison.#
-Weapon is temporarily enchanted with an elemental property.#
-Weapon has changed back to normal.#
+เหตุผลของการขับไล่#
+ความเร็วการโจมตีเพิ่มขึ้น#
+ความเร็วการโจมตีลดลง#
+พลังโจมตีของอาวุธเพิ่มขึ้น#
+พลังโจมตีของอาวุธลดลง#
+Delay หลังร่ายลดน้อยลง#
+Delay หลังร่ายกลับสู่ปกติ#
+เคลือบธาตุ Poison ใส่อาวุธชั่วคราว#
+เคลือบธาตุ ใส่อาวุธชั่วคราว#
+ธาตุของอาวุธกลับสู่ปกติ#
 Armor has been enchanted with the Holy Ghost.#
 Armor has changed back to normal.#
 Barrier Formed.#
