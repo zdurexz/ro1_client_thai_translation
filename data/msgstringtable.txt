@@ -293,61 +293,61 @@ Skill Point: %d#
 การแบ่ง EXP#
 การแบ่ง Item#
 เฉพาะหัวหน้า Party ที่สามารถเปลี่ยนการตั้งค่าได้#
-ปรับการใช้จำนวน Item#
+เปิด/ปิด การใช้จำนวน Item#
 ตัวละครจะถูกลบภายใน ^ff0000%d^000000 วินาที กดปุ่ม Cancel เพื่อยกเลิก#
 ไม่สามารถแลกเปลี่ยน Item ได้มากกว่า 10 ชนิดต่อรอบ#
 คุณมีอายุน้อยกว่ากำหนด#
 โปรดใส่ Password สำหรับการลบ#
-E-mail Address (Case Sensitive).#
-Character Deletion has failed because you have entered an incorrect e-mail address.#
-Enter Second Serial Cord of your Social Security number.#
-Character Deletion has failed because you have entered an incorrect SSN.#
-You can't sell more than 15 types of Items at one time.#
-The age limit from commandment tables cannot connect to this server.#
-HP/SP will not be restored when your carried weight is over 50% of the Weight Limit.#
-You can't use Skills or Attack while your carried weight is over 90% of your Weight Limit.#
-Your HP/SP are now being restored naturally.#
-Attack and Skills are now available.#
-Your Game's Exe File is not the latest version.#
-Items are sold out.#
-Save Chat as Text File#
-/savechat: Save a Chat Log#
-Register#
-Reject Whispering#
-Allow Whispering#
-Shows ''Miss''#
-Shows ''Miss''#
-Camera Zooming On#
-Camera Zooming Off#
-/camera: Camera Zooming On or Off. /miss: Toggle ''Miss'' display#
-View Skill Info#
-Change Skill#
-Sprite Resolution#
-Texture Resolution#
-Arrange Detail#
-You got %s Zeny#
-Guild Name#
-Guild lvl#
-ClanMaster Name#
-Number of Members#
-Avg.lvl of Guildsmen#
-Castles Owned#
-Tendency#
+E-mail (ตัวอักษรเล็กตัวอักษรใหญ่มีผล)#
+เกิดข้อผิดพลาดกับการลบตัวละคร เนื่องจากคุณระบุ e-mail ไม่ถูกต้อง#
+ระบุเลขหมายสองตัวของเลขประจำตัวประชาชนของคุณ#
+เกิดข้อผิดพลาดกับการลบตัวละคร เนื่องจากคุณระบุเลขประจำตัวประชาชนไม่ถูกต้อง#
+ไม่สามารถขายของได้เกิน 15 อย่างภายในครั้งเดียว#
+ตารางการจำกัดอายุไม่สามารถเชื่อมต่อกับ Server ดังกล่าวได้#
+HP/SP จะไม่ฟื้นฟูอีกต่อไปหากคุณแบก Item มากกว่า 50% ของขีดจำกัด#
+ไม่สามารถใช้ Skill หรือโจมตีได้อีกต่อไป หากคุณแบก Item มากกว่า 90% ของขีดจำกัด#
+HP/SP กลับมาฟื้นฟูตามปกติแล้ว#
+สามารถโจมตีและใช้ Skill ได้ตามปกติแล้ว#
+ตัว EXE เกมของคุณไม่ใช่ Version ล่าสุด#
+Item ถูกขายออกไปหมดเรียบร้อยแล้ว#
+บันทึกการสนทนาเป็น Text File#
+/savechat: บันทึกการสนทนา#
+สมัครสมาชิก#
+ระงับการกระซิบ#
+อนุมัติการกระซิบ#
+แสดง ''Miss''#
+แสดง ''Miss''#
+เปิดใช้งานการซูมกล้อง#
+ปิดใช้งานการซูมกล้อง#
+/camera: เปิด/ปิด การใช้งานการซูมกล้อง /miss: เปิด/ปิด การแสดง ''Miss''#
+ดูข้อมูล Skill#
+เปลี่ยน Skill#
+ขนาดภาพกราฟฟิคตัวละคร#
+ขนาดภาพกราฟฟิค#
+การจัดการรายละเอียด#
+ได้รับ %s Zeny#
+ชื่อ Guild#
+เลเวล Guild#
+ชื่อหัวหน้า Clan#
+จำนวนสมาชิก#
+เลเวลเฉลี่ยภายใน Guild#
+จำนวนประสาทที่ยึดครอง#
+จุดประสงค์#
 EXP#
-Emblem#
-Tax Point#
-Alliances#
-Antagonists#
-Guild Info#
-Guildsmen Info#
-Position#
+ตราสัญลักษณ์#
+ภาษี#
+พันธมิตร#
+อักษะ#
+ข้อมูล Guild#
+ข้อมูลสมาชิก Guild#
+ตำแหน่ง#
 Guild Skill#
-Expel History#
-Guild Notice#
-Entire Guild List#
-Whispering List#
-Open Whispering Window#
-How to Open Whispering List: Press [Alt] + [H]#
+ประวัติการขับไล่#
+ประกาศจาก Guild#
+รายการ Guild#
+รายการกระซิบ#
+เปิดหน้าต่าง การกระซิบ#
+วิธีเปิดหน้าต่าง การกระซิบ: กดปุ่ม [Alt] + [H]#
 Open Whispering List Automatically#
 Delete#
 Close since next#
