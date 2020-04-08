@@ -634,28 +634,28 @@ ID ของคุณถูกระงับ#
 หยุดการใช้งาน Magnificat เรียบร้อยแล้ว#
 Luck เพิ่มขึ้น#
 หยุดการใช้งาน Gloria เรียบร้อยแล้ว#
-You will received double damage from all attacking opponents.#
-Lex Eterna canceled.#
-Attack Speed increased.#
-Attack Speed reduced.#
-You've just been on a Peco Peco.#
-You've just got off of a Peco Peco.#
-You've just carried a Falcon with.#
-You've just released a Falcon.#
-Play Dead initiated.#
-Play Dead canceled.#
-STR improved.#
-STR turned back to normal.#
-Energy Coat initiated.#
-Energy Coat canceled.#
-Armor destroyed.#
-Weapon has just been released from destroyed status.#
-Weapon destroyed.#
-Weapon has just been released from destroyed status.#
-Invisibility initiated.#
-Invisibility canceled.#
-Sorry. It is delayed due to the process of payment. Please re-connect in a minute.#
-You must unequip ammunition first.#
+คุณจะได้รับ Damage 2 เท่าจากศัตรู#
+หยุดการใช้งาน Lex Eterna เรียบร้อยแล้ว#
+ความเร็วในการโจมตีเพิ่มขึ้น#
+ความเร็วในการโจมตีลดลง#
+คุณขึ้นขี่ Peco Peco#
+คุณลงจาก Peco Peco เรียบร้อยแล้ว#
+จากนี้จะมี Falcon เดินทางไปกับคุณ#
+คุณปลดปล่อย Falcon ออกไปเรียบร้อยแล้ว#
+เริ่มการใช้งาน Play Dead#
+หยุดการใช้งาน Play Dead เรียบร้อยแล้ว#
+STR เพิ่มขึ้น#
+STR กลับสู่ปกติ#
+เริ่มการใช้งาน Energy Coat#
+หยุดการใช้งาน Energy Coat เรียบร้อยแล้ว#
+ชุดเกราะถูกทำลาย#
+อาวุธถูกถอดออกเนื่องจากถูกทำลาย#
+อาวุธถูกทำลาย#
+อาวุธถูกถอดออกเนื่องจากถูกทำลาย#
+เริ่มการใช้งาน Invisibility#
+หยุดการใช้งาน Invisibility เรียบร้อยแล้ว#
+ขออภัย มีระยะเวลาเล็กน้อยในขั้นตอนการชำระ โปรดรอสักพักแล้วเชื่อมต่อเข้าเกมใหม่#
+โปรดนำกระสุนออกก่อน#
 Arrow List#
 Cart List#
 You must have a Pushcart.#
