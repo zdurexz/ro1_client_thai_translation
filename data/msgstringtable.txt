@@ -155,7 +155,7 @@ Wind#
 [Alt] + [=]: เพื่อแก้ไขช่องโหว่ของตัวอักษร#
 [F10]: เพื่อปรับขนาดหน้าต่างสนทนา และ [Alt] + [F10]: เพื่อเปิด/ปิด หน้าต่างสนทนา#
 วิธีการกระซิบ: พิมพ์ชื่อตัวละครทางซ้ายของหน้าต่างสนทนาและพิมพ์ข้อความทางขวา ปุ่ม Tab จะช่วยสลับช่องให้คุณได้อย่างรวดเร็ว#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: การแสดงความรู้สึก สามารถใช้ได้โดยกดปุ่ม Alt + (1~9) หรือ Ctrl + (-=\\)#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: การแสดงความรู้สึก สามารถใช้ได้โดยกดปุ่ม Alt + (1~9) หรือ Ctrl + (-=\\)#
 วิธีพูดภายใน Party: เพิ่ม % ด้านหน้าของทุก ๆ ข้อความก่อนจะส่ง (ตัวอย่าง: \%ไง\)#
 คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถทำการแลกเปลี่ยนได้#
 คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถใช้การแสดงอารมณ์ได้#
@@ -470,77 +470,77 @@ Delay หลังร่ายกลับสู่ปกติ#
 เคลือบธาตุ Poison ใส่อาวุธชั่วคราว#
 เคลือบธาตุ ใส่อาวุธชั่วคราว#
 ธาตุของอาวุธกลับสู่ปกติ#
-Armor has been enchanted with the Holy Ghost.#
-Armor has changed back to normal.#
-Barrier Formed.#
-Barrier Canceled.#
-Weapon Perfection Initiated.#
-Weapon perfection Canceled.#
-Power-Thrust Initiated.#
-Power-Thrust Canceled.#
-Maximize-Power Initiated.#
-Maximize-Power Canceled.#
-[New Server]#
-(%d players)#
-(On the maintenance)#
-Guild member %s has connected.#
-Guild member %s has disconnected.#
-You got %d Base EXP.#
-You got %d Job EXP.#
-You left the guild.#
-You have been expelled from the Guild.#
-Item Appraisal has completed successfully.#
-Item appraisal has failed.#
-Compounding has completed successfully.#
-Compounding has failed.#
-Antagonist has been set.#
-Guild has too many Antagonists.#
-Already set as an Antagonist#
-Upgrade has been completed successfully.#
-Upgrade has failed.#
-Unavailable Area to Teleport#
-Unable to memorize this place as Warp Point#
-Please wait 10 seconds before trying to log out.#
-Position#
-Job#
-Note#
-Devotion#
-Tax Point#
-Leave Guild#
-Expel#
-Rank#
-Position Title#
-Invitation#
-Punish#
-Tax %#
-Title#
-For#
-Guild Name#
-Guild lvl#
-Number of Members#
-Ranking#
-Item Appraisal#
-Insert Card#
-Please enter the reason of Secession.#
-Please enter the reason of Expulsion.#
-Please close Shop.#
+เคลือบธาตุ Holy ใส่ชุดเกราะชั่วคราว#
+ธาตุของชุดเกราะกลับสู่ปกติ#
+เริ่มการใช้งาน Barrier#
+หยุดการใช้งาน Barrier เรียบร้อยแล้ว#
+เริ่มการใช้งาน Weapon Perfection#
+หยุดการใช้งาน Weapon perfection เรียบร้อยแล้ว#
+เริ่มการใช้งาน Power-Thrust#
+หยุดการใช้งาน Power-Thrust เรียบร้อยแล้ว#
+เริ่มการใช้งาน Maximize-Power#
+หยุดการใช้งาน Maximize-Power เรียบร้อยแล้ว#
+[Server ใหม่]#
+(%d คน)#
+(กำลังปิดปรับปรุง)#
+สมาชิก Guild %s ได้เข้าสู่เกม#
+สมาชิก Guild %s ได้ตัดการเชื่อมต่อออกจากเกม#
+ได้รับ %d EXP#
+ได้รับ %d Job EXP#
+ออกจาก Guild เรียบร้อยแล้ว#
+คุณถูกขับไล่ออกจาก Guild#
+การตรวจสอบ Item เสร็จเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดกับการตรวจสอบ Item#
+การผนึกเสร็จเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดกับการผนึก#
+กำหนดให้เป็นศัตรูเรียบร้อยแล้ว#
+Guild มีศัตรูมากเกินไป#
+กำหนด Guild ดังกล่าวให้เป็นศัตรูอยู่แล้ว#
+การ Upgrade เสร็จเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดกับการ Upgrade#
+พื้นที่นี้ไม่สามารถ Teleport ได้#
+พื้นที่นี้ไม่สามารถ Memo ให้เป็น Warp Point ได้#
+โปรดรอ 10 วินาทีก่อนที่จะออกจากเกม#
+ตำแหน่ง#
+อาชีพ#
+บันทึก#
+การมีส่วนร่วม#
+ภาษี#
+ออกจาก Guild#
+ขับไล่#
+ระดับ#
+ตำแหน่ง#
+เชิญชวน#
+ขับไล่#
+ภาษี %#
+ยศ#
+สำหรับ#
+ชื่อ Guild#
+เลเวล Guild#
+จำนวนสมาชิก#
+ระดับ#
+การตรวจสอบ Item#
+สวมใส่ Card#
+โปรดระบุเหตุผลของการถอนตัว#
+โปรดระบุเหตุผลของการขับไล่#
+โปรดปิดหน้าต่างร้านค้าก่อน#
 Skill #
-Item Name#
-https://pay.ragnarok.co.kr (Billing Web)#
-IP capacity of this Internet Cafe is full. Would you like to pay the personal base?#
-You are out of available paid playing time. Game will be shut down automatically.#
-Name is too long. Please enter a name no greater than 23 english characters.#
-Character will be deleted in %d seconds.#
-You paid with the personal regular base.#
-You paid with the personal regular base. Available time is xx hrs xx mins xx secs.#
-You are free!#
-You are free for the test, your available time is xx hrs xx mins xx secs.#
-You paid with the Internet Cafe regular base. Available time is xx hrs xx mins xx secs.#
-You paid with the Time Limit for Internet Cafe. Available time is xx hrs xx mins xx secs.#
-You are free for the test of Internet Cafe version .#
-You are free for the Internet Cafe version.#
-You paid on the Time Limit Website.#
-Emotion icon List#
+ชื่อ Item#
+https://discord.gg/TK6rVtY (สอบถาม)#
+มีผู้เล่นภายในร้าน Internet Cafe เดียวกันมากเกินไป ต้องการจ่ายค่าชั่วโมงเองหรือไม่?#
+ชั่วโมงในการเล่นหมดแล้ว เกมจะปิดตัวลงอัตโนมัติ#
+ชื่อยาวเกินไป ห้ามเกิน 23 ตัวอักษร#
+ตัวละครจะถูกลบภายใน %d วินาที#
+จ่ายค่าชั่วโมงรายบุคคลเรียบร้อยแล้ว#
+จ่ายค่าชั่วโมงรายบุคคลเรียบร้อยแล้ว เวลาคงเหลือ xx ชั่วโมง xx นาที xx วินาที#
+คุณสามารถเล่นได้โดยที่ไม่ต้องจ่ายค่าชั่วโมง!#
+คุณสามารถเล่นได้โดยที่ไม่ต้องจ่ายค่าชั่วโมงสำหรับการทดสอบเท่านั้น เวลาคงเหลือ xx ชั่วโมง xx นาที xx วินาที#
+จ่ายค่าชั่วโมงแบบ Internet Cafe เรียบร้อยแล้ว เวลาคงเหลือ xx ชั่วโมง xx นาที xx วินาที#
+จ่ายค่าชั่วโมงแบบ Internet Cafe เรียบร้อยแล้ว เวลาคงเหลือ xx ชั่วโมง xx นาที xx วินาที#
+คุณสามารถเล่นได้โดยที่ไม่ต้องจ่ายค่าชั่วโมงในแบบ Internet Cafe เพื่อการทดสอบเท่านั้น#
+คุณสามารถเล่นได้โดยที่ไม่ต้องจ่ายค่าชั่วโมงในแบบ Internet Cafe#
+คุณจ่ายค่าชั่วโมงบน Website เรียบร้อยแล้ว#
+รายการ Icon แสดงอารมณ์#
 /emo#
 /!#
 /?#
@@ -572,34 +572,34 @@ Emotion icon List#
 /kis2#
 /pif#
 /ok#
-Shortcut List#
-Your account is suspended.#
-Your connection is terminated due to change in the billing policy. Please connect again.#
-Your connection is terminated because your IP doesn't match the authorized IP from the account server.#
-Your connection is terminated to prevent charging from your account's play time.#
-You have been forced to disconnect by the Game Master Team.#
-You can't use this Skill because you are over your Weight Limit.#
-Nameless#
-Congratulations! %s ranking has gone up to %d.#
-What a pity! %s ranking has gone down to %d.#
-Pet Info#
-Hunger#
-Intimacy#
-Please avoid opening a chatroom while vending.#
-ea#
-You have knocked down %s.#
-You have been knocked down by %s.#
-Feed - "%s" is not available.#
-Feed Pet#
-Performance#
-Return to Egg Shell#
-Unequip Accessory#
-Check Pet Status#
-Accessory#
-Equipped#
-Pet List#
-Unequipped#
-Are you sure that you want to feed your pet?#
+รายการคีย์ลัด#
+ID ของคุณถูกระงับ#
+การเชื่อมต่อของคุณถูกตัดขาดเนื่องจากมีการชำระเงิน โปรดเชื่อมต่อใหม่อีกครั้ง#
+การเชื่อมต่อของคุณถูกตัดขาดเนื่องจาก IP ของคุณไม่ตรงกับ IP ที่อยู่ใน Server#
+การเชื่อมต่อของคุณถูกตัดขาดเนื่องจากคุณอยู่นิ่งนานเกินไป เพื่อประหยัดค่าชั่วโมงการเล่น#
+การเชื่อมต่อของคุณถูกตัดขาดโดย GM#
+ไม่สามารถใช้ Skill ได้เนื่องจากคุณแบก Item มากเกินไป#
+ไม่ระบุชื่อ#
+ยินดีด้วย! %s ระดับขึ้นไปเป็น %d#
+หว๊า! %s ระดับลดลงเหลือ %d#
+ข้อมูล Pet#
+ความหิว#
+ความสนิทสนม#
+โปรดเลี่ยงการใช้ห้องสนทนาขณะเปิดร้านค้าแผงลอยอยู่#
+ชิ้น#
+คุณทำให้ %s หมดสติ#
+คุณหมดสติโดย %s#
+ไม่สามารถให้อาหาร - "%s" ได้#
+ให้อาหาร Pet#
+ประสิทธิภาพ#
+นำกลับเข้าไข่#
+ถอดเครื่องประดับ#
+ดูสถานะ Pet#
+เครื่องประดับ#
+สวมใส่แล้ว#
+รายการ Pet#
+ยังไม่ได้สวมใส่#
+ต้องการให้อาหาร Pet หรือไม่?#
 Only the numbers (0~9) are available.#
 You cannot sell unidentified items.#
 Item at 0 Zeny exists. Do you wish to continue?#
