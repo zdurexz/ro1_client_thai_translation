@@ -600,40 +600,40 @@ ID ของคุณถูกระงับ#
 รายการ Pet#
 ยังไม่ได้สวมใส่#
 ต้องการให้อาหาร Pet หรือไม่?#
-Only the numbers (0~9) are available.#
-You cannot sell unidentified items.#
-Item at 0 Zeny exists. Do you wish to continue?#
-[New Emotion List]#
-N/A#
-N/A#
-Character in the same account already joined.#
-(%d ppl) - over the age 18#
-Provoke initiated.#
-Provoke canceled.#
-Endure initiated.#
-Endure canceled.#
-Improve Concentration initiated.#
-Improve Concentration canceled.#
-Hiding Initiated.#
-Hiding Canceled.#
-Cloaking initiated.#
-Cloaking canceled.#
-Poison React initiated.#
-Poison React canceled.#
-Speed reduced.#
-Quagmire canceled.#
-Defense increased.#
-Angelus canceled.#
-Blessing aligned.#
-Blessing canceled.#
-Signum Crusis initiated.#
-Signum Crusis canceled.#
-Slow Poison initiated.#
-Slow Poison Canceled.#
-HP/SP recovery increased.#
-Magnificat canceled.#
-Luck increased.#
-Gloria canceled.#
+ใช้ได้เฉพาะตัวเลข (0~9) เท่านั้น#
+ไม่สามารถขาย Item ที่ยังไม่ถูกตรวจสอบได้#
+พบ Item ที่มีราคา 0 Zeny ต้องการดำเนินการต่อหรือไม่?#
+[รายการ Emotion ใหม่]#
+ไม่พบข้อมูล#
+ไม่พบข้อมูล#
+มีตัวละครที่ใช้ ID เดียวกันอยู่ภายใน Party อยู่แล้ว#
+(%d คน) - อายุมากกว่า 18 แล้ว#
+เริ่มการใช้งาน Provoke#
+หยุดการใช้งาน Provoke เรียบร้อยแล้ว#
+เริ่มการใช้งาน Endure#
+หยุดการใช้งาน Endure เรียบร้อยแล้ว#
+เริ่มการใช้งาน Improve Concentration#
+หยุดการใช้งาน Improve Concentration เรียบร้อยแล้ว#
+เริ่มการใช้งาน Hiding#
+หยุดการใช้งาน Hiding เรียบร้อยแล้ว#
+เริ่มการใช้งาน Cloaking#
+หยุดการใช้งาน Cloaking เรียบร้อยแล้ว#
+เริ่มการใช้งาน Poison React#
+หยุดการใช้งาน Poison React เรียบร้อยแล้ว#
+ความเร็วลดลง#
+หยุดการใช้งาน Quagmire เรียบร้อยแล้ว#
+พลังป้อนกันเพิ่มขึ้น#
+หยุดการใช้งาน Angelus เรียบร้อยแล้ว#
+เริ่มการใช้งาน Blessing#
+หยุดการใช้งาน Blessing เรียบร้อยแล้ว#
+เริ่มการใช้งาน Signum Crusis#
+หยุดการใช้งาน Signum Crusis เรียบร้อยแล้ว#
+เริ่มการใช้งาน Slow Poison#
+หยุดการใช้งาน Slow Poison เรียบร้อยแล้ว#
+การฟื้นฟู HP/SP ดีขึ้น#
+หยุดการใช้งาน Magnificat เรียบร้อยแล้ว#
+Luck เพิ่มขึ้น#
+หยุดการใช้งาน Gloria เรียบร้อยแล้ว#
 You will received double damage from all attacking opponents.#
 Lex Eterna canceled.#
 Attack Speed increased.#
