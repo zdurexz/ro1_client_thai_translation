@@ -725,50 +725,50 @@ Font จะบางลงและแสดงชื่อ Party (ถ้ามี) [showname รูปแบบที่ 2]#
 /doridori: ส่ายหน้า#
 มีการจ่ายค่าบริการ Internet อยู่ในขณะนี้#
 ส่วนลดการชำระค่าบริการล่วงหน้าคงเหลือ %d วัน %d ชั่วโมง %d นาที\nส่วนลดเวลาคงเหลือ %d ชั่วโมง %d นาที#
-/bingbing: Rotates player counter clockwise.#
-/bangbang: Rotates player clockwise.#
-/skillfail: Display red font message when skill fails. On | Off#
-Skill fail messages will be displayed. [Display On]#
-Skill fail messages will not be displayed. [Display OFF]#
-/notalkmsg: Chat will not be displayed in chat window. On | Off#
-Chat content will be displayed in the chat window. [Display ON]#
-Chat content will not be displayed in the chat window. [Display OFF]#
+/bingbing: หมุนตัวทวนเข็มนาฬิกา#
+/bangbang: หมุนตัวตามเข็มนาฬิกา#
+/skillfail: เปิด/ปิด การใช้งาน การแสดงข้อความสีแดงเมื่อเกิดข้อผิดพลาดกับการใช้ Skill#
+เปิดการใช้งาน Skill Fail#
+ปิดการใช้งาน Skill Fail#
+/notalkmsg: เปิด/ปิด การใช้งาน การสนทนาปกติจะไม่แสดงกล่องข้อความ#
+เปิดการใช้งาน แสดงกล่องข้อความการสนทนาปกติ#
+ปิดการใช้งาน แสดงกล่องข้อความการสนทนาปกติ#
 /set1: /noctrl + /showname + /skillfail#
-/fog: Fog effect. On | Off#
-You have received a marriage proposal. Do you accept?#
-Item sharing type#
-Individual#
-Shared#
+/fog: เปิด/ปิด การแสดงผลของหมอก#
+คุณได้รับคำขอแต่งงาน ตอบรับหรือไม่?#
+รูปแบบการแบ่ง Item#
+รายบุคคล#
+แบ่งกัน#
 nProtect KeyCrypt#
-Keyboard Driver has been detected. \n\nDo you want to install a program for keyboard security?    \n\n(After installation, System Reboot is required)#
-Installation has been completed.  \n\nSystem will be rebooted.#
-Installation has been failed.#
-Keyboard Security will be skipped.#
-Required file for Keyboard Security is not existing.  \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
-USB Keyboard has been detected. \n\nDo you want to install a program for keyboard security?    \n\n(After installation, System Reboot is required)#
+พบ Driver Keyboard\n\nต้องการติดตั้ง Program สำหรับความปลอดภัยของ Keyboard หรือไม่?    \n\n(หลังจากการติดตั้ง ต้อง Restart ระบบปฎิบัติการ 1 ที)#
+การติดตั้งเสร็จเรียบร้อย  \n\nระบบปฎิบัติการจะ Restart 1 ที#
+เกิดข้อผิดพลาดกับการติดตั้ง#
+ข้ามการติดตั้ง Program สำหรับความปลอดภัยของ Keyboard#
+ไม่พบ File ที่ต้องการในการติดตั้ง Program สำหรับความปลอดภัยของ Keyboard  \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
+พบ USB Keyboard \n\nต้องการติดตั้ง Program สำหรับความปลอดภัยของ Keyboard หรือไม่?    \n\n(หลังจากการติดตั้ง ต้อง Restart ระบบปฎิบัติการ 1 ที)#
 ftp://ragnarok.nefficient.co.kr/pub/ragnarok/ragnarok0526.exe#
-FindHack is not installed correctly. Please download ragnarok0226.exe and install it in RagnarokOnline directory.(%d).#
-Hacking tool is existing but it hasn't been cleaned. Rangarok Online will not be executed.#
-Hacking tool scan program has not been downloaded correctly. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
-NPX.DLL register error or there is no necessary file to run FindHack. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
-Exceptional Error. Please contact the customer support. Return Value: (%d)#
-Exit button has been clicked.#
-Unable to connect Findhack Update Server. Please try again or contact the customer support.#
-Beloved#
-/report: Save a chat log file.#
-Chat logs are not accepted as evidence for any ill-mannered violation on account of possible file modifications. However this feature is provided for players' personal reference.#
-I love you.#
-Please adjust your monitor/video brightness if effects appear too bright.#
-If full screen mode fails to work, it is suggested you alt+tab [or ctrl+esc] to inactivate and reactivate the Ragnarok Client.#
-(%d players) - Pay to Play Server#
-(%d players) - Free Server#
-Trial players can't connect Pay to Play Server.#
-Right click menu skills for F9 are Enabled.[/q1 ON]#
-Right click menu skills for F9 are Disabled.[/q1 OFF]#
-/quickspell: Right-click menu enables you to use skills assigned to the F9 hotkey. On | Off#
-Mouse wheel skills for F7 and F8 are Enabled.[/q2 ON]#
-Mouse wheel skills for F7 and F8 are Disabled.[/q2 OFF]#
-/quickspell2: By rolling the mouse wheel up and down, you are able to use skills registered on F7 and F8 hotkeys. On | Off#
+Find Hack ไม่ได้ถูกติดตั้งอย่างถูกต้อง โปรด Download ragnarok0226.exe และติดตั้งมันบน Fodler Ragnarok Online (%d)#
+พบ Hacking tool แต่ยังไม่ถูกทำลาย ฉะนั้นจะไม่มีการเปิดเกม Rangarok Online ขึ้น#
+Program สำหรับ Scan Hacking tool ไม่ได้ถูก Download อย่างถูกต้อง โปรด Download ragnarok0226.exe และติดตั้งมันบน Fodler Ragnarok Online#
+เกิดข้อผิดพลาดกับการลงทะเบียน NPX.DLL หรือไม่มี File ที่จะ Run Find Hack โปรด Download ragnarok0226.exe และติดตั้งมันบน Fodler Ragnarok Online#
+เกิดข้อผิดพลาด โปรดติดต่อเจ้าหน้าที่ ข้อมูลความผิดพลาด: (%d)#
+ปุ่ม Exit ถูกกด#
+ไม่สามารถเชื่อมต่อไปยัง Server Update Find Hack โปรดลองใหม่อีกครั้งหรือติดต่อเจ้าหน้าที่#
+ด้วยรักและห่วงใย#
+/report: บันทึกข้อความการสนทนาเป็น File#
+บันทึกการสนทนาไม่ใช่หลักฐานสำหรับการกระทำผิดในรูปแบบของการแก้ไข File แต่อย่างไรก็ตามมันทำไว้เพื่อการอ้างอิงส่วนตัว#
+ฉันรักคุณ#
+โปรดปรับความสว่างของ Monitor ของคุณถ้า Effect มันสว่างเกินไป#
+หาก Mode Full Screen ไม่สามารถใช้ได้ ลองกดปุ่ม [Alt] + [Tab] หรือ [Ctrl] + [Esc] เพื่อพักการทำงานและสั่งให้ Ragnarok Client ทำงานอีกครั้ง#
+(%d คน) - เล่นบน Server ที่ต้องจ่ายค่าบริการ#
+(%d คน) - เล่นบน Server ที่ไม่ต้องจ่ายค่าบริการ#
+ผู้เล่น Server ทดสอบไม่สามารถเชื่อมต่อกับผู้เล่น Server ที่จ่ายค่าบริการได้#
+เปิดการใช้งาน คลิกขวาจะใช้ Skill ในช่อง Hotkey [F9][/q1]#
+ปิดการใช้งาน คลิกขวาจะใช้ Skill ในช่อง Hotkey [F9][/q1]#
+/quickspell: เปิด/ปิด การใช้งาน คลิกขวาจะใช้ Skill ในช่อง Hotkey [F9]#
+เปิดการใช้งาน การเลื่อน Mouse Wheel จะใช้ Skill ในช่อง Hotkey [F7] และ [F8] [/q2]#
+ปิดการใช้งาน การเลื่อน Mouse Wheel จะใช้ Skill ในช่อง Hotkey [F7] และ [F8] [/q2]#
+/quickspell2: เปิด/ปิด การใช้งาน การเลื่อน Mouse Wheel จะใช้ Skill ในช่อง Hotkey [F7] และ [F8]#
 /q3: /quickspell (/q1) + /quickspell2 (/q2)#
 /bzz#
 /rice#
@@ -782,22 +782,22 @@ Mouse wheel skills for F7 and F8 are Disabled.[/q2 OFF]#
 /yawn#
 /grat#
 /hp#
-/emotion: views the emoticon list.#
-Skills assigned to shortcut windows 1, 2, 3 are Enabled. [/bm ON]#
-Skills assigned to shortcut windows 1, 2, 3 are Disabled. [/bm OFF]#
-/battlemode: allows you to use skills assigned to Shortcut Window 2 by pressing Q ~ O keys.#
-A ~ L keys allow you to use skills assigned to Shortcut Window 3.#
-Please remember, programs running in the background while playing may affect the game's performance.#
-Dear angel, can you hear my voice?#
-I am#
+/emotion: ดูรายการการแสดงอารมณ์#
+เปิดการใช้งาน การใช้ Skill ที่จัดวางไว้ในหน้าต่าง Hotkey ที่ 1, 2, 3 [/bm]#
+ปิดการใช้งาน การใช้ Skill ที่จัดวางไว้ในหน้าต่าง Hotkey ที่ 1, 2, 3 [/bm]#
+/battlemode: เปิด/ปิด การใช้งาน การใช้ Skill ที่จัดวางไว้ในหน้าต่าง Hotkey ที่ 2 โดยกดปุ่ม [Q~O]#
+ปุ่ม [A~L] สามารถใช้ Skill ที่จัดวางไว้ในหน้าต่าง Hotkey ที่ 3#
+โปรดจำไว้ว่า Program ที่ทำงานเบื้องหลังอื่น ๆ อาจส่งผลกับประสิทธิภาพเกม RO#
+เหล่าเทวดา ท่านได้ยินเสียงของข้าหรือไม่?#
+ข้าได้ยิน#
 Super Novice~#
-Help me out~ Please~ T_T#
- wishes to adopt you. Do you accept?#
-Z ~ > keys allow you to use skills assigned on shortcut window 1. On | Off#
-Press the space bar to Chat when in Battle mode [/battlemode | /bm].#
-"Either there's no Game Guard installed on the program or Game Guard is cracked. Please, try to reinstall Game Guard from its setup file."#
-Some of Windows system files have been damaged. Please re-install your Internet Explorer.#
-"Failed to run Game Guard. Please, try to reinstall Game Guard from its setup file."#
+โปรดช่วยข้าด้วย~ นะ~ T_T#
+ ต้องการขอเลี้ยงดูคุณ ตอบรับหรือไม่?#
+เปิด/ปิด การใช้งาน ปุ่ม [Z~>] สามารถใช้ Skill ที่จัดวางไว้ในหน้าต่าง Hotkey ที่ 1#
+กดปุ่ม [Spacebar] เพื่อสนทนาระหว่างอยู่ใน Mode ต่อสู้ [/battlemode | /bm]#
+"ไม่พบการติดตั้ง Game Guard หรือ Game Guard ถูกปรับแต่ง โปรดลองติดตั้ง Game Guard ใหม่อีกครั้ง"#
+File บาง File บน Windows พัง ลองลง Internet Explorer ใหม่อีกครั้ง#
+"เกิดข้อผิดพลาดกับการเปิด Game Guard โปรดลองติดตั้ง Game Guard ใหม่อีกครั้ง"#
 "At least one hazardous program has been detected. Please, terminate all the unnecessary programs before executing Game Guard."#
 "Game Guard update is canceled. If the disconnection continues, please, check your internet or firewall settings."#
 "Failed to connect to Game Guard update server. Try to connect again later, or try to check the internet or firewall settings."#
