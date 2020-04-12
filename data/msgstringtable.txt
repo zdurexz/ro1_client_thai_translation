@@ -798,38 +798,38 @@ Super Novice~#
 "ไม่พบการติดตั้ง Game Guard หรือ Game Guard ถูกปรับแต่ง โปรดลองติดตั้ง Game Guard ใหม่อีกครั้ง"#
 File บาง File บน Windows พัง ลองลง Internet Explorer ใหม่อีกครั้ง#
 "เกิดข้อผิดพลาดกับการเปิด Game Guard โปรดลองติดตั้ง Game Guard ใหม่อีกครั้ง"#
-"At least one hazardous program has been detected. Please, terminate all the unnecessary programs before executing Game Guard."#
-"Game Guard update is canceled. If the disconnection continues, please, check your internet or firewall settings."#
-"Failed to connect to Game Guard update server. Try to connect again later, or try to check the internet or firewall settings."#
-"Can't complete Game Guard update process. Please, try to execute a vaccine program to remove viruses. Or, please try to modify the settings of your PC managing tool if you are using any."#
-/notrade: Declines trade offers automatically. On | Off#
-Auto decline trade offers has been Enabled. [/nt ON]#
-Auto decline trade offers has been Disabled. [/nt OFF]#
-You cannot buy more than 30,000ea items at once.#
-You do not have enough ingredients.#
-Login information remains at %s.#
-Account has been locked for a hacking investigation. Please contact the GM Team for more information.#
-This account has been temporarily prohibited from login due to a bug-related investigation.#
-Repairable items#
-Item has been successfully repaired.#
-You have failed to repair this item. Please check the distance between you and opponent.#
-System process enabled [GM mode] [/sc ON]#
-System process disabled [GM mode] [/sc OFF]#
-/systemcheck: Check the system process [GM mode] On | Off#
-(%s) wishes to be friends with you. Would you like to accept?#
-Your Friend List is full.#
-(%s)'s Friend List is full.#
-You have become friends with (%s).#
-(%s) does not want to be friends with you.#
-This character will be blocked to use until %s.#
-Price will be fixed at 10,000,000 zeny, even if you enter higher price.#
-(Very low)#
-(Low)#
-(Normal)#
-(High)#
-(Very high)#
-You have been blocked from using chat and skills for %d minutes by the GM Team.#
-%d minutes remain until release from the GM penalty.#
+"ตรวจพบ Program ที่ผิดปกติ โปรดปิด Program ที่ไม่จำเป็นออกก่อนที่ Game Guard จะเริ่มอีกครั้ง"#
+"การ Update Game Guard ถูกยกเลิก หากการเชื่อมต่อยังถูกตัดขาดอยู่ โปรดตรวจสอบ Internet ของคุณหรือการตั้งค่าของ Firewall"#
+"เกิดข้อผิดพลาดในการเชื่อมต่อกับ Server Update ของ Game Guard โปรดลองใหม่ภายหลัง หรือลองตรวจสอบ Internet ของคุณหรือการตั้งค่าของ Firewall"#
+"ไม่สามารถ Update Game Guard ได้ โปรดลองใช้ Program ตรวจสอบ Virus หรือลองปรับแต่ง การตั้งค่าระบบปฎิบัติการของคุณ"#
+/notrade: เปิด/ปิด การใช้งาน การปฎิเสธข้อเสนอการแลกเปลี่ยนอัตโนมัติ#
+เปิดการใช้งาน การปฎิเสธข้อเสนอการแลกเปลี่ยนอัตโนมัติ [/nt]#
+ปิดการใช้งาน การปฎิเสธข้อเสนอการแลกเปลี่ยนอัตโนมัติ [/nt]#
+ไม่สามารถซื้อ Item ชิ้นเดียวกันได้มากกว่า 30,000 ชิ้นต่อครั้ง#
+มีส่วนผสมไม่เพียงพอ#
+ข้อมูลการ Login คงเหลือที่ %s#
+ID ถูกระงับ เนื่องจากกำลังอยู่ในระหว่างการตรวจสอบการทุจริตในการเล่น โปรดติดต่อ GM หากมีข้อสงสัย#
+ID ถูกระงับชั่วคราวเนื่องจาก Login ในช่วงของการตรวจสอบ Bug#
+Item ที่สามารถซ่อมแซมได้#
+ซ่อมแซม Item ดังงกล่าวสำเร็จเรียบร้อย#
+เกิดข้อผิดพลาดในการซ่อมแซม Item ดังกล่าว โปรดสอบสอบระยะห่างระหว่างคุณและเป้าหมาย#
+เปิดใช้งาน การตรวจสอบระบบ [GM mode] [/sc]#
+ปิดใช้งาน การตรวจสอบระบบ [GM mode] [/sc]#
+/systemcheck: เปิด/ปิด การใช้งาน การตรวจสอบระบบ [GM mode]#
+(%s) ต้องการเป็นเพื่อนกับคุณ ยอมรับหรือไม่?#
+รายการเพื่อนของคุณเต็มแล้ว#
+(%s)'s มีเพื่อนเต็มแล้ว#
+คุณได้เป็นเพื่อนกับ (%s)#
+(%s) ไม่ต้องการเป็นเพื่อนกับคุณ#
+ตัวละครดังกล่าวจะถูกระงับการใช้งานจนถึง %s#
+ราคาจะถูกกำหนดที่ 10,000,000 zeny แม้ว่าจะใส่ราคามากกว่านี้ก็ตาม#
+(ต่ำสุด)#
+(ต่ำ)#
+(ปาณกลาง)#
+(สูง)#
+(สูงสุด)#
+คุณถูกระงับการสนทนาและการใช้ Skill เป็นเวลา %d นาทีโดย GM#
+%d นาทีที่เหลือจนกว่าจะหมดเวลาทำโทษจาก GM#
 You have been released from the GM penalty.#
 You have been blocked from using chat and skills for %d as an automatic penalty.#
 %d minutes remain until release from auto penalty.#
