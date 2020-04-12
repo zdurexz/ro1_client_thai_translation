@@ -829,36 +829,36 @@ Item ที่สามารถซ่อมแซมได้#
 (สูง)#
 (สูงสุด)#
 คุณถูกระงับการสนทนาและการใช้ Skill เป็นเวลา %d นาทีโดย GM#
-%d นาทีที่เหลือจนกว่าจะหมดเวลาทำโทษจาก GM#
-You have been released from the GM penalty.#
-You have been blocked from using chat and skills for %d as an automatic penalty.#
-%d minutes remain until release from auto penalty.#
-You have been released from the auto penalty. Please refrain from spamming in-game.#
-%s and %s have divorced from each other.#
-%s has been designated as Gravity %s's Solar Space.#
-%s has been designated as Gravity %s's Luna Space.#
-%s has been designated as Gravity %s's Stellar Space.#
-Gravity %s's Solar Space: %s#
-Gravity %s's Luna Space: %s#
-Gravity %s's Stellar Space: %s#
-%s has been designated as Gravity %s's Solar Monster.#
-%s has been designated as Gravity %s's Luna Monster.#
-%s has been designated as Gravity %s's Stellar Monster.#
-Gravity %s's Solar Monster: %s#
-Gravity %s's Luna Monster: %s#
-Gravity %s's Stellar Monster: %s#
-/window: Display windows will snap/dock together. On | Off#
-Display window docking enabled. [/wi ON]#
-Display window docking disabled. [/wi OFF]#
-/pvpinfo: shows your PVP result and PVP points.#
-You have won %d times and have lost %d times in PVP. Current points %d.#
-A manner point has been successfully aligned.#
-You are in a PK area. Please beware of sudden attack.#
-Game Guard update has been failed when either Virus or Spyware conflicted with. Please, Uninstall Spyware and Virus protection program before you log in.#
-Program has encountered an error related to Windows compatibility. Please start the game again.#
-You have been blocked from chatting, using skills and items.#
-Login is temporarily unavailable while this character is being deleted.#
-Login is temporarily unavailable while your spouse character is being deleted.#
+%d นาทีที่เหลือจนกว่าจะหมดเวลาทำโทษโดย GM#
+คุณถูกปลดปล่อยจากการทำโทษโดย GM#
+คุณถูกระงับจากการสนทนาและการใช้ Skill เป็นเวลา %d โดยระบบ#
+%d นาทีที่เหลือจนกว่าจะหมดเวลาทำโทษโดยระบบ#
+คุณถูกปลดปล่อยจากการทำโทษโดยระบบ โปรดอย่าส่งข้อความรัว ๆ รบกวนผู้เล่นอื่น#
+%s และ %s ได้หย่าร้างซึ่งกันและกัน#
+%s ถูกกำหนดให้เป็นแรงโน้มถ่วงของ %s's Solar Space#
+%s ถูกกำหนดให้เป็นแรงโน้มถ่วงของ %s's Luna Space#
+%s ถูกกำหนดให้เป็นแรงโน้มถ่วงของ %s's Stellar Space#
+แรงโน้มถ่วงของ %s's Solar Space: %s#
+แรงโน้มถ่วงของ %s's Luna Space: %s#
+แรงโน้มถ่วงของ %s's Stellar Space: %s#
+%s ถูกกำหนดให้เป็นแรงโน้มถ่วงของ %s's Solar Monster#
+%s ถูกกำหนดให้เป็นแรงโน้มถ่วงของ %s's Luna Monster#
+%s ถูกกำหนดให้เป็นแรงโน้มถ่วงของ %s's Stellar Monster#
+แรงโน้มถ่วงของ %s's Solar Monster: %s#
+แรงโน้มถ่วงของ %s's Luna Monster: %s#
+แรงโน้มถ่วงของ %s's Stellar Monster: %s#
+/window: เปิด/ปิด การยึดเกาะอัตโนมัติของหน้าต่างทุกหน้าต่าง#
+เปิดการใช้งาน การยึดเกาะอัตโนมัติของหน้าต่างทุกหน้าต่าง [/wi]#
+ปิดการใช้งาน การยึดเกาะอัตโนมัติของหน้าต่างทุกหน้าต่าง [/wi]#
+/pvpinfo: แสดงผลการ PVP และแต้ม PVP#
+คุณชนะทั้งหมด %d รอบและแพ้ทั้งหมด %d รอบในการ PVP แต้มปัจจุบัน %d#
+ให้แต้มความประพฤติเรียบร้อยแล้ว#
+คุณอยู่ในบริเวณ PK โปรดระวังตัวจากการโจมตีโดยผู้เล่นอื่น#
+เกิดข้อผิดพลาดในการ Update Game Guard อาจเป็น Virus หรือ Spyware โปรดลบ Program ตรวจสอบ Virus หรือ Spyware ออกเสียก่อนที่จะเข้าเกม#
+Program เกิดข้อผิดพลาดกับระบบปฎิบัติการ โปรดลองเข้าเกมใหม่อีกครั้ง#
+คุณถูกระงับจากการสนทนา, การใช้ Skill และการใช้ Item#
+การ Login ไม่สามารถใช้ได้ชั่วคราวเนื่องจากตัวละครกำลังถูกลบอยู่#
+การ Login ไม่สามารถใช้ได้ชั่วคราวเนื่องจากคู่สมรสของคุณกำลังลบตัวละครอยู่#
 Novice#
 Swordman#
 Magician#
@@ -885,34 +885,34 @@ Wizard#
 Blacksmith#
 Hunter#
 Assassin#
-Send an adoption request to %s#
-When you become a child, you will be unable to become a Transcendent Class character, all stats will be limited to a maximum of 80, and Max HP/SP will be reduced. Are you sure that you want to be adopted?#
-All abnormal status effects have been removed.#
-You will be immune to abnormal status effects for the next minute.#
-Your Max HP will stay increased for the next minute.#
-Your Max SP will stay increased for the next minute.#
-All of your Stats will stay increased for the next minute.#
-Your weapon will remain blessed with Holy power for the next minute.#
-Your armor will remain blessed with Holy power for the next minute.#
-Your Defense will stay increased for the next 10 seconds.#
-Your Attack strength will be increased for the next minute.#
-Your Accuracy and Flee Rate will be increased for the next minute.#
-You cannot adopt more than 1 child.#
-You must be at least character level 70 in order to adopt someone.#
-[Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
-[Point] You have been rewarded with %d Alchemist rank points. Your point total is %d.#
-Dear angel, can you hear my voice?#
-I am#
+ส่งคำขอการเลี้ยงดูไปยัง %s#
+เมื่อคุณเป็นเด็ก คุณจะไม่สามารถเป็น Class Transcendent ได้และ Stats ต่าง ๆ จะมีค่าได้มากสุดที่ 80, Max HP/SP จะน้อยลง ยืนยันที่จะถูกเลี้ยงดูหรือไม่?#
+สถานะผิดปกติทั้งหมดถูกลบล้าง#
+คุณจะทนทานต่อสถานะผิดปกติเป็นเวลาชั่วคราว#
+Max HP ของคุณสูงขึ้นเป็นเวลาชั่วคราว#
+Max SP ของคุณสูงขึ้นเป็นเวลาชั่วคราว#
+Stats ของคุณทุกชนิดสูงขึ้นเป็นเวลาชั่วคราว#
+อาวุธของคุณเคลือบธาตุ Holy เป็นเวลาชั่วคราว#
+ชุดเกราะของคุณเคลือบธาตุ Holy เป็นเวลาชั่วคราว#
+พลังป้องกันของคุณสูงขึ้นเป็นเวลา 10 วินาที#
+พลังโจมตีของคุณสูงขึ้นเป็นเวลาชั่วคราว#
+ความแม่นยำและการหลบหลีกของคุณสูงขึ้นเป็นเวลาชั่วคราว#
+คุณไม่สามารถอุปการะเลี้ยงดูเด็กได้มากกว่า 1 คน#
+คุณต้องเลเวลอย่างน้อย 70 เพื่อเริ่มที่จะเลี้ยงดูใครบางคน#
+[Point] คุณได้รับรางวัลกับระดับแต้ม %d Blacksmith แต้มทั้งหมดคือ %d#
+[Point] คุณได้รับรางวัลกับระดับแต้ม %d Alchemist แต้มทั้งหมดคือ %d#
+เหล่าเทวดา ท่านได้ยินเสียงของข้าหรือไม่?#
+ข้าได้ยิน#
 Super Novice~#
-Help me out~ Please~ T_T#
-/notalkmsg2: Hides chat messages(including guild chat). On Off#
-Show chat messages. [/nm2 ON]#
-Hide chat messages(including guild chat) [/nm2 OFF]#
-Upgradable Weapons#
-Weapons upgraded: %s#
-Weapons upgraded: %s#
-You cannot upgrade %s until you level up your Upgrade Weapon skill.#
-You lack a necessary item %s to upgrade this weapon.#
+โปรดช่วยข้าด้วย~ นะ~ T_T#
+/notalkmsg2: เปิด/ปิด การซ่อนข้อความการสนทนา (รวมการสนทนาภายใน Guild ด้วย)#
+เปิดการสนทนา [/nm2]#
+ซ่อนข้อความการสนทนา (รวมการสนทนาภายใน Guild ด้วย) [/nm2]#
+อาวุธที่สามารถ Upgrade ได้#
+อาวุธที่ Upgrade แล้ว: %s#
+อาวุธที่ Upgrade แล้ว: %s#
+คุณไม่สามารถ Upgrade %s ได้จนกว่าคุณจะเพิ่มเลเวล Skill การ Upgrade อาวุธ#
+คุณไม่มี Item ที่จำเป็นสำหรับ %s เพื่อ Upgrade อาวุธดังกล่าว#
 Full Divestment cannot pierce the target. The target is fully shielded.#
 You cannot adopt a married person.#
 This name is not registered in your Friend List. Please check the name again.#
