@@ -155,7 +155,7 @@ Wind#
 [Alt] + [=]: เพื่อแก้ไขช่องโหว่ของตัวอักษร#
 [F10]: เพื่อปรับขนาดหน้าต่างสนทนา และ [Alt] + [F10]: เพื่อเปิด/ปิด หน้าต่างสนทนา#
 วิธีการกระซิบ: พิมพ์ชื่อตัวละครทางซ้ายของหน้าต่างสนทนาและพิมพ์ข้อความทางขวา ปุ่ม Tab จะช่วยสลับช่องให้คุณได้อย่างรวดเร็ว#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: การแสดงความรู้สึก สามารถใช้ได้โดยกดปุ่ม Alt + (1~9) หรือ Ctrl + (-=\\)#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: การแสดงความรู้สึก สามารถใช้ได้โดยกดปุ่ม [Alt] + [1~9] หรือ [Ctrl] + [-=\\]#
 วิธีพูดภายใน Party: เพิ่ม % ด้านหน้าของทุก ๆ ข้อความก่อนจะส่ง (ตัวอย่าง: \%ไง\)#
 คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถทำการแลกเปลี่ยนได้#
 คุณยังเรียน Basic Skills ไม่ถึงระดับที่จะสามารถใช้การแสดงอารมณ์ได้#
@@ -235,7 +235,7 @@ Item ที่สามารถวางขายได้#
 เลือกเป้าหมาย#
 /pk on: เปิดการ PK /pk off: ปิดการ PK#
 ร้านค้า#
-Item ภายในรถเข็น [Alt+W]#
+Item ภายในรถเข็น [Alt] + [W]#
 ข้อมูลเบื้องต้น#
 อาวุธที่ใช้อยู่ไม่สามารถใช้กับ Skill ดังกล่าวได้#
 เกิดข้อผิดพลาดกับการซื้อ %s เนื่องจากของหมดแล้ว จำนวนของที่เหลืออยู่ %d#
@@ -656,39 +656,39 @@ STR กลับสู่ปกติ#
 หยุดการใช้งาน Invisibility เรียบร้อยแล้ว#
 ขออภัย มีระยะเวลาเล็กน้อยในขั้นตอนการชำระ โปรดรอสักพักแล้วเชื่อมต่อเข้าเกมใหม่#
 โปรดนำกระสุนออกก่อน#
-Arrow List#
-Cart List#
-You must have a Pushcart.#
-You cannot open a Chat Window.#
-Registering an account is the first step to accessing the game. Do you want to visit the registration page now?#
-You cannot use this item while sitting.#
-Your use of skills and chat will be blocked for the next %d minutes.#
-Your use of skills and chat have been reinstated.#
-- [Not equipped]#
-Very Hungry#
-Hungry#
-Normal#
-Satisfied#
-Stuffed#
-Awkward#
-Shy#
-Cordial#
-Loyal#
-Unknown#
-Your account has play time of %d day %d hour %d minute.#
-Your account is already connected to account server.#
-Your account has play time of %d hour %d minute.#
-Your account is a free account.#
-This account can't connect the Sakray server.#
-Your pet name must be 23 characters or less.#
-You may change your pet's name only once. Your pet's name will be changed to ^0000ff^0000ff %s^000000^000000.  Do you wish to continue?#
+รายการลูกธนู#
+รายการรถเข็น#
+ต้องมีรถเข็นเสียก่อน#
+ไม่สามารถเปิดหน้าต่างการสนทนาได้#
+การลงทะเบียนคือขั้นตอนแรกในการเข้าเล่นเกม ต้องการไปยังหน้าลงทะเบียนเลยไหม?#
+ไม่สามารถใช้ Item ดังกล่าวได้ขณะนั่งอยู่#
+การใช้ Skill และการสนทนาของคุณถูกระงับเป็นเวลา %d นาที#
+สามารถใช้ Skill และสนทนาได้ตามปกติแล้ว#
+- [ไม่ได้สวมใส่อยู่]#
+หิวมาก ๆ#
+หิว#
+ปกติ#
+อิ่ม#
+อิ่มมาก ๆ#
+รู้สึกไม่ดี#
+เขินอาย#
+รู้สึกอบอุ่น#
+สนิทสนม#
+ไม่พบข้อมูล#
+ID ของคุณเล่นมาแล้ว %d วัน %d ชั่วโมง %d นาที#
+ID ของคุณเชื่อมต่อกับ Server อยู่แล้ว#
+ID ของคุณเล่นมาแล้ว %d ชั่วโมง %d นาที#
+ID ของคุณสามารถเล่นได้โดยที่ไม่ต้องเติมชั่วโมงการเล่น#
+ID ดังกล่าวไม่สามารถเชื่อมต่อกับ Server Sakray ได้#
+ชื่อ Pet ไม่สามารถมีตัวอักษรมากกว่า 23 ตัวอักษรได้#
+สามารถเปลี่ยนชื่อ Pet ได้เพียงแค่ครั้งเดียว ชื่อ Pet ของคุณจะกลายเป็น ^0000ff^0000ff %s^000000^000000 ต้องการดำเนินการต่อหรือไม่?#
 /font#
-Your guild lacks the funds to pay for this venture.#
-Your guild zeny limit prevents you from performing this action.#
-Simplified effects have been activated.#
-Simplified effects have been deactivated.#
-Required Fee#
-If you wish to drop an item, you must first open your Item Window (alt+e).#
+Guild ของคุณมีทุนไม่พอที่จะจ่ายค่าการพจญภัยดังกล่าว#
+การจำกัด Zeny สำหรับ Guild ของคุณทำให้ไม่สามารถกระทำการดังกล่าวได้#
+เปิดการใช้งาน การแสดง Effect น้อยลง#
+ปิดการใช้งาน การแสดง Effect น้อยลง#
+ต้องมีค่าธรรมเนียม#
+ถ้าต้องการทิ้ง Item ต้องเปิดหน้าต่าง Item เสียก่อน [Alt] + [E]#
 Internet Cafe Time Plan has been ended. Would you like to continue the game with your personal play time?#
 Current admission application state.#
 Current admission application state.#
