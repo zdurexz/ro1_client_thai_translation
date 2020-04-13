@@ -518,7 +518,7 @@ Guild มีศัตรูมากเกินไป#
 ชื่อ Guild#
 เลเวล Guild#
 จำนวนสมาชิก#
-ระดับ#
+อันดับ#
 การตรวจสอบ Item#
 สวมใส่ Card#
 โปรดระบุเหตุผลของการถอนตัว#
@@ -580,8 +580,8 @@ ID ของคุณถูกระงับ#
 การเชื่อมต่อของคุณถูกตัดขาดโดย GM#
 ไม่สามารถใช้ Skill ได้เนื่องจากคุณแบก Item มากเกินไป#
 ไม่ระบุชื่อ#
-ยินดีด้วย! %s ระดับขึ้นไปเป็น %d#
-หว๊า! %s ระดับลดลงเหลือ %d#
+ยินดีด้วย! %s อันดับขึ้นไปเป็น %d#
+หว๊า! %s อันดับลดลงเหลือ %d#
 ข้อมูล Pet#
 ความหิว#
 ความสนิทสนม#
@@ -899,8 +899,8 @@ Stats ของคุณทุกชนิดสูงขึ้นเป็นเวลาชั่วคราว#
 ความแม่นยำและการหลบหลีกของคุณสูงขึ้นเป็นเวลาชั่วคราว#
 คุณไม่สามารถอุปการะเลี้ยงดูเด็กได้มากกว่า 1 คน#
 คุณต้องเลเวลอย่างน้อย 70 เพื่อเริ่มที่จะเลี้ยงดูใครบางคน#
-[Point] คุณได้รับรางวัลกับระดับแต้ม %d Blacksmith แต้มทั้งหมดคือ %d#
-[Point] คุณได้รับรางวัลกับระดับแต้ม %d Alchemist แต้มทั้งหมดคือ %d#
+[Point] คุณได้รับ %d แต้มอันดับ Blacksmith แต้มทั้งหมดคือ %d#
+[Point] คุณได้รับ %d แต้มอันดับ Alchemist แต้มทั้งหมดคือ %d#
 เหล่าเทวดา ท่านได้ยินเสียงของข้าหรือไม่?#
 ข้าได้ยิน#
 Super Novice~#
@@ -913,36 +913,36 @@ Super Novice~#
 อาวุธที่ Upgrade แล้ว: %s#
 คุณไม่สามารถ Upgrade %s ได้จนกว่าคุณจะเพิ่มเลเวล Skill การ Upgrade อาวุธ#
 คุณไม่มี Item ที่จำเป็นสำหรับ %s เพื่อ Upgrade อาวุธดังกล่าว#
-Full Divestment cannot pierce the target. The target is fully shielded.#
-You cannot adopt a married person.#
-This name is not registered in your Friend List. Please check the name again.#
-/hi or /hi message: Send greetings to people who are online and registered on your Friend List.#
-This character is not your guildsman. Please check the name again.#
-Please be aware that the maximum selling price is fixed as 2 Billion. You cannot sell an item higher than that.#
-Whispers from friends are displayed as [ Friend ], and ones from guildsmen are displayed as [ Member ].#
-( From character name: ) is from an anonymous character who is neither your friend nor guildsman.#
-/blacksmith: Shows top 10 Blacksmiths in the server.#
-/alchemist: Shows top 10 Alchemists in the server.#
-ALT+Y: Opens a window which allows you to use various commands with ease.#
-[POINT] You have been rewarded with %d Tae-Kwon Mission rank points. Your point total is %d.#
-[Taekwon Mission] Target Monster: %s (%d%%)#
-Error - Failed to initialize GameGuard: %lu#
-Speed Hack has been detected.#
-The illegal program, (%s) has been detected.#
-The Game or Gameguard has been cracked.#
-GameGuard is currently running. Please wait for sometime and restart the game.#
-The Game or GameGuard is already running. Please close the game and restart the game.#
-Failed to intialize GameGuard. Please try again after rebooting the system or closing other programs.#
-Failed to load the scan module of virus and hacking tool. It's caused by lack of memory or PC virus infection.#
-Homunculus Info#
-Homunculus Skill List#
-Please give your Homunculus a name no longer than 23 letters.#
-You can name a Homunculus only once. You have entered the name, ^0000ff%s^000000. Would you like to continue?#
-(Away)#
-[Automated Message]#
-Send an automated message while you are away.#
-Cancel automated away message.#
-Please enter Away Message.#
+ไม่สามารถปลดอุปกรณ์สวมใส่ของเป้าหมายได้ เป้าหมายมีการป้องกันเต็มที่#
+ไม่สามารถเลี้ยงดูบุคคลที่แต่งงานแล้วได้#
+ไม่พบชื่อตัวละครดังกล่าวในรายการเพื่อนของคุณ โปรดตรวจสอบชื่ออีกครั้ง#
+/hi หรือ /hi ข้อความ: ส่งข้อความดังกล่าวไปยังเพื่อนทุกคนที่เชื่อมต่ออยู่#
+ตัวละครดังกล่าวไม่ได้อยู่ใน Guild ของคุณ โปรดตรวจสอบชื่ออีกครั้ง#
+โปรดจำไว้ว่าราคาที่ตั้งขาย สามารถกำหนดมากสุดได้ที่ 2,000 ล้าน คุณไม่สามารถขาย Item ในราคาที่มากกว่านั้นได้#
+การกระซิบจากเพื่อนจะแสดงเป็น [ เพื่อน ] และจาก Guild จะแสดงเป็น [ สมาชิก ]#
+( จากชื่อตัวละคร: ) มาจากตัวละครที่ไม่รู้จัก ที่ไม่ได้เป็นเพื่อนกับคุณหรือไม่ได้อยู่ใน Guild เดียวกับคุณ#
+/blacksmith: แสดง 10 อันดับ Blacksmiths ภายใน Server#
+/alchemist: แสดง 10 อันดับ Alchemists ภายใน Server#
+[Alt] + [Y]: เปิดหน้าต่างคำสั่งต่าง ๆ ที่คุณสามารถใช้ได้#
+[แต้ม] คุณได้รับ %d แต้มภารกิจจัดอันดับ Tae-Kwon แต้มทั้งหมดคือ %d#
+[ภารกิจ Taekwon] Monster เป้าหมาย: %s (%d%%)#
+เกิดข้อผิดพลาดกับการเริ่มการใช้งาน Game Guard: %lu#
+ระบบตรวจพบการโกง Speed Hack#
+ระบบตรวจพบการโกงโดยใช้ Program (%s)#
+ตัวเกมหรือ Game Guard ถูกเจาะ#
+Game Guard กำลังทำงานอยู่โปรดรอสักพักและเข้าเกมใหม่อีกครั้ง#
+ตัวเกมหรือ Game Guard กำลังทำงานอยู่ โปรดปิดเกมเสียก่อนและเข้าเกมใหม่อีกครั้ง#
+เกิดข้อผิดพลาดกับการเริ่มการใช้งาน Game Guard โปรดลองใหม่หลังจาก Restart ระบบปฎิบัติการ หรือปิด Program อื่น ๆ#
+เกิดข้อผิดพลาดกับการ Load ตัว Scan Virus และ Hacking Tool เนื่องจาก Memory ไม่เพียงพอหรือ PC ติด Virus#
+ข้อมูล Homunculus#
+รายการ Skill Homunculus#
+โปรดตรวจสอบชื่อ Homunculus ที่ระบุต้องไม่เกิน 23 ตัวอักษร#
+คุณสามารถเปลี่ยนชื่อ Homunculus ได้ครั้งเดียว ชื่อที่ระบุ ^0000ff%s^000000 ยืนยันดำเนินการต่อหรือไม่?#
+(ไม่อยู่)#
+[ข้อความอัตโนมัติ]#
+ส่งข้อความอัตโนมัติเมื่อคุณไม่อยู่หน้าจอ#
+ยกเลิกข้อความอัตโนมัติ#
+โปรดระบุข้อความอัตโนมัติ#
 /fsh#
 /spin#
 /sigh#
@@ -950,12 +950,12 @@ Please enter Away Message.#
 /crwd#
 /desp#
 /dice#
-/pk: Shows top 10 Slayers in the server.#
-[POINT] You have been rewarded with %d Slayer rank points. Your point total is %d.#
-Evolution Available#
-You have decided to delete this Homunculus ^ff0000^ff0000. When deleted, the homunculus and its history will be deleted and they cannot be restored in the future. Would you like to continue?#
-Save Homunculus status as a file.#
-Do not save Homunculus status as a file.#
+/pk: แสดง 10 อันดับฆาตกรภายใน Server#
+[แต้ม] คุณได้รับ %d แต้มอันดับฆาตกร แต้มทั้งหมดคือ %d#
+สามารถ Evolution ได้#
+คุณตัดสินใจที่จะลบ Homunculus ดังกล่าว ^ff0000^ff0000 เมื่อตัดสินใจแล้ว Homunculus และประวัติต่าง ๆ ของมันจะถูกลบและไม่สามารถนำกลับคืนมาได้ในอนาคต ยืนยันที่จะดำเนินการต่อหรือไม่?#
+บันทึกสถานะ Homunculus เป็น File#
+ไม่ต้องการบันทึกสถานะ Homunculus เป็น File#
 Crusader#
 Monk#
 Sage#
@@ -1006,70 +1006,70 @@ Professor#
 Stalker#
 Creator#
 Gypsy#
-You have not set a password yet. Would you like to create one now?#
-You have incorrectly entered the password 3 times. Please try again later.#
-Password creation has failed.#
-Password must be 4~8 letters long.#
+คุณยังไม่ได้ตั้ง Password ต้องการตั้งเลยหรือไม่?#
+คุณระบุ Password ผิดพลาดเกิน 3 ครั้ง โปรดลองใหม่ภายหลัง#
+เกิดข้อผิดพลาดกับการสร้าง Password#
+Password ต้องมีตัวอักษรอย่างน้อย 4~8 ตัวอักษรขึ้นไป#
 Password#
-New Password#
-Confirm Password#
-Password has been changed.#
-Password does not match.#
-Enter Password#
-Your Homunculus is starving. Please feed it, otherwise it will leave you.#
+Password ใหม่#
+ยืนยัน Password#
+Password ถูกเปลี่ยนเรียบร้อยแล้ว#
+Password ไม่ตรงกัน#
+โปรดระบุ Password#
+Homunculus ของคุณกำลังหิว โปรดให้อาหารมัน หรือมันจะหนีจากคุณไป#
 EXP#
-[EVENT] You have won an event prize. Please claim your prize in game.#
-Hate#
-Hate with a Passion#
-Homunculus has been customized.#
-Homunculus has been activated with the basic AI.#
-Mail List#
-Write Mail#
-Read Mail#
-You cannot change a map's designation once it is designated. Are you sure that you want to designate this map?#
-Item has been added in the Item Window.#
-You have failed to add the item in the Item Window.#
-You have successfully mailed a message.#
-You have failed to mail a message. Recipient does not exist.#
-[Solar, Lunar and Stellar Angel] Designated places and monsters have been reset.#
-The minimum starting bid for auctions is 10,000,000 zeny.#
-You have successfully started a new auction.#
-The auction has been canceled.#
-An auction with at least one bidder cannot be canceled.#
-Mail has been successfully deleted.#
-You have failed to delete the mail.#
-You have equipped throwing daggers.#
-%s has logged in.#
-%s has logged out.#
-/loginout: Shows guildsmen and friends online status. On Off#
-Display online status of friends in Chat Window. [/li ON]#
-Do not display online status of friends in Chat Window. [/li OFF]#
-It is already running.#
-Use of Macro program has been detected.#
-Use of Speed hack has been detected.#
-API Hooking has been detected.#
-Message Hooking has been detected.#
-Module has been modified or damaged or its version does not match.#
-(Thailand) You have logged in game with PC cafe payment.#
-Prev#
-Next#
-Auction#
-Product List#
-Register#
-Sale Status#
-Purchase Status#
+[กิจกรรม] คุณได้รับรางวัลจากกิจกรรม โปรดรับรางวัลภายในเกม#
+โกรธ#
+โกรธสุด ๆ#
+Homunculus ถูกปรับแต่ง#
+Homunculus ถูกใช้งานโดย AI พื้นฐาน#
+รายการจดหมาย#
+เขียนจดหมาย#
+เปิดจดหมาย#
+คุณไม่สามารถเปลี่ยนแผนที่ ที่กำหนดได้หลังจากได้ทำการกำหนดไปแล้ว ยืนยันจะกำหนดแผนที่ดังกล่าวหรือไม่?#
+Item ถูกเพิ่มลงในหน้าต่าง Item เรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการเพิ่ม Item ลงในหน้าต่าง Item#
+คุณส่งจดหมายสำเร็จเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการส่งจดหมาย ไม่พบชื่อผู้รับที่ระบุ#
+กำหนดแผนที่สำหรับ [Solar, Lunar และ Stellar Angel] แล้วและ Monster ถูก Reset#
+ราคาขั้นต่ำในการประมูลคือ 10,000,000 zeny#
+คุณได้ลงการประมูลสำเร็จเรียบร้อยแล้ว#
+การประมูลดังกล่าวถูกยกเลิกเรียบร้อยแล้ว#
+การประมูลมีผู้ประมูลแล้วไม่สามารถยกเลิกได้อีก#
+ลบจดหมายดังกล่าวเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการลบจดหมาย#
+สวมใส่ Throwing Daggers เรียบร้อยแล้ว#
+%s ได้เข้าสู่เกม#
+%s ได้ออกจากเกม#
+/loginout: เปิด/ปิด การแสดงสถานะการเชื่อมต่อของผู้เล่นใน Guild และเพื่อน#
+เปิดการใช้งาน การแสดงสถานะการเชื่อมต่อในหน้าต่างการสนทนา [/li]#
+ปิดการใช้งาน การแสดงสถานะการเชื่อมต่อในหน้าต่างการสนทนา [/li]#
+มันทำงานอยู่แล้ว#
+พบการใช้ Program โกง Macro#
+พบการใช้ Program โกง Speed hack#
+พบการใช้ Program โกง API Hooking#
+พบการใช้ Program โกง Message Hooking#
+ข้อมูลเกมถูกปรับแต่งหรือพังและ Version ไม่ตรงกับ Server#
+(Thailand) ตอนนี้คุณเล่นเกมด้วยค่าชั่วโมงของร้าน Internet Cafe#
+ก่อนหน้า#
+ถัดไป#
+การประมูล#
+รายการสินค้า#
+ลงทะเบียน#
+สถานะการขาย#
+สถานะการซื้อ#
 Item#
-Name#
-Current Bid / Max Bid#
-Seller#
-Buyer#
-End Time#
+ชื่อ#
+ราคาประมูลปัจจุบัน / ราคาประมูลสูงสุด#
+ผู้ขาย#
+ผู้ซื้อ#
+เวลาสิ้นสุด#
 %m %d %H#
-Time (Hr)#
-Fee#
-No items found in search.#
-Your Sale List is empty.#
-Your Purchase List is empty.#
+เวลา (Hr)#
+ภาษี#
+ไม่พบ Item ดังกล่าวที่ค้นหา#
+ไม่พบรายการการขายของคุณ#
+ไม่พบรายการการซื้อของคุณ#
 Auction Information is incorrect or incomplete.#
 You must drag and drop an item from your Inventory into the Register Window to begin a new auction.#
 The auction has already been registered.#
