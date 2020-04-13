@@ -1212,55 +1212,55 @@ Pet ของคุณเกลียดคุณสำหรับการลืมให้อาหารมัน#
 ตัวละครที่ไม่ได้ถูกเลือกจะถูกลบ ยืนยันการดำเนินการต่อหรือไม่?#
 คุณไม่สามารถเลือกเกิน 8 ตัวได้#
 ต้องการเปลี่ยนชื่อของคุณเป็น '%s'?#
-Character Name has been changed successfully.#
-You have failed to change this character's name.#
-You can purchase only one kind of item at a time.#
-No characters were selected. You must select at least one character.#
-This character's name has already been changed. You cannot change a character's name more than once.#
-User Information is not correct.#
-Another user is using this character name, so please select another one.#
-The party member was not summoned because you are not the party leader.#
-There is no party member to summon in the current map.#
-You cannot find any trace of a Boss Monster in this area.#
-Boss Monster, '%s' will appear in %02d hour(s) and %02d minute(s).#
-The location of Boss Monster, '%s', will be displayed on your Mini-Map.#
-Do you want to open '%s'? Once opened, the contents cannot be moved to other locations aside from the Kafra Storage. The item effect isn't doubled, even if the same items are used more than once.#
-The Purchase has failed because the NPC does not exist.#
-The Purchase has failed because the Kafra Shop System is not working correctly.#
-You cannot purchase items while you are in a trade.#
-The Purchase has failed because the Item Information was incorrect.#
-STR has increased.#
-STR has returned to normal.#
-AGI has increased.#
-AGI has returned to normal.#
-VIT has increased.#
-VIT has returned to normal.#
-INT has increased.#
-INT has returned to normal.#
-DEX has increased.#
-DEX has returned to normal.#
-LUK has increased.#
-LUK has returned to normal.#
-Flee Rate (Flee) has increased.#
-Flee Rate has returned to normal.#
-Accuracy Rate (Hit) has increased.#
-Accuracy Rate has returned to normal.#
-Critical Attack (Critical) has increased.#
-Critical Attack has returned to normal.#
-You will receive 1.5 times more EXP from hunting monsters for the next 30 minutes.#
-This character will not receive any EXP penalty if killed within the next 30 minutes.#
-Regular item drops from monsters will be doubled for the next 30 minutes.#
-Boss Monster Map Information for the next 10 minutes.#
-Do you really want to purchase this item? %d points will be deducted from your total Kafra Credit Points.#
- You do not have enough Kafra Credit Points.#
- ^ff0000Expiration Date: %s^000000#
- The '%s' item will disappear in %d minutes.#
- '%s' item will be deleted from the Inventory in 1 minute.#
-  '%s' item has been deleted from the Inventory.#
-Input Number#
+การเปลี่ยนชื่อตัวละครสำเร็จเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการเปลี่ยนชื่อตัวละคร#
+คุณสามารถซื้อ Item ใด ๆ ได้แค่รอบละ 1 ชิ้น#
+ไม่มีตัวละครใดถูกเลือก ต้องเลือกตัวละครอย่างน้อย 1 ตัว#
+ตัวละครดังกล่าวเคยเปลี่ยนชื่อไปแล้ว ไม่สามารถเปลี่ยนชื่อได้มากกว่า 1 ครั้ง#
+ข้อมูลผู้เล่นไม่ถูกต้อง#
+ผู้เล่นอื่นได้ใช้ชื่อดังกล่าวไปแล้ว โปรดใช้ชื่ออื่น#
+ไม่สามารถเรียกสมาชิกใน Party ได้เนื่องจากคุณไม่ใช่หัวหน้า Party#
+ไม่มีสมาชิก Party ภายในแผนที่ดังกล่าว#
+ไม่พบร่องรอยของ Boss ภายในพื้นที่ดังกล่าว#
+Boss '%s' จะปรากฎภายใน %02d ชั่วโมง %02d นาที#
+สถานที่ของ Boss '%s' จะถูกแสดงบน Mini-Map ของคุณ#
+ต้องการเปิด '%s'? เมื่อเปิดแล้วจะไม่สามารถเคลื่อนย้ายไปยังสถานที่อื่น ๆ นอกจากเก็บไว้ในคลังเก็บของส่วนตัว ผลของ Item จะไม่คูณสอง แม้จะใช้ Item เดิมสองครั้ง#
+เกิดข้อผิดพลาดในการซื้อเพราะไม่พบ NPC#
+เกิดข้อผิดพลาดในการซื้อเพราะระบบร้านค้า Kafra ไม่ได้ทำงานอย่างถูกต้อง#
+ไม่สามารถซื้อ Item ได้ในระหว่างทำการแลกเปลี่ยนอยู่#
+เกิดข้อผิดพลาดในการซื้อเพราะข้อมูล Item ไม่ถูกต้อง#
+STR ได้เพิ่มขึ้น#
+STR ได้กลับสู่ปกติ#
+AGI ได้เพิ่มขึ้น#
+AGI ได้กลับสู่ปกติ#
+VIT ได้เพิ่มขึ้น#
+VIT ได้กลับสู่ปกติ#
+INT ได้เพิ่มขึ้น#
+INT ได้กลับสู่ปกติ#
+DEX ได้เพิ่มขึ้น#
+DEX ได้กลับสู่ปกติ#
+LUK ได้เพิ่มขึ้น#
+LUK ได้กลับสู่ปกติ#
+อัตราหลบหลีก ได้เพิ่มขึ้น#
+อัตราหลบหลีก ได้กลับสู่ปกติ#
+อัตราความแม่นยำ ได้เพิ่มขึ้น#
+อัตราความแม่นยำ ได้กลับสู่ปกติ#
+อัตรา Critical Attack ได้เพิ่มขึ้น#
+อัตรา Critical Attack ได้กลับสู่ปกติ#
+คุณจะได้รับ EXP มากขึ้น 1.5 เท่าจากการกำจัด Monster เป็นเวลา 30 นาที#
+ตัวละครจะไม่ถูกลด EXP หากหมดสติ เป็นเวลา 30 นาที#
+อัตราการ Drop Item มากขึ้น 2 เท่าจากการกำจัด Monster เป็นเวลา 30 นาที#
+แสดงข้อมูล Boss ภายในแผนที่เป็นเวลา 10 นาที#
+ต้องการซื้อ Item ดังกล่าวจริง ๆ หรือไม่? %d แต้มจะถูกลดจากแต้ม Kafra#
+ คุณมีแต้ม Kafra ไม่เพียงพอ#
+ ^ff0000วันหมดอายุ: %s^000000#
+ '%s' Item จะหายไปภายใน %d นาที#
+ '%s' item จะถูกลบจากช่องเก็บของภายใน 1 นาที#
+  '%s' Item ถูกลบจากช่องเก็บของ#
+ใส่ตัวเลข#
 %m/%d %H:%M#
-Boss Monster '%s' will appear within 1 minute.#
-Mercenary Soldier Skill List#
+Boss '%s' จะปรากฎภายใน 1 นาที#
+รายการ Skill ของ Mercenary#
 Do you agree to cast the magic spell that consumes 1 Black Gemstone and 1,000,000 Zeny?#
 [Point] You have gained %d Collector Rank Points; you now have a total of %d Collector Rank Points.#
 [Collector Rank] Target Item: %s#
