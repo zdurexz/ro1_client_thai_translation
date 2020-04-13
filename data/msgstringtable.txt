@@ -1121,22 +1121,22 @@ Taekwon Master (ชาย)#
 Taekwon Master (หญิง)#
 Soul Linker (ชาย)#
 Soul Linker (หญิง)#
-Please check the connection, more than 2 accounts are connected with Internet Cafe Time Plan.#
-Your account is using monthly payment. (Remaining day: %d day)#
-Your account is using time limited. (Remaining time: %d hour %d minute %d second)#
-This item cannot be mailed.#
-You cannot accept any more items. Please try again later.#
-Male#
-Female#
-New User.#
-E-mail address is required to delete a character.#
-Please enter the correct information.#
-Please use this key.#
-Please enter the correct card password.#
-PT Info#
-PT_ID is %s#
-NUM_ID is %s#
-Please don't forget this information.#
+โปรดตรวจสอบการเชื่อมต่อ มี 2 ID ที่เชื่อมต่อด้วยการเล่นที่ใช้ค่าชั่วโมงของ Internet Cafe#
+ID ของคุณจ่ายค่าบริการแบบรายเดือน (จำนวนวันคงเหลือ: %d วัน)#
+ID ของคุณจ่ายค่าบริการแบบรายชั่วโมง (เวลาคงเหลือ: %d ชั่วโมง %d นาที %d วินาที)#
+Item ดังกล่าวส่งทางจดหมายไม่ได้#
+คุณไม่สามารถรับ Item ใด ๆ เพิ่มได้ โปรดลองใหม่ภายหลัง#
+ผู้ชาย#
+ผู้หญิง#
+ผู้เล่นใหม่#
+ต้องการ E-mail เพื่อใช้ในการลบตัวละคร#
+โปรดระบุข้อมูลที่ถูกต้อง#
+โปรดใช้ Key นี้#
+โปรดระบุ Password Card ที่ถูกต้อง#
+ข้อมูล PT#
+PT_ID คือ %s#
+NUM_ID คือ %s#
+โปรดอย่าลืมข้อมูลดังกล่าว#
 1001#
 1002#
 1003#
@@ -1150,7 +1150,7 @@ Please don't forget this information.#
 1014#
 1015#
 1019#
-Navigation#
+การนำทาง#
 1021#
 1023#
 1024#
@@ -1167,28 +1167,28 @@ Navigation#
 90#
 100#
 110#
-Do you want to receive 30 points?#
-30 points (5 hours) have been added.#
-You cannot register Unidentified Items in auctions.#
-You cannot register this Consumable Item in an auction.#
-Please close the Cart Window to open the Mail Window.#
-Please close the Mail Window to open the Cart Window.#
-Bullets have been equipped.#
-The mail has been returned to sender.#
-The mail no longer exists.#
-More than 30 players sharing the same IP have logged into the game for an hour. Please check this matter.#
-More than 10 connections sharing the same IP have logged into the game for an hour. Please check this matter.#
-Please restart the game.#
+ต้องการรับ 30 แต้ม?#
+30 แต้ม (5 ชั่วโมง) ถูกเพิ่มให้เรียบร้อยแล้ว#
+คุณไม่สามารถลงทะเบียน Item ที่ยังไม่ได้ตรวจสอบในการประมูลได้#
+คุณไม่สามารถลงทะเบียน Item ชนิดกดใช้ในการประมูลได้#
+โปรดปิดหน้าต่างรถเข็นเพื่อเปิดหน้าต่างจดหมาย#
+โปรดปิดหน้าต่างจดหมายเพื่อเปิดหน้าต่างรถเข็น#
+สวมใส่ Bullets เรียบร้อยแล้ว#
+จดหมายถูกส่งกลับไปยังผู้ส่ง#
+จดหมายดังกล่าวไม่มีอีกต่อไปแล้ว#
+มีผู้เล่นมากกว่า 30 คนที่เล่นด้วย IP เดียวกันเป็นเวลาร่วมชั่วโมง โปรดตรวจสอบด้วย#
+มีการเชื่อมต่อด้วย IP เดียวกันมากกว่า 10 คนเป็นเวลาร่วมชั่วโมง โปรดตรวจสอบด้วย#
+โปรดเข้าเกมใหม่อีกครั้ง#
 Mercenary: Archer#
 Mercenary: Swordman#
 Mercenary: Spearman#
-Expiration#
-Loyalty#
-Summons#
-Kill#
-You can feel hatred from your pet for neglecting to feed it.#
-[POINT] You earned %d Taming Mission Ranking Points, giving you a total of %d points.#
-[Taming Mission] Target Monster: %s#
+วันหมดอายุ#
+ความภักดี#
+เรียกมา#
+ฆ่า#
+Pet ของคุณเกลียดคุณสำหรับการลืมให้อาหารมัน#
+[แต้ม] ได้รับ %d แต้มจัดอันดับ ภารกิจการจับ Pet แต้มทั้งหมดคือ %d แต้ม#
+[ภารกิจการจับ Pet] Monster เป้าหมาย: %s#
 /hunting: You can check the your hunting list.#
 [Angel's Question] Please tell me, how many %s skills do you have?#
 [Angel's Question] Please tell me, how much zeny you'll have if you divide it by 100,000?#
