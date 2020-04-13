@@ -899,8 +899,8 @@ Stats ของคุณทุกชนิดสูงขึ้นเป็นเวลาชั่วคราว#
 ความแม่นยำและการหลบหลีกของคุณสูงขึ้นเป็นเวลาชั่วคราว#
 คุณไม่สามารถอุปการะเลี้ยงดูเด็กได้มากกว่า 1 คน#
 คุณต้องเลเวลอย่างน้อย 70 เพื่อเริ่มที่จะเลี้ยงดูใครบางคน#
-[Point] คุณได้รับ %d แต้มอันดับ Blacksmith แต้มทั้งหมดคือ %d#
-[Point] คุณได้รับ %d แต้มอันดับ Alchemist แต้มทั้งหมดคือ %d#
+[Point] คุณได้รับ %d แต้มอันดับ Blacksmith แต้มทั้งหมดคือ %d แต้ม#
+[Point] คุณได้รับ %d แต้มอันดับ Alchemist แต้มทั้งหมดคือ %d แต้ม#
 เหล่าเทวดา ท่านได้ยินเสียงของข้าหรือไม่?#
 ข้าได้ยิน#
 Super Novice~#
@@ -924,7 +924,7 @@ Super Novice~#
 /blacksmith: แสดง 10 อันดับ Blacksmiths ภายใน Server#
 /alchemist: แสดง 10 อันดับ Alchemists ภายใน Server#
 [Alt] + [Y]: เปิดหน้าต่างคำสั่งต่าง ๆ ที่คุณสามารถใช้ได้#
-[แต้ม] คุณได้รับ %d แต้มภารกิจจัดอันดับ Tae-Kwon แต้มทั้งหมดคือ %d#
+[แต้ม] คุณได้รับ %d แต้มภารกิจจัดอันดับ Tae-Kwon แต้มทั้งหมดคือ %d แต้ม#
 [ภารกิจ Taekwon] Monster เป้าหมาย: %s (%d%%)#
 เกิดข้อผิดพลาดกับการเริ่มการใช้งาน Game Guard: %lu#
 ระบบตรวจพบการโกง Speed Hack#
@@ -951,7 +951,7 @@ Game Guard กำลังทำงานอยู่โปรดรอสักพักและเข้าเกมใหม่อีกครั้ง#
 /desp#
 /dice#
 /pk: แสดง 10 อันดับฆาตกรภายใน Server#
-[แต้ม] คุณได้รับ %d แต้มอันดับฆาตกร แต้มทั้งหมดคือ %d#
+[แต้ม] คุณได้รับ %d แต้มอันดับฆาตกร แต้มทั้งหมดคือ %d แต้ม#
 สามารถ Evolution ได้#
 คุณตัดสินใจที่จะลบ Homunculus ดังกล่าว ^ff0000^ff0000 เมื่อตัดสินใจแล้ว Homunculus และประวัติต่าง ๆ ของมันจะถูกลบและไม่สามารถนำกลับคืนมาได้ในอนาคต ยืนยันที่จะดำเนินการต่อหรือไม่?#
 บันทึกสถานะ Homunculus เป็น File#
@@ -1261,52 +1261,52 @@ LUK ได้กลับสู่ปกติ#
 %m/%d %H:%M#
 Boss '%s' จะปรากฎภายใน 1 นาที#
 รายการ Skill ของ Mercenary#
-Do you agree to cast the magic spell that consumes 1 Black Gemstone and 1,000,000 Zeny?#
-[Point] You have gained %d Collector Rank Points; you now have a total of %d Collector Rank Points.#
-[Collector Rank] Target Item: %s#
-The mercenary contract has expired.#
-The mercenary has died.#
-You have released the mercenary.#
-The mercenary has run away.#
- The '%s' item will disappear in %d seconds.#
-IP Bonus: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
-Symbols in Character Names are forbidden.#
-Mercenary will follow custom AI.#
-Mercenary will follow basic AI.#
+ยืนยันที่จะร่าย Skill ที่ใช้ 1 Black Gemstone และ 1,000,000 Zeny?#
+[แต้ม] ได้รับ %d แต้มจัดอันดับนักสะสม แต้มทั้งหมดคือ %d แต้ม#
+[อันดับนักสะสม] Item ที่ต้องหา: %s#
+สัญญาจ้าง Mercenary ได้จบลงแล้ว#
+Mercenary หมดสติลงแล้ว#
+คุณได้เลิกจ้าง Mercenary#
+Mercenary หนีจากคุณไปแล้ว#
+ '%s' Item จะหายไปภายใน %d วินาที#
+IP Bonus: EXP ที่ได้รับมากขึ้น %d%%, โทษของการหมดสติ %d%%, เพิ่มอัตรา Drop Item %d%%#
+ไม่อนุญาติให้ใช้ตัวอักษรพิเศษภายในชื่อตัวละคร#
+Mercenary จะติดตามด้วย AI ที่ดัดแปลงมา#
+Mercenary จะติดตามด้วย AI พื้นฐาน#
  %s's#
-%s has acquired %s.#
-Public Chat Display#
-Whisper Display#
-Party Chat Display#
-Guild Chat Display#
-Item Get/Drop Message Display#
-Equipment On/Off Message Display#
-Abnormal Status Message Display#
-Party Member's Obtained Item Message Display#
-Party Member's Abnormal Status Message Display#
-Skill Failure Message Display#
-Party Configuration Message Display#
-Damaged Equipment Message Display#
-Battle Message Window Display#
-[%s]'s Han Coin: %d Han Coin#
-Public Log#
-Battle Log#
-Mobile Authentication#
-Read#
-Auto Read#
+%s ได้รับ %s#
+การแสดงผลของการสนทนาสาธารณะ#
+การแสดงผลของการกระซิบ#
+การแสดงผลของการสนทนา Party#
+การแสดงผลของการสนทนา Guild#
+การแสดงผลของการได้รับ/ทิ้ง Item#
+การแสดงผลของการสวมใส่/ถอด อุปกรณ์สวมใส่#
+การแสดงผลของข้อความสถานะผิดปกติ#
+การแสดงผลของการได้รับ Item ของสมาชิกใน Party#
+การแสดงผลของข้อความสถานะผิดปกติ ของสมาชิกใน Party#
+การแสดงผลเมื่อเกิดข้อผิดพลาดในการใช้ Skill#
+การแสดงผลของการปรับแต่งการตั้งค่า Party#
+การแสดงผลเมื่ออุปกรณ์สวมใส่พัง#
+การแสดงผลของข้อความการต่อสู้#
+[%s]'s เหรียญ Han: %d เหรียญ Han#
+ข้อความสาธารณะ#
+ข้อความการต่อสู้#
+การยืนยันตัวตนด้วยมือถือ#
+อ่าน#
+อ่านอัตโนมัติ#
 Bookmark#
-Previous#
-Next#
-Close#
-%s's Equipment has been damaged.#
-%s's %s was damaged.#
-Weapon#
-Armor#
-Insufficient Skill Level for joining a Party#
+ก่อนหน้า#
+ถัดไป#
+ปิด#
+อุปกรณ์สวมใส่ของ %s's พัง#
+%s's %s พัง#
+อาวุธ#
+ชุดเกราะ#
+เลเวล Skill ไม่เพียงพอที่จะเข้าร่วม Party#
 [%s]'s Free Cash: %d Cash#
-Use Free Cash: #
+ใช้ Free Cash: #
 Cash#
-http://payment.ro.hangame.com/index.asp#
+https://discord.gg/TK6rVtY#
 You need to accept the Privacy Policy from Gravity in order to use the service.#
 You need to accept the User Agreement in order to use the service.#
 Incorrect or nonexistent ID.#
