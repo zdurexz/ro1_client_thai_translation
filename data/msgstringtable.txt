@@ -1070,57 +1070,57 @@ Item#
 ไม่พบ Item ดังกล่าวที่ค้นหา#
 ไม่พบรายการการขายของคุณ#
 ไม่พบรายการการซื้อของคุณ#
-Auction Information is incorrect or incomplete.#
-You must drag and drop an item from your Inventory into the Register Window to begin a new auction.#
-The auction has already been registered.#
-Starting Bid#
-Current Bid#
-Buy Now Price#
-Your Current Zeny#
-Highest Bid#
-Previous Bid#
-Next Bid#
-Press buy to confirm.#
-Would you like to sell this item?#
-Place Bid#
-Buy Now#
-End the Auction#
-Place another Bid#
-You have placed a bid.#
-You have failed to place a bid.#
-You do not have enough zeny.#
-Armor#
+ข้อมูลการประมูลไม่ถูกต้องหรือกรอกไม่ครบ#
+คุณต้องลาก Item มาวางจากช่องเก็บของไปยังหน้าต่างการลงทะเบียนเพื่อเริ่มการประมูล#
+การประมูลถูกลงทะเบียนไว้อยู่แล้ว#
+ราคาเริ่มต้นในการประมูล#
+ราคาประมูลปัจจุบัน#
+ราคาซื้อทันที#
+Zeny ของคุณปัจจุบัน#
+ราคาประมูลสูงสุด#
+ราคาประมูลก่อนหน้านี้#
+ราคาประมูลถัดไป#
+กดปุ่มซื้อเพื่อยืนยัน#
+ต้องการขาย Item ดังกล่าว?#
+ให้ราคาการประมูล#
+ซื้อทันที#
+จบการประมูล#
+ให้ราคาการประมูลอื่น ๆ อีก#
+คุณได้ให้ราคาการประมูลเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการให้ราคาการประมูล#
+คุณมี Zeny ไม่เพียงพอ#
+ชุดเกราะ#
 Card#
-Etc.#
-Bid#
-Search#
-You have ended the auction.#
-You cannot end the auction.#
-Bid Number is incorrect.#
-To#
-Title#
-You have received a message in the mail.#
-Searching...#
-You cannot register more than 5 items in an auction at a time.#
-You cannot place more than 5 bids at a time.#
-Please accept all items from your mail before deleting.#
-Please enter a title.#
-/shopping: Enables you to open a shop with a single left-click and close your shop with a single right-click. On Off#
-You can now open a shop with a single left-click and close your shop with a single right-click. [sh ON].#
-You can open a shop by double-clicking. [/sh OFF]#
-Please enter zeny amount before sending mail.#
-You do not have enough zeny to pay the Auction Fee.#
-View Status#
-Feed#
-Stand By#
-Super Novice (Male)#
-Super Novice (Female)#
+อื่น ๆ#
+ราคาการประมูล#
+ค้นหา#
+คุณได้ทำการจบการประมูล#
+คุณไม่สามารถทำการจบการประมูลได้#
+ตัวเลขการประมูลผิดพลาด#
+ส่งไปยัง#
+หัวข้อ#
+คุณได้รับข้อความผ่านทางจดหมาย#
+กำลังค้นหา...#
+คุณไม่สามารถลงทะเบียน Item ได้เกิน 5 ชิ้นต่อครั้ง#
+คุณไม่สามารถให้ราคาการประมูลได้เกิน 5 รอบต่อครั้ง#
+โปรดรับ Item จากจดหมายให้หมดเสียก่อนที่จะลบจดหมาย#
+โปรดระบุหัวข้อ#
+/shopping: เปิด/ปิด การใช้งาน เปิดร้านค้าแผงลอยด้วยการคลิกซ้ายและปิดด้วยการคลิกขวา#
+เปิดการใช้งาน เปิดร้านค้าแผงลอยด้วยการคลิกซ้ายและปิดด้วยการคลิกขวา [/sh]#
+ปิดการใช้งาน เปิดร้านค้าแผงลอยด้วยการคลิกซ้ายและปิดด้วยการคลิกขวา [/sh]#
+โปรดระบุจำนวน Zeny ก่อนที่จะส่งจดหมาย#
+คุณมี Zeny ไม่เพียงพอที่จะจ่ายค่าบริการการประมูล#
+ดูสถานะ#
+ให้อาหาร#
+อยู่นิ่ง ๆ#
+Super Novice (ชาย)#
+Super Novice (หญิง)#
 Taekwon Boy#
 Taekwon Girl#
-Taekwon Master (Male)#
-Taekwon Master (Female)#
-Soul Linker (Male)#
-Soul Linker (Female)#
+Taekwon Master (ชาย)#
+Taekwon Master (หญิง)#
+Soul Linker (ชาย)#
+Soul Linker (หญิง)#
 Please check the connection, more than 2 accounts are connected with Internet Cafe Time Plan.#
 Your account is using monthly payment. (Remaining day: %d day)#
 Your account is using time limited. (Remaining time: %d hour %d minute %d second)#
