@@ -1189,29 +1189,29 @@ Mercenary: Spearman#
 Pet ของคุณเกลียดคุณสำหรับการลืมให้อาหารมัน#
 [แต้ม] ได้รับ %d แต้มจัดอันดับ ภารกิจการจับ Pet แต้มทั้งหมดคือ %d แต้ม#
 [ภารกิจการจับ Pet] Monster เป้าหมาย: %s#
-/hunting: You can check the your hunting list.#
-[Angel's Question] Please tell me, how many %s skills do you have?#
-[Angel's Question] Please tell me, how much zeny you'll have if you divide it by 100,000?#
-[Angel's Question] Please tell me, what is today's date?#
-[Angel's Question] Please tell me, how many %s do you have?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in SiYeon's name?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Munak's name?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Bongun's name?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, Ragnarok?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, online?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, death?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, knight?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, gravity?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, dark?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, collecter?#
-[Angel's Answer] Thank you for letting me know~#
-[Angel's Answer] I'm very pleased with your answer. You are a splendid adventurer.#
-[Angel's Answer] You've disappointed me...#
-[Point] You earned %d Ranking Points, giving you a total of %d Ranking Points.#
-[%s]'s Points: %d Points#
-Unselected Characters will be deleted. Continue?#
-You cannot select more than 8.#
-Do you want to change your name to '%s'?#
+/hunting: ตรวจสอบรายการการล่า#
+[คำถามจากเทวดา] บอกฉันสิ คุณมี Skill %s เท่าไหร่?#
+[คำถามจากเทวดา] บอกฉันสิ คุณจะมี Zeny เท่าไหร่หากหารมันด้วย 100,000?#
+[คำถามจากเทวดา] บอกฉันสิ วันนี้เป็นวันอะไร?#
+[คำถามจากเทวดา] บอกฉันสิ คุณมี %s เท่าไหร่?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในชื่อ SiYeon's?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในชื่อ Munak's?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในชื่อ Bongun's?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในคำว่า Ragnarok?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในคำว่า online?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในคำว่า death?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในคำว่า knight?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในคำว่า gravity?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในคำว่า dark?#
+[คำถามจากเทวดา] ถ้า A คือ 1, B คือ 2, และถ้า Z คือ 26, จำนวนเท่าใดที่คุณจะได้รับ ถ้าบวกเลขด้วยตัวอักษรในคำว่า collecter?#
+[คำตอบจากเทวดา] ขอบคุณเจ้ามากที่ทำให้ข้าได้รู้แจ้งเห็นจริง~#
+[คำตอบจากเทวดา] ข้าพอใจกับคำตอบของเจ้าเป็นอย่างยิ่ง เจ้าคือนักพจญภัยวิเศษไปเลย#
+[คำตอบจากเทวดา] เจ้าทำให้ข้าผิดหวังนะ...#
+[แต้ม] ได้รับ %d แต้มจัดอันดับ แต้มจัดอันดับทั้งหมดคือ %d แต้ม#
+แต้มของ [%s]'s: %d แต้ม#
+ตัวละครที่ไม่ได้ถูกเลือกจะถูกลบ ยืนยันการดำเนินการต่อหรือไม่?#
+คุณไม่สามารถเลือกเกิน 8 ตัวได้#
+ต้องการเปลี่ยนชื่อของคุณเป็น '%s'?#
 Character Name has been changed successfully.#
 You have failed to change this character's name.#
 You can purchase only one kind of item at a time.#
