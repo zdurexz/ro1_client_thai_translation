@@ -1307,115 +1307,115 @@ Bookmark#
 ใช้ Free Cash: #
 Cash#
 https://discord.gg/TK6rVtY#
-You need to accept the Privacy Policy from Gravity in order to use the service.#
-You need to accept the User Agreement in order to use the service.#
-Incorrect or nonexistent ID.#
-Do you really want to purchase these items? You will spend %d Regular Cash Points and %d Free Cash Points.#
-%d hour(s) has passed.#
-%d hour(s) %d minute(s) has passed.#
-Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
-Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%.#
-Quest List#
-RO Shop#
-Memorial Dungeon, '%s' is booked.#
-Failed to book Memorial Dungeon, '%s'.#
-Memorial Dungeon, '%s' is already booked.#
-Memorial Dungeon, '%s' is created.\n Please enter in 5 minutes.#
-Failed to create Memorial Dungeon, '%s'.\n Please try again.#
-The character blocked the party invitation.#
-Block all party invitations.#
-Allow all party invitations.#
-This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
-%s is now permanently bound to this character.#
-You do not have enough Kafra Credit Points. Please enter whether you have free credit points.#
-Request to Join Party#
-Display WOE Info#
-Memorial Dungeon %s's reservation has been canceled.#
-Failed to create Memorial Dungeon %s. Please try again.#
-This skill cannot be used within this area.#
-This item cannot be used within this area.#
+คุณต้องยอมรับนโยบายส่วนตัวในการเล่นจาก Gravity#
+คุณต้องยอมรับข้อตกลงของผู้ใช้งานในการเล่นจาก Gravity#
+ID ที่ระบุผิดพลาดหรือไม่มีอยู่จริง#
+ต้องการซื้อ Item ดังกล่าวหรือไม่? ต้องจ่าย %d Cash ปกติและ %d Free Cash#
+ผ่านมาแล้ว %d ชั่วโมง#
+ผ่านมาแล้ว%d ชั่วโมง %d นาที#
+โปรดหยุดการเล่นเกมก่อน ไปพักก่อน ตอนนี้อัตรา EXP และอัตราต่าง ๆ จะถูกลด 50%#
+โปรดหยุดการเล่นเกมก่อน ต้องพักผ่อนนะ ตอนนี้อัตรา EXP และอัตราต่าง ๆ จะถูกลดเหลือ 0%#
+รายการภารกิจ#
+ร้านค้า RO#
+จอง Memorial Dungeon '%s' เรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการจอง Memorial Dungeon '%s'#
+ได้จอง Memorial Dungeon '%s' ไปแล้ว#
+Memorial Dungeon '%s' ถูกสร้างเรียบร้อยแล้ว\n โปรดเข้าภายใน 5 นาที#
+เกิดข้อผิดพลาดในการสร้าง Memorial Dungeon '%s'\n โปรดลองใหม่อีกครั้ง#
+ตัวละครดังกล่าวไม่รับการเชิญชวนเข้า Party#
+ไม่รับการเชิญชวนเข้า Party#
+รับการเชิญชวนเข้า Party#
+Item ดังกล่าวจะถูกผนึกไว้กับตัวละครนี้ตลอดไปเมื่อสวมใส่ ต้องการดำเนินการต่อหรือไม่?#
+%s ถูกผนึกไว้กับตัวละครนี้ตลอดไป#
+คุณมีแต้ม Kafra ไม่เพียงพอ โปรดระบุแต้ม Free Kafra เพิ่มไปด้วยหากมี#
+เชิญชวนให้เข้าร่วม Party#
+แสดงข้อมูล WOE#
+การจอง Memorial Dungeon %s's ถูกยกเลิกเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดในการสร้าง Memorial Dungeon %s โปรดลองใหม่อีกครั้ง#
+ไม่สามารถใช้ Skill ดังกล่าวได้ในแผนที่นี้#
+ไม่สามารถใช้ Item ดังกล่าวได้ในแผนที่นี้#
 Memorial Dungeon#
-%s in Standby#
-%s Available#
-%s in Progress#
-No one entered the Memorial Dungeon within its duration; the dungeon has disappeared.#
-Please apply for dungeon entry again to play in this dungeon.#
-Your Standby Priority: ^ff0000%d^000000#
-The requested dungeon will be removed if you do not enter within ^ff0000%s^000000.#
-Dungeon Mission Time Limit:#
-The Memorial Dungeon reservation has been canceled.#
-The Memorial Dungeon duration expired; it has been destroyed.#
-The Memorial Dungeon's entry time limit expired; it has been destroyed.#
-The Memorial Dungeon has been removed.#
-A system error has occurred in the Memorial Dungeon. Please relog in to the game to continue playing.#
-This slot is not usable.#
-Your Base Level is over 15.#
-Your Job Level is over 15.#
-You cannot play the Merchant class character in this slot.#
-Not Yet Implemented#
-You are not eligible to open the Character Slot.#
-This character cannot be deleted.#
-This character's equipment information is not open to the public.#
-Equipment information not open to the public.#
-Equipment information open to the public.#
-Check %s's Equipment Info#
-'%s's Equipment#
-Show Equip#
-This service is only available for premium users.#
-Free Trial users can only hold up to 50,000 zeny.#
-Battlefield Chat has been activated.#
-Battlefield Chat has been deactivated.#
-Mercenary Info - Monster Type#
-World Map#
-The Memorial Dungeon is now closed.#
-^ff0000Deleting a Mercenary Soldier^000000 will also delete his growth history. Do you really want to proceed with the deletion?#
-The Memorial Dungeon is now open.#
-This account has not been confirmed by connecting to the safe communication key. Please connect to the key first, and then log into the game.#
-The number of accounts connected to this IP has exceeded the limit.#
-You have received a new quest.#
-^CC3399Requirement:#
-View Skill Info#
-Once used, skill points cannot be re-allocated. Would you like to use the skill points?#
+%s กำลังเตรียมพร้อม#
+%s พร้อมแล้ว#
+%s กำลังดำเนินอยู่#
+ไม่มีใครเข้า Memorial Dungeon ภายในระยะเวลา Dungeon ได้หายไปเรียบร้อยแล้ว#
+โปรดจองการเข้า Dungeon ใหม่อีกครั้งเพื่อเล่น Dungeon ดังกล่าว#
+ลำดับการรอของคุณ: ^ff0000%d^000000#
+Dungeon ที่จองจะถูกลบหากคุณไม่เข้าภายใน ^ff0000%s^000000#
+เวลาที่เล่นได้ Dungeon Mission:#
+การจอง Memorial Dungeon ถูกยกเลิกเรียบร้อยแล้ว#
+หมดเวลา Memorial Dungeon แล้วและมันถูกทำลายเรียบร้อยแล้ว#
+หมดเวลาในการเข้า Memorial Dungeon's แล้วและมันถูกทำลายเรียบร้อยแล้ว#
+Memorial Dungeon ถูกลบเรียบร้อยแล้ว#
+เกิดข้อผิดพลาดจากระบบ Memorial Dungeon โปรดลองเข้าเกมใหม่เพื่อเล่นต่อ#
+ช่องดังกล่าวใช้ไม่ได้#
+เลเวลของคุณเกิน 15#
+Job เลเวลของคุณเกิน 15#
+ไม่สามารถเล่นอาชีพ Merchant ในช่องดังกล่าวได้#
+ยังไม่พร้อมใช้งาน#
+คุณยังไม่สามารถเปิดการใช้งานช่องตัวละครดังกล่าวได้#
+ตัวละครดังกล่าวไม่สามารถลบได้#
+ตัวละครดังกล่าวไม่เปิดเผยข้อมูลอุปกรณ์สวมใส่#
+ไม่เปิดเผยข้อมูลอุปกรณ์สวมใส่#
+เปิดเผยข้อมูลอุปกรณ์สวมใส่#
+ดูข้อมูลอุปกรณ์สวมใส่ของ %s's#
+อุปกรณ์สวมใส่ของ '%s's#
+แสดงอุปกรณ์สวมใส่#
+บริากรดังกล่าวใช้ได้เฉพาะผู้ใช้งานระดับ Premium#
+ผู้เล่น Free สามารถมี Zeny ได้มากสุด 50,000 zeny#
+เปิดการใช้งาน การสนทนาภายใน Battlefield#
+ปิดการใช้งาน การสนทนาภายใน Battlefield#
+ข้อมูล Mercenary - ประเภท Monster#
+แผนที่โลก#
+ตอนนี้ Memorial Dungeon ปิดแล้ว#
+^ff0000การลบ Mercenary^000000 จะลบประวัติการเติบโตไปด้วย ต้องการดำเนินการต่อหรือไม่?#
+ตอนนี้ Memorial Dungeon เปิดแล้ว#
+ID ดังกล่าวยังไม่ได้เปิดใช้ Key ความปลอดภัย โปรดเชื่อมต่อ Key ก่อนและลองเข้าเกมใหม่อีกครั้ง#
+การเชื่อมต่อด้วย IP ดังกล่าวเกินขีดจำกัดแล้ว#
+คุณได้รับภารกิจใหม่#
+^CC3399สิ่งที่ต้องการ:#
+ดูข้อมูล Skill#
+เมื่อใช้แล้วแต้ม Skill จะไม่สามารถนำคืนมาได้ ต้องการดำเนินการต่อหรือไม่?#
 1st#
 2nd#
-This account has been used for illegal program or hacking program. Block Time: %s#
-The possibility of exposure to illegal program, PC virus infection or Hacking Tool has been detected. Please execute licensed client. Our team is trying to make a best environment for Ro players.#
-You are currently playing in the best game environment. Please enjoy the Ragnarok.#
-Job Exp points from hunting monsters are increased by 50% for 30 minutes.#
-Exp points from hunting monsters are increased by 25% for 30 minutes.#
-EXP points from hunting monsters are increased by 100%% for 30 minutes.#
-EXP points from hunting monsters are increased by 50% for 60 minutes.#
-Unable to organize a party in this map.#
-(%s) are currently in restricted map to join a party.#
-Simple Item Shop#
-Han Coin: %d Han Coin#
-RoK Point: %d RoK Point#
+ตรวจพบการใช้ Program โกงของ ID ดังกล่าว เวลาการระงับ: %s#
+พบ Program ที่อาจเป็น Program โกงหรือ Program Scan Virus หรือ Hacking Tool โปรดใช้ตัวเกมที่ถูกต้อง เราพยายามสร้างสังคมที่ดีให้กับผู้เล่นเกมนะ#
+คุณใช้ตัวเกมที่ดีที่สุดแล้ว! ขอให้มีความสุขในการเล่น Ragnarok#
+Job EXP จากการล่า Monster เพิ่มขึ้น 50% เป็นเวลา 30 นาที#
+EXP จากการล่า Monster เพิ่มขึ้น 25% เป็นเวลา 30 นาที#
+EXP จากการล่า Monster เพิ่มขึ้น 100% เป็นเวลา 30 นาที#
+EXP จากการล่า Monster เพิ่มขึ้น 50% เป็นเวลา 60 นาที#
+ไม่สามารถจัดตั้ง Party ได้ภายในแผนที่นี้#
+(%s) คนที่อยู่ภายในแผนที่ที่ไม่สามารถเข้าร่วม Party ได้#
+ร้านค้า Item ธรรมดา ๆ#
+เหรียญ Han: %d เหรียญ Han#
+แต้ม RoK: %d แต้ม RoK#
 Free Cash: %d Cash#
-An user of this server cannot connect to free server#
-Your password has expired. Please log in again#
+ผู้ใช้งานภายใน Server ดังกล่าวไม่สามารถเชื่อมต่อไปยัง Server Free ได้#
+Password ของคุณหมดอายุแล้ว โปรดเข้าเกมใหม่#
 3rd#
-This skill can't be used on that target.#
-You can't use skill because you have exceeded the number Ancilla possession limit#
-Unable to use the skill to exceed the number of Ancilla.#
-Holy water is required.#
-Ancilla is required.#
-Cannot be duplicated within a certain distance.#
-This skill requires other skills to be used.#
-Chat is not allowed in this map#
-3 hours have passed.#
-5 hours have passed.#
-Game guard initialization error or previous version game guard file is installed. Please re-install the setup file and try again#
-Either ini file is missing or altered. Install game guard setup file to fix the problem#
-There is a program found that conflicts with game guard#
-Incorrect client. Please run a normal client#
-Thank you to accept mobile authentication.#
-This skill can't be used alone#
-This skill can be used to certain direction only#
-Cannot summon spheres anymore.#
-There is no summoned sphere or you do not have enough sphere.#
-There is no imitation skills available.#
-You can't reuse this skill#
-Skill can't be used in this state#
+Skill ดังกล่าวไม่สามารถใช้กับเป้าหมายดังกล่าวได้#
+ไม่สามารถใช้ Skill ดังกล่าวได้เนื่องจากเกินขีดจำกัดของ Ancilla possession#
+ไม่สามารถใช้ Skill ให้เกินขีดจำกัดของ Ancilla ได้#
+ต้องการ Holy water#
+ต้องการ Ancilla#
+ไม่สามารถจำลองภายในระยะดังกล่าวได้#
+Skill ดังกล่าวต้องการ Skill อื่น ๆ อีกในการใช้#
+ไม่สามารถสนทนาได้ภายในแผนที่ดังกล่าว#
+เล่นมาแล้ว 3 ชั่วโมง#
+เล่นมาแล้ว 5 ชั่วโมง#
+เกิดข้อผิดพลาดในการเริ่มต้นการใช้งาน Game Guard หรือยังมีไฟล์ Game Guard Version เก่าอยู่ โปรดลองติดตั้งใหม่อีกครั้งและลองใหม่#
+ไม่พบ File ini หรือมันถูกปรับแต่ง โปรดติดตั้ง Game Guard เพื่อกำจัดปัญหา#
+พบ Program ที่ก่อกวน Game Guard#
+ตัวเกมไม่ถูกต้อง โปรดใช้ตัวเกมปกติ#
+ขอบคุณที่ใช้การยืนยันตนผ่านมือถือ#
+Skill ดังกล่าวใช้คนเดียวไม่ได้#
+Skill ดังกล่าวสามารถใช้ได้ในระยะที่สมควรเท่านั้น#
+ไม่สามารถเรียก Sphere เพิ่มได้อีก#
+ไม่พบ Sphere หรือคุณมี Sphere ไม่เพียงพอ#
+ไม่พบ Skill ที่ได้เลียนแบบ#
+ไม่สามารถใช้ Skill ดังกล่าวได้อีก#
+ไม่สามารถใช้ Skill ดังกล่าวได้ภายในสถานะนี้#
 You have exceeded the maximum amount of possession of another item.#
 No administrative privileges. Must first run the program with administrator privileges.#
 nProtect KeyCrypt not the same. Please restart the program and the computer first.#
