@@ -1416,21 +1416,21 @@ Skill ดังกล่าวสามารถใช้ได้ในระยะที่สมควรเท่านั้น#
 ไม่พบ Skill ที่ได้เลียนแบบ#
 ไม่สามารถใช้ Skill ดังกล่าวได้อีก#
 ไม่สามารถใช้ Skill ดังกล่าวได้ภายในสถานะนี้#
-You have exceeded the maximum amount of possession of another item.#
-No administrative privileges. Must first run the program with administrator privileges.#
-nProtect KeyCrypt not the same. Please restart the program and the computer first.#
-Currently wearing WindowXP Compatibility Mode. The program now removes Compatibility Mode. Please restart the program.#
-PS/2 keyloggers exist.#
-USB Keylogging attempt was detected.#
-HHD monitoring tool has been detected.#
-Paintbrush is required.#
-Paint is required.#
-Use the skills that are not at the specified location.#
-Not enough SP.#
-Character %d is character selection window cannot connect to the game that exceeds the total. Please remove unwanted characters.#
-Throat Lozenge is required.#
-Painful Tears is required.#
-Throat Lozenge is required.#
+คุณได้ครอบครอง Item อื่น ๆ มากกว่าจำนวนที่กำหนดแล้ว#
+ตัวเกมไม่ได้เข้าเล่นด้วยผู้ใช้งาน Admin ลองเข้าโปรแกรมด้วยการคลิกขวาที่ Icon เกมแล้วกด Run as Admin#
+nProtect KeyCrypt ไม่เหมือนเดิม โปรดเข้าเกมใหม่หรือลอง Restart ระบบปฎิบัติการดู#
+พบการเข้าเล่นเกมด้วย Compatibility Mode Windows XP เราได้ทำการลบ Compatibility Mode ไปแล้วโปรดลองเข้าเกมใหม่อีกครั้ง#
+พบ PS/2 Keyloggers#
+พบ USB Keylogging#
+พบ HHD Monitoring Tool#
+ต้องการ Paintbrush#
+ต้องการ Paint#
+บริเวณที่ใช้ Skill ดังกล่าวไม่ถูกต้อง#
+SP ไม่เพียงพอ#
+ตัวละคร %d คือตัวละครในหน้าต่างเลือกตัวละครที่ไม่สามารถเชื่อมต่อเข้าเกมได้ โปรดลบตัวละครที่ไม่ต้องการทิ้ง#
+ต้องการ Throat Lozenge#
+ต้องการ Painful Tears#
+ต้องการ Throat Lozenge#
 Cooperation is only available with Weapon Blocking.#
 Poisoned weapons is required.#
 Item can only be used when Mado Gear is mounted.#
