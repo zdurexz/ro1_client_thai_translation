@@ -244,8 +244,8 @@ Item ภายในรถเข็น [Alt] + [W]#
 ไม่สามารถโจมตีหรือใช้ Skill ได้เนื่องจากคุณแบก Item มากเกินไป#
 ไม่สามารถใช้ Skill ได้เนื่องจากคุณแบก Item มากเกินไป#
 สวมใส่กระสุนเรียบร้อยแล้ว#
-ต้องการ Red Gemstone#
-ต้องการ Blue Gemstone#
+ต้องการ [Red Gemstone]#
+ต้องการ [Blue Gemstone]#
 Strength#
 Agility#
 Vitality#
@@ -694,7 +694,7 @@ Guild ของคุณมีทุนไม่พอที่จะจ่ายค่าการพจญภัยดังกล่าว#
 ค่าธรรมเนียมปัจจุบัน#
 ไม่สามารถกระทำการดังกล่าวได้เนื่องจากคุณมี Zeny ไม่เพียงพอ หรือจำนวนดังกล่าวเกินการจำกัด Zeny ของคุณอยู่#
 ตัวละครคุณหมดสติ กดปุ่ม ESC เพื่อกลับสู่จุดเซฟล่าสุด#
-- ได้รับ %d#
+ - ได้รับ %d#
 รายการคาถา#
 /minimize#
 Item ดังกล่าวพังอยู่#
@@ -1397,8 +1397,8 @@ Password ของคุณหมดอายุแล้ว โปรดเข้าเกมใหม่#
 Skill ดังกล่าวไม่สามารถใช้กับเป้าหมายดังกล่าวได้#
 ไม่สามารถใช้ Skill ดังกล่าวได้เนื่องจากเกินขีดจำกัดของ Ancilla possession#
 ไม่สามารถใช้ Skill ให้เกินขีดจำกัดของ Ancilla ได้#
-ต้องการ Holy water#
-ต้องการ Ancilla#
+ต้องการ [Holy water]#
+ต้องการ [Ancilla]#
 ไม่สามารถจำลองภายในระยะดังกล่าวได้#
 Skill ดังกล่าวต้องการ Skill อื่น ๆ อีกในการใช้#
 ไม่สามารถสนทนาได้ภายในแผนที่ดังกล่าว#
@@ -1423,20 +1423,20 @@ nProtect KeyCrypt ไม่เหมือนเดิม โปรดเข้าเกมใหม่หรือลอง Restart ระบบปฎิบัติการดู#
 พบ PS/2 Keyloggers#
 พบ USB Keylogging#
 พบ HHD Monitoring Tool#
-ต้องการ Paintbrush#
-ต้องการ Paint#
+ต้องการ [Paintbrush]#
+ต้องการ [Paint]#
 บริเวณที่ใช้ Skill ดังกล่าวไม่ถูกต้อง#
 SP ไม่เพียงพอ#
 ตัวละคร %d คือตัวละครในหน้าต่างเลือกตัวละครที่ไม่สามารถเชื่อมต่อเข้าเกมได้ โปรดลบตัวละครที่ไม่ต้องการทิ้ง#
-ต้องการ Throat Lozenge#
-ต้องการ Painful Tears#
-ต้องการ Throat Lozenge#
+ต้องการ [Throat Lozenge]#
+ต้องการ [Painful Tears]#
+ต้องการ [Throat Lozenge]#
 ใช้งานร่วมกับ Weapon Blocking เท่านั้น#
-ต้องการ Poisoned weapons#
+ต้องการ [Poisoned weapons]#
 Item ดังกล่าวสามารถใช้ได้ต่อเมื่อขี่ Mado Gear อยู่#
-ต้องการ Vulcan Bullet#
-ต้องการ Mado Gear Fuel#
-ต้องการ Liquid Cold Bullet#
+ต้องการ [Vulcan Bullet]#
+ต้องการ [Mado Gear Fuel]#
+ต้องการ [Liquid Cold Bullet]#
 โปรดใส่กระสุน Cannon Ball#
 โปรดสวมใส่คู่กับ Mado Gear Accelerator#
 โปรดสวมใส่คู่กับ Hovering Booster#
@@ -1451,13 +1451,13 @@ Item ดังกล่าวสามารถใช้ได้ต่อเมื่อขี่ Mado Gear อยู่#
 ใช้ได้เฉพาะเมื่ออยู่ในสถานะ Hovering#
 โปรดสวมใส่ Self-Destruct Mechanism#
 โปรดสวมใส่ Shape Shift#
-ต้องการ Guillotine Cross Poison#
+ต้องการ [Guillotine Cross Poison]#
 โปรดสวมใส่คู่กับ Cooling System#
 โปรดสวมใส่คู่กับ Magnetic Field Generator#
 โปรดสวมใส่คู่กับ Barrier Generator#
 โปรดสวมใส่คู่กับ Optical Camouflage Generator#
 โปรดสวมใส่คู่กับ Repair Kit#
-ต้องการ Monkey Wrench#
+ต้องการ [Monkey Wrench]#
 ไม่สามารถใช้ Skill [%s] ได้เนื่องจากกำลังอยู่ในช่วง Cooldown#
 การลบเป็นไปไม่ได้สำหรับเลเวลที่มากกว่า %d#
 ไม่สามารถใช้ได้เมื่อขี่ Magic Gear#
@@ -1470,35 +1470,35 @@ Cash#
 กระสุน#
 Card#
 M#
-Client response time has passed so connection is terminated#
-Incorrect version of hack shield file. Please reinstall the client#
-[Magic Book] is required.#
-Feel sleepy since Magic Book is too difficult to understand.#
-Not enough saved point.#
-Can't read a Magic Book anymore.#
-Face Paint is required.#
-Brush is required.#
-Waiting time has passed. Please log in again#
-Watch out! Same account is already logged in. Stop mobile verification and log in again after changing your password#
-Watch out! Same account is waiting for mobile verification. Stop mobile verification and log in again after changing your password#
-Game setting window#
-Graphics Settings#
-Sound Settings#
-Press a key to assign. Pressing 'ESC' will remove the assigned key.#
-Unable to specify a single key.#
-Unable to specify the key assigned.#
-Duplicated with ['%s']. Do you still want to change?#
-Initialization is stored in the shortcut key settings. Do you want to initialized?#
-Skill Bar#
+การเชื่อมต่อระหว่างตัวเกมกับ Server ติดต่อกันช้าเกินไป เราได้ตัดการเชื่อมต่อของคุณเรียบร้อยแล้ว#
+Version ของ Hack Shield ไม่ถูกต้อง โปรดติดตั้งตัวเกมใหม่#
+ต้องการ [Magic Book]#
+รู้สึกง่วงเมื่อ Magic Book มันยากเกินกว่าที่จะเข้าใจ#
+มี Save Point น้อยเกินไป#
+ไม่สามารถอ่าน Magic Book เพิ่มได้อีกต่อไปแล้ว#
+ต้องการ [Face Paint]#
+ต้องการ [Brush]#
+หมดเวลารอแล้ว โปรดลองเข้าเกมใหม่อีกครั้ง#
+ระวัง! มีการเชื่อมต่อด้วย ID ของคุณ โปรดปิดการยืนยันตนผ่านมือถือและเข้าเกมอีกครั้งหลังจากเปลี่ยน Password ของคุณแล้ว#
+ระวัง! ID เดียวกันกำลังรอการยืนยันตนผ่านมือถือ โปรดปิดการยืนยันตนผ่านมือถือและเข้าเกมอีกครั้งหลังจากเปลี่ยน Password ของคุณแล้ว#
+หน้าต่างการตั้งค่าเกม#
+การตั้งค่าภาพ#
+การตั้งค่าเสียง#
+กดปุ่มเพื่อกำหนด กดปุ่ม [Esc] เพื่อลบการกำหนดปุ่มดังกล่าว#
+เกิดข้อผิดพลาด ไม่สามารถระบุปุ่มได้#
+เกิดข้อผิดพลาด ไม่สามารถระบุค่าที่ต้องการตั้งได้#
+ปุ่มดังกล่าวซ้ำกับ ['%s'] ต้องการเปลี่ยนอยู่ดีหรือไม่?#
+ใช้ค่าเริ่มต้นของ Hotkey ทั้งหมด ต้องการคืนค่าทั้งหมดใช่หรือไม่?#
+แถบ Hotkey Skill#
 Interface#
 Macros#
-Shortcut Settings#
-BGM#
-Effect#
+การตั้งค่า Hotkey#
+เสียงเพลงประกอบ#
+เสียงประกอบ#
 Skin#
-Chat room entrance sound on#
-Chat room entrance sound off#
-/tingonly: you can hear only sound like a chat room entry.#
+เปิดการใช้งาน เสียงเข้าห้องสนทนา#
+ปิดการใช้งาน เสียงเข้าห้องสนทนา#
+/tingonly: เปิด/ปิด เสียงประกอบ โดยจะเล่นเสียง ติ๊ง เมื่อเข้าสู่ห้องสนทนาเท่านั้น#
 /rock#
 /scissors#
 /paper#
