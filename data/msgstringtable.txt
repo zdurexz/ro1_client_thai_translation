@@ -1431,43 +1431,43 @@ SP ไม่เพียงพอ#
 ต้องการ Throat Lozenge#
 ต้องการ Painful Tears#
 ต้องการ Throat Lozenge#
-Cooperation is only available with Weapon Blocking.#
-Poisoned weapons is required.#
-Item can only be used when Mado Gear is mounted.#
-Vulcan Bullet is required.#
-Mado Gear Fuel is required.#
-Liquid Cold Bullet is required.#
-Please load a Cannon Ball.#
-Please equipped with a Mado Gear Accelerator.#
-Please equipped with a Hovering Booster.#
-[Toxin] Poison effect was applied to the weapon.#
-[Paralysis] Poison effect was applied to the weapon.#
-[Fatigue] Poison effect was applied to the weapon.#
-[Laughing] Poison effect was applied to the weapon.#
-[Disheart] Poison effect was applied to the weapon.#
-[Pyrexia] Poison effect was applied to the weapon.#
-[Oblivion] Poison effect was applied to the weapon.#
-[Leech] Poison effect was applied to the weapon.#
-Can only be used in Hovering state.#
-Please equip a Self-Destruct Mechanism.#
-Please equip a Shape Shift.#
-Guillotine Cross Poison is required.#
-Please equipped with a Cooling System.#
-Please equipped with a Magnetic Field Generator.#
-Please equipped with a Barrier Generator.#
-Please equipped with a Optical Camouflage Generator.#
-Please equipped with a Repair Kit.#
-Monkey Wrench is required.#
-[%s] Cannot use the skills due to cooldown delay.#
-Deletion is impossible for over level %d#
-Can't be used while on Magic Gear.#
-Dismount Dragon#
-Dismount Magic Gear#
+ใช้งานร่วมกับ Weapon Blocking เท่านั้น#
+ต้องการ Poisoned weapons#
+Item ดังกล่าวสามารถใช้ได้ต่อเมื่อขี่ Mado Gear อยู่#
+ต้องการ Vulcan Bullet#
+ต้องการ Mado Gear Fuel#
+ต้องการ Liquid Cold Bullet#
+โปรดใส่กระสุน Cannon Ball#
+โปรดสวมใส่คู่กับ Mado Gear Accelerator#
+โปรดสวมใส่คู่กับ Hovering Booster#
+อาวุธถูกเคลือบด้วยพิษของ [Toxin] เรียบร้อยแล้ว#
+อาวุธถูกเคลือบด้วยพิษของ [Paralysis] เรียบร้อยแล้ว#
+อาวุธถูกเคลือบด้วยพิษของ [Fatigue] เรียบร้อยแล้ว#
+อาวุธถูกเคลือบด้วยพิษของ [Laughing] เรียบร้อยแล้ว#
+อาวุธถูกเคลือบด้วยพิษของ [Disheart] เรียบร้อยแล้ว#
+อาวุธถูกเคลือบด้วยพิษของ [Pyrexia] เรียบร้อยแล้ว#
+อาวุธถูกเคลือบด้วยพิษของ [Oblivion] เรียบร้อยแล้ว#
+อาวุธถูกเคลือบด้วยพิษของ [Leech] เรียบร้อยแล้ว#
+ใช้ได้เฉพาะเมื่ออยู่ในสถานะ Hovering#
+โปรดสวมใส่ Self-Destruct Mechanism#
+โปรดสวมใส่ Shape Shift#
+ต้องการ Guillotine Cross Poison#
+โปรดสวมใส่คู่กับ Cooling System#
+โปรดสวมใส่คู่กับ Magnetic Field Generator#
+โปรดสวมใส่คู่กับ Barrier Generator#
+โปรดสวมใส่คู่กับ Optical Camouflage Generator#
+โปรดสวมใส่คู่กับ Repair Kit#
+ต้องการ Monkey Wrench#
+ไม่สามารถใช้ Skill [%s] ได้เนื่องจากกำลังอยู่ในช่วง Cooldown#
+การลบเป็นไปไม่ได้สำหรับเลเวลที่มากกว่า %d#
+ไม่สามารถใช้ได้เมื่อขี่ Magic Gear#
+ลงจาก Dragon#
+ลงจาก Magic Gear#
 I#
 Cash#
-Armors#
-Weapons#
-Ammo#
+ชุดเกราะ#
+อาวุธ#
+กระสุน#
 Card#
 M#
 Client response time has passed so connection is terminated#
