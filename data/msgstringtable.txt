@@ -1516,27 +1516,27 @@ Skin#
 /ene#
 /panic#
 /whisp#
-Not Assigned#
-Only available when cart is mounted.#
-[Thorny Seed] is required.#
-[Bloodsucker Seed] is required.#
-Cannot be used anymore.#
-[Bomb Mushroom Spore] is required.#
-[Fire Bottle] is required.#
-[Oil Bottle] is required.#
-[Explosive Powder] is required.#
-[Smokescreen Powder] is required.#
-[Tear Gas] is required.#
-[Acid Bottle] is required.#
-[Bottom Man-Eating Plant] is required.#
-[Pot of Mandragora] is required.#
-Party delegation#
-Do you want to delegate the real party?#
-Party cannot be delegated.#
-Immutable#
-[%s] required '%d' amount.#
-Is now refining the value lowered.#
-Need to put on [%s] in order to use.#
+ไม่ได้ระบุไว้#
+ใช้ได้เมื่อมีรถเข็นเท่านั้น#
+ต้องการ [Thorny Seed]#
+ต้องการ [Bloodsucker Seed]#
+ไม่สามารถใช้ได้อีกต่อไปแล้ว#
+ต้องการ [Bomb Mushroom Spore]#
+ต้องการ [Fire Bottle]#
+ต้องการ [Oil Bottle]#
+ต้องการ [Explosive Powder]#
+ต้องการ [Smokescreen Powder]#
+ต้องการ [Tear Gas]#
+ต้องการ [Acid Bottle]#
+ต้องการ [Bottom Man-Eating Plant]#
+ต้องการ [Pot of Mandragora]#
+ตัวแทน Party#
+คุณต้องการเป็นตัวแทนของ Party จริง ๆ หรือ?#
+Party ไม่สามารถทำตัวแทนได้#
+ไม่เปลี่ยนแปลง#
+[%s] ต้องการ '%d' จำนวน#
+จำนวนตีบวกได้ลดลง#
+ต้องใส่ [%s] เพื่อที่จะใช้งาน#
 Battle field entrance setting#
 Battlefield - [%s] you sign up?#
 Current admission application state.#
