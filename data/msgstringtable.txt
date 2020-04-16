@@ -1552,35 +1552,35 @@ Battlefield - [%s]#
 อยู่ใน Delay 10 วินาทีของผลการช่วยเหลือ Party#
 หัวหน้า Party คือ '%s'#
 ไม่สามารถเข้าได้เนื่องจากเกิดข้อผิดพลาดของระบบ#
-Cannot wait to enter the number of excess.#
-Has already been applied.#
-Registration has been cancelled because of the excessive waiting time.#
-Unregistered because admission requirements are not matching.#
-Was unregistered and error.#
-The skill need [%s].#
-The skill need a particular skill.#
-Requires %d mind bullets#
-Mind Bullet is required.#
-Cannot create rune stone more than the maximum amount.#
-Not able to receive battle field list. Please check and try again#
-Level is not high enough to enter#
-You must consume all '%d' points in your 1st Tab.#
-You must consume all '%d' remaining points in your 2nd Tab. 1st Tab is already done.#
-Items available for conversion#
-Insert items to convert#
-Inconvertible combination#
-Inventory weight is too much#
-Please secure some room in the inventory#
-Material doesn't exist#
-Successful.#
-Failed.#
-all materials are gone due to failure#
-unable to change the name of the specified tab, because it's too long.#
-Cannot add more.#
-Authentication failed.#
-Bot checks#
-Items cannot be used in materials cannot be emotional.#
-It is impossible to connect using this IP in Ragnarok Online. Please contact the customer support center or home.#
+ระยะเวลาในการระบุตัวเลขนานเกินไป#
+มีผลดังกล่าวอยู่แล้ว#
+การลงทะเบียนถูกยกเลิกเนื่องจากหมดเวลาแล้ว#
+ไม่ได้ลงทะเบียน เนื่องจากไม่ตรงตามเงื่อนไข#
+ไม่ได้ลงทะเบียน และเกิดข้อผิดพลาดในการลงทะเบียน#
+Skill ต้องการ [%s]#
+Skill ดังกล่าวต้องการ Skill อื่น ๆ ที่เจาะจง#
+ต้องการ %d [Mind Bullet]#
+ต้องการ [Mind Bullet]#
+ไม่สามารถสร้าง Rune Stone มากเกินกำหนดได้#
+ไม่สามารถรับรายการ Battlefield ได้ โปรดลองใหม่อีกครั้ง#
+เลเวลไม่สูงพอที่จะเข้า#
+คุณต้องใช้แต้มอีก '%d' ภายใน Skill Class 1#
+คุณต้องใช้แต้มอีก '%d' ภายใน Skill Class 2#
+รายการ Item ที่สามารถแปลงได้#
+ใส่ Item ที่ต้องการแปลง#
+ไม่สามารถแปลงได้ ด้วยส่วนผสมดังกล่าว#
+คุณแบก Item มากเกินไป#
+ไม่มีช่องว่างภายในช่องเก็บของ#
+ไม่พบส่วนผสม#
+สำเร็จ#
+ไม่สำเร็จ#
+ส่วนผสมทั้งหมดหายไปจากผลของความผิดพลาด#
+ไม่สามารถเปลี่ยนชื่อของ Tab ดังกล่าวได้เนื่องจาก ชื่อยาวเกินไป#
+ไม่สามารถเพิ่มได้อีก#
+เกิดข้อผิดพลาดในการยืนยันตน#
+การตรวจสอบ Bot#
+ไม่สามารถใช้ Item ที่ไม่สามารถเป็นส่วมผสมได้#
+เป็นไปไม่ได้ที่จะใช้ IP ดังกล่าวในการเข้าเล่น Ragnarok Online โปรดติดต่อเจ้าหน้าที่#
 You have entered a wrong password for more than six times, please check your personal information again.#
 Consumption items are used in the synthesis. Are you sure?#
 Please input the captcha code found at your left side.#
