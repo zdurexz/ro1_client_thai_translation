@@ -1530,28 +1530,28 @@ Skin#
 ต้องการ [Acid Bottle]#
 ต้องการ [Bottom Man-Eating Plant]#
 ต้องการ [Pot of Mandragora]#
-ตัวแทน Party#
-คุณต้องการเป็นตัวแทนของ Party จริง ๆ หรือ?#
-Party ไม่สามารถทำตัวแทนได้#
-ไม่เปลี่ยนแปลง#
+มอบอำนาจหัวหน้า Party#
+คุณต้องการเป็นหัวหน้าของ Party ไหม?#
+Party ไม่สามารถเปลี่ยนหัวหน้าได้#
+ไม่มีการเปลี่ยนแปลงใด ๆ#
 [%s] ต้องการ '%d' จำนวน#
 จำนวนตีบวกได้ลดลง#
 ต้องใส่ [%s] เพื่อที่จะใช้งาน#
-Battle field entrance setting#
-Battlefield - [%s] you sign up?#
-Current admission application state.#
-It was unregistered and not be able to enter the state.#
-Current admission application state.#
-Do you want to cancel the admission application?#
-Admission request has been cancelled.#
-Go to the battlefield quickly.#
+การตั้งค่าการเข้า Battlefield#
+ต้องการลงทะเบียนเข้า Battlefield - [%s]?#
+ค่าลงทะเบียนปัจจุบัน#
+ยังไม่ได้ลงทะเบียนและยังไม่สามารถเข้าได้ในขณะนี้#
+สถานะของการลงทะเบียน#
+คุณต้องการยกเลิกการลงทะเบียนใช่หรือไม่?#
+ยกเลิกการลงทะเบียนเรียบร้อยแล้ว#
+ไปยัง Battlefield โดยด่วน#
 Battlefield - [%s]#
-Do you really want to go back to your savepoint?#
-Search Message for Party Members#
-Message option is off the search party members.#
-10 seconds delay of party support is in effect#
-Party leader is '%s'.#
-Unable to enter due to system error.#
+ต้องการกลับ Save Point หรือไม่?#
+ข้อความค้นหา Party#
+ไม่ได้ใช้งานข้อความค้นหา Party#
+อยู่ใน Delay 10 วินาทีของผลการช่วยเหลือ Party#
+หัวหน้า Party คือ '%s'#
+ไม่สามารถเข้าได้เนื่องจากเกิดข้อผิดพลาดของระบบ#
 Cannot wait to enter the number of excess.#
 Has already been applied.#
 Registration has been cancelled because of the excessive waiting time.#
