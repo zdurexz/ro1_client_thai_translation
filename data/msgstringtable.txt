@@ -1715,31 +1715,31 @@ Novice ที่เลเวลต่ำกว่า 10 ไม่สามารถกระซิบได้#
 ของกดใช้#
 สนับสนุน#
 คำสั่งที่เกี่ยวกับ การรับสมัครเข้า Party#
-Guild alliance application is not possible.#
-Guild hostility application is not possible.#
-Adding friends is not possible in this map.#
-Buying Store Window#
-Price: #
-Money: #
-Purchase Zeny Limit#
-Please register the item first that has to be purchased.#
-Enter the price for item %s.#
-Enter the price for item %s. It has to be below 99990000 Zeny.#
-Enter the item number for %s.#
-The sum of purchasing and belonging items is over 9999. The sum has to be bellow 9999.#
-You have duplicate items in your purchase list.#
-Enter the limited price.#
-You have entered a greater amount of zeny than you have. Please check your zeny.#
-%s: %s  Zeny => %s ea.#
-Available items:#
-Purchase list:#
-Price limit: %s Zeny#
-Buying %s for %s Zeny. Amount: %d.#
-Wanted items#
-Available items:#
-The max. number of items you can sell is %d.#
-Buyer has insufficient money, lower the amount of items you're selling.#
-Failed to open purchase shop.#
+การขอเป็นพันธมิตร Guild alliance ไม่สามารถเป็นไปได้#
+การตั้งเป็น Guild ศัตรู ไม่สามารถเป็นไปได้#
+ไม่สามารถเพิ่มเพื่อนได้ภายในแผนที่ดังกล่าว#
+หน้าต่างร้านรับซื้อ#
+ราคา: #
+เงิน: #
+การจำกัด Zeny ที่จะใช้ซื้อ#
+โปรดลงทะเบียน Item ที่จะรับซื้อก่อน#
+โปรดใส่ราคาสำหรับ Item %s#
+ราคาที่ระบุสำหรับ Item %s ต้องน้อยกว่า 99,990,000 Zeny#
+ระบุจำนวน Item ที่ต้องการสำหรับ %s#
+ผลรวมของการซื้อและ Item ที่มีอยู่เกิน 9,999 ชิ้น ผลรวมต้องน้อยกว่า 9,999 ชิ้น#
+คุณได้ทำซ้ำสำหรับ Item ภายในรายการรับซื้อของคุณ#
+ระบุการจำกัดราคา#
+คุณระบุ Zeny มากกว่าที่คุณมี โปรดตรวจสอบ Zeny ของคุณ#
+%s: %s  Zeny => %s ชิ้น#
+Item ที่ใช้ได้:#
+รายการรับซื้อ:#
+จำกัดราคา: %s Zeny#
+ซื้อ %s เป็นเงิน %s Zeny จำนวน: %d#
+Item ที่ต้องการ#
+Item ที่ใช้ได้:#
+จำนวนมากสุดของ Item ที่คุณสามารถขายได้คือ %d#
+ผู้รับซื้อมี Zeny ไม่เพียงพอ โปรดลดจำนวน Item ของคุณที่จะขาย#
+เกิดข้อผิดพลาดในการเปิดร้านรับซื้อ#
 You exceed the total amount of items.#
 You have purchased all items within the limited price.#
 You purchased all items.#
