@@ -1601,32 +1601,32 @@ Camp A: Camp B#
 แสดง Icon Battlefield#
 ไม่แสดง Icon Battlefield#
 ย้ายการแจ้งเตือนพื้นที่เรียบร้อยแล้ว#
-Admission pending notification of the battlefield#
-Anyone#
- [%s] deal '%d' damage on you.#
- [%s] received damage from [%s] with '%d' damage.#
- [%s] received '%d' damage.#
- [%s] deal damage to [%s] with '%d' damage.#
-You dropped '%s' (%d).#
-[%s] Quest - defeated [%s] progress (%d/%d)#
-The Quest '%s' has been removed.#
-[%s] has #
-You acquired '%d' Experience Points#
-You acquired '%d' Job Experience Points#
- gained.#
- has lost.#
-From [%s], '%d' coins were stolen.#
-Battle Message#
-Display Party Battle Message#
-Display Experience Message#
-Display Party Experience Message#
-Display Quest Info Message#
-Display Battlefield Message#
+การแจ้งเตือนการลงทะเบียนที่กำลังดำเนินการอยู่ของ Battlefield#
+ใครก็ได้#
+ [%s] ทำ '%d' Damage ใส่คุณ#
+ [%s] รับ Damage จาก [%s] จำนวน '%d' Damage#
+ [%s] รับ '%d' Damage#
+ [%s] ทำ Damage กับ [%s] จำนวน '%d' Damage#
+คุณวาง '%s' (%d) ลงพื้น#
+[%s] ภารกิจ - กำจัด [%s] ความคืบหน้า (%d/%d)#
+ลบภารกิจ '%s' เรียบร้อยแล้ว#
+[%s] ได้รับ #
+คุณได้รับ '%d' EXP#
+คุณได้รับ '%d' Job EXP#
+ ได้รับ#
+ สูญเสีย#
+โดย [%s] '%d' เหรียญที่ถูกขโมย#
+ข้อความการต่อสู้#
+แสดงข้อความการต่อสู้ของ Party#
+แสดงข้อความ EXP#
+แสดงข้อความ EXP จาก Party#
+แสดงข้อความ รายละเอียดภารกิจ#
+แสดงข้อความ Battlefield#
 [%s] #
-Casts [%s] skill.#
-Activate lock function#
-Deactivate lock function#
-Citizens of Midgard, Lady Luck shines upon [%s] !! [%s] has awarded the player with '%s' !!#
+ร่าย Skill [%s]#
+เปิดใช้งาน ระบบ Lock#
+ปิดใช้งาน ระบบ Lock#
+พลเมืองแห่ง Midgard โชคลาภจากหญิงสาวแห่งแสงสว่างได้ปรากฎขึ้น [%s] !! [%s] ได้ให้รางวัลกับผู้เล่นด้วย '%s' !!#
 Swordman#
 Magician#
 Archer#
@@ -1683,38 +1683,38 @@ High Novice#
 Super Novice#
 Gunslinger#
 Ninja#
-Taekwon F/M#
+Taekwon หญิง/ชาย#
 Star Gladiator#
 Soul Linker#
-Party Recruitment#
-Party Booking List#
-Recruiting Party#
-[Bow] must be equipped.#
-[Musical Instrument/Whip] must be equipped.#
-Only alphanumeric characters are allowed.#
-Notice#
-Item purchase failed due to incorrect shop information.#
-Item cannot be discarded from the window.#
-Time#
-Map#
-You can't use, equip or disarm items when you're trading.#
-Unspecified value#
-/stateinfo: Shows the description of status icons. On Off#
-Status Information On: Status icon description is enabled.#
-Status Information Off: Status icon description is disabled.#
-It is not possible to purchase the same item more than %d pieces at a time#
-It is not possible to purchase the same item more than %d pieces at a time#
-Can purchase upto %d pieces of the same item at a time.#
-User customized key is saved to [%s\%s]#
-[%s] is currently on trade and cannot accept the request.#
+การรับสมัครเข้า Party#
+รายการ Party ที่ลงทะเบียนเอาไว้#
+รับสมัครเข้า Party#
+ต้องสวมใส่ [Bow]#
+ต้องสวมใส่ [Musical Instrument/Whip]#
+อนุญาตให้ใช้ได้เฉพาะตัวเลขเท่านั้นที่#
+ข่าวสาร#
+เกิดข้อผิดพลาดในการซื้่อ Item เนื่องจากรายละเอียดร้านค้าไม่ถูกต้อง#
+ไม่สามารถโยน Item จากหน้าต่างในตอนนี้ได้#
+เวลา#
+แผนที่#
+คุณไม่สามารถใช้หรือเปลี่ยนอุปกรณ์สวมใส่ Item ขณะทำการแลกเปลี่ยนอยู่ได้#
+ค่าที่ยังไม่ได้ถูกระบุ#
+/stateinfo: เปิด/ปิด การแสดงรายละเอียดของ Icon สถานะ#
+เปิดใช้งาน การแสดงรายละเอียดของ Icon สถานะ#
+ปิดใช้งาน การแสดงรายละเอียดของ Icon สถานะ#
+ไม่สามารถซื้อ Item เดียวกันได้มากกว่า %d ชิ้นภายในครั้งเดียว#
+ไม่สามารถซื้อ Item เดียวกันได้มากกว่า %d ชิ้นภายในครั้งเดียว#
+สามารถซื้อได้มากสุด %d ชิ้นต่อการซื้อ 1 รอบ#
+การตั้งค่าปุ่มถูกบันทึกไว้ที่ [%s\%s]#
+[%s] กำลังทำการแลกเปลี่ยนอยู่ ยังไม่สามารถตอบรับการร้องขอได้#
 RO_HELP#
-Anvil does not exist.#
-Novice below level 10 is not allowed to whisper.#
-Attack#
-Defense#
-Consumables#
-Support#
-Party recruitment related command#
+ไม่พบ Anvil สักชิ้นเลย#
+Novice ที่เลเวลต่ำกว่า 10 ไม่สามารถกระซิบได้#
+โจมตี#
+ป้องกัน#
+ของกดใช้#
+สนับสนุน#
+คำสั่งที่เกี่ยวกับ การรับสมัครเข้า Party#
 Guild alliance application is not possible.#
 Guild hostility application is not possible.#
 Adding friends is not possible in this map.#
