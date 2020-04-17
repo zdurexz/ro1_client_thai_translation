@@ -1581,26 +1581,26 @@ Skill ดังกล่าวต้องการ Skill อื่น ๆ ที่เจาะจง#
 การตรวจสอบ Bot#
 ไม่สามารถใช้ Item ที่ไม่สามารถเป็นส่วมผสมได้#
 เป็นไปไม่ได้ที่จะใช้ IP ดังกล่าวในการเข้าเล่น Ragnarok Online โปรดติดต่อเจ้าหน้าที่#
-You have entered a wrong password for more than six times, please check your personal information again.#
-Consumption items are used in the synthesis. Are you sure?#
-Please input the captcha code found at your left side.#
-Describes the battlefield --#
-Waiting for admission --#
-Request help battle position#
-Sorry the character you are trying to use is banned for testing connection.#
-Remove all equipment#
+คุณระบุ Password ผิดพลาดเกิน 6 ครั้ง โปรดตรวจสอบข้อมูลส่วนตัวอีกครั้ง#
+Item กดใช้ ถูกใช้ภายในการสังเคราะห์ ยืนยันที่จะดำเนินการต่อหรือไม่?#
+โปรดระบุรหัสยืนยันตนทางซ้าย#
+คำอธิบาย Battlefield --#
+กำลังรับสมัคร --#
+ต้องการความช่วยเหลือที่ตำแหน่ง#
+ตัวละครที่คุณพยายามจะใช้ถูกระงับเนื่องจากใช้ทดสอบการเชื่อมต่อระบบ#
+ถอดอุปกรณ์สวมใส่ทั้งหมด#
 Mini Icon#
 Camp A: Camp B#
-Wait#
-cancellation notice of Battlefield registration.#
-Required field for staff#
-Battlefield staff A is waiting.#
-Battlefield staff B is waiting.#
-Waiting for my situation: %d (Camp A)#
-Waiting for my situation: %d (Camp B)#
-Battlefield display icon.#
-Does not display the icon field.#
-Field notification was moved.#
+รอ#
+การยกเลิกข้อความลงทะเบียนของ Battlefield#
+ต้องการพื้นที่สำหรับผู้ดูแล#
+ผู้ดูแล Battlefield A กำลังรอ#
+ผู้ดูแล Battlefield B กำลังรอ#
+กำลังรอสถานการณ์ของฉัน: %d (Camp A)#
+กำลังรอสถานการณ์ของฉัน: %d (Camp B)#
+แสดง Icon Battlefield#
+ไม่แสดง Icon Battlefield#
+ย้ายการแจ้งเตือนพื้นที่เรียบร้อยแล้ว#
 Admission pending notification of the battlefield#
 Anyone#
  [%s] deal '%d' damage on you.#
