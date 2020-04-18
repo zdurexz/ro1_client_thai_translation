@@ -2018,45 +2018,45 @@ Premium #
 เกิดข้อผิดพลาดในการย้ายช่องตัวละคร#
 ชื่อตัวละครผิด#
 แสดงภารกิจ#
- access is restricted between the hours of midnight to 6:00am.#
- access is restricted between the hours of ^ff0000midnight to 6:00am.^000000#
-In order to change the character name, you must leave the guild.#
-In order to change the character name, you must leave the party.#
-Character name change failed, due an unknown error.#
-Ready to change character slot in.(%d)#
-Ready to change character name in.(%d)#
-Length exceeds the maximum size of the character name you want to change.#
-Name contains invalid characters. Character name change failed.#
-The name change is prohibited. Character name change failed.#
-Complete#
-During %d minutes your Exp will increase by %d%%.#
-%02d seconds left until summon.#
-Your party leader summons you to %s (%s). Warp costs %d Zeny.#
-Summon target#
-Block List#
-%d Zeny will be spent for making party ad.#
-Insufficient Zeny for making party ad.#
-) party: accept invitation#
-) party: decline invitation#
-) party: show equipment window#
-Up to 36 english letters can be entered#
-Enter#
-1:1 Chat#
-Block#
-Insufficient Zeny for recall.#
-Input your party ad.#
-Only party leader can register party ad.#
-You have already accepted this ad.#
-For#
+ ถูกห้ามการเข้าถึงช่วงกลางคืนจนถึง 6 โมงเช้า#
+ ถูกห้ามการเข้าถึงช่วง^ff0000กลางคืนจนถึง 6 โมงเช้า^000000#
+ต้องออก Guild ก่อนที่จะเปลี่ยนชื่อตัวละคร#
+ต้องออก Party ก่อนที่จะเปลี่ยนชื่อตัวละคร#
+เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุในการเปลี่ยนชื่อตัวละคร#
+พร้อมที่จะเปลี่ยนช่องตัวละครภายใน(%d)#
+พร้อมที่จะเปลี่ยนชื่อตัวละครภายใน(%d)#
+ชื่อที่ต้องการเปลี่ยนมีความยาวตัวอักษรเกินกว่ากำหนด#
+เกิดข้อผิดพลาดในการเปลี่ยนชื่อตัวละคร มีตัวอักษรที่ไม่สามารถใช้ได้อยู่ภายในชื่อ#
+เกิดข้อผิดพลาดในการเปลี่ยนชื่อตัวละคร พบคำหยาบ#
+สำเร็จเรียบร้อย#
+ภายใน %d นาที EXP จะเพิ่มขึ้น %d%%#
+%02d วินาทีที่เหลือก่อนจะเรียก#
+หัวหน้า Party เรียกคุณไปยัง %s (%s) ค่าบริการในการเคลื่อนย้าย %d Zeny#
+เรียกเป้าหมาย#
+รายการระงับ#
+%d Zeny จะถูกใช้สำหรับสร้างการโฆษณา Party#
+มี Zeny ไม่เพียงพอที่จะสร้างโฆษณา Party#
+) Party: ยินยอมการเชิญชวน#
+) Party: ปฎิเสธการเชิญชวน#
+) Party: แสดงหน้าต่างอุปกรณ์สวมใส่#
+สามารถระบุได้มากสุด 36 ตัวอักษรภาษาอังกฤษ#
+ระบุ#
+การสนทนา 1:1#
+ระงับ#
+Zeny ไม่เพียงพอสำหรับการเรียก#
+ระบุการโฆษณา Party ของคุณ#
+เฉพาะหัวหน้า Party เท่านั้นที่สามารถลงทะเบียนโฆษณา Party ได้#
+คุณโฆษณาไปแล้ว#
+สำหรับ#
 E#
 F#
- Drop Lock: On/Off#
-Party Alarm#
-Create Party#
-Leave Party#
-Party Invitation#
-Party Name:#
-Player Name:#
+ Drop Lock: เปิด/ปิด#
+การแจ้งเตือน Party#
+สร้าง Party#
+ออกจาก Party#
+การเชิญชวน Party#
+ชื่อ Party:#
+ชื่อผู้เล่น:#
  has recieved an invitation to join your party.#
  rejected your party invitation.#
  accepted your party invitation.#
