@@ -2087,49 +2087,49 @@ Party หลังจากการถอนตัว#
 รายการ File#
 %s การแลกเปลี่ยน Item ไม่สามารถเป็นไปได้#
 ยุบ Guild#
-Enter Guild Name#
-The character is not online or does not exist.#
-Failed to call Falcon.#
-%d%%(default 100%%+ Premium%d%%+%s Server%d%%)#
-This user is currently participating in the siege.#
-It is only possible to change the party leader while on the same map.#
-In the current region it is not possible to change the party.#
-Gryphon making#
-Delete: %d/%d - %d:%d:%d#
-You can't invite characters in WoE maps.#
-You are now in the battlefield queue.#
-Queuing has finished.#
-Invalid name of the battlefield.#
-Invalid type of application.#
-People count exceeded.#
-Your level doesn't fit this battlefield rules.#
-Duplicate application.#
-After reconnecting, please re-apply.#
-Your class can't participate in this battlefield.#
-Only party leader / guild master can apply.#
-You can't apply while your team member is already on a battlefield.#
-You have left the battlefield queue.#
-Wrong battlefield name.#
-You are not in the battlefield queue list#
-The selected arena is unavailable; your application has been cancelled#
-You have left the queue#
-Are you sure you want to join a battleground?#
-[Battlefield application rules]#
-Application and position into the battlefield cannot be applied under this circumtances#
-1. Different types of battle can not be applied simultaneously.#
-2. Personal / party / guild battle can not be applied simultaneously.#
-3. Parties can only be applied by their party leaders.#
-Offline party members won't proceed to the queue.#
-4. You can add request to enter the arena from any map except for those who don't allow teleport/warp.#
-When the battle is finished your character will be returned to the current spot or (if it's not possible) to the save point.#
-5. You can view and choose rewards in the arena waiting room.#
-Request help battle position#
-%s battle begins.#
-Do you want to enter the arena?#
-[Note]#
-When the battle is finished your character will#
-be returned to the current spot or (if it's not#
-possible) to the save point.#
+ระบุชื่อ Guild#
+ตัวละครดังกล่าวไม่ได้อยู่ในเกมหรือไม่มีอยู่จริง#
+เกิดข้อผิดพลาดในการเรียก Falcon#
+%d%%(ปกติ 100%%+ Premium%d%%+%s Server%d%%)#
+ผู้เล่นดังกล่าวอยู่ในสงครามอยู่#
+สามารถเปลี่ยนหัวหน้า Party ได้เมื่ออยู่ภายในแผนที่เดียวกันเท่านั้น#
+ไม่สามารถเปลี่ยนหัวหน้า Party ได้ภายในแผนที่ดังกล่าว#
+การสร้าง Gryphon#
+ลบ: %d/%d - %d:%d:%d#
+คุณไม่สามารถเชิญชวนตัวละครที่อยู่ภายในแผนที่ WoE ได้#
+คุณอยู่ในลำดับ Battlefield เรียบร้อยแล้ว#
+สิ้นสุดการรอแล้ว#
+ชื่อ Battlefield ที่ระบุผิดพลาด#
+รูปแบบการสมัครผิดพลาด#
+จำนวนผู้เล่นเกินกำหนดแล้ว#
+เลเวลของคุณไม่อยู่เข้าข่ายกฎ Battlefield ดังกล่าว#
+การลงทะเบียนซ้ำ#
+เมื่อเชื่อมต่ออีกครั้งแล้ว โปรดลองใหม่อีกรอบ#
+Class ของคุณไม่สามารถเข้าร่วม Battlefield ดังกล่าวได้#
+เฉพาะหัวหน้า Party/Guild ที่สามารถลงทะเบียนได้#
+คุณไม่สามารถลงทะเบียนได้หากสมาชิกภายในทีมของคุณอยู่ใน Battlefield#
+คุณได้ออกจากลำดับการรอ Battlefield#
+ชื่อ Battlefield ผิดพลาด#
+คุณไม่ได้อยู่ในลำดับการรอ Battlefield#
+Area ที่เลือกไม่สามารถใช้งานได้ในขณะนี้ การลงทะเบียนของคุณถูกยกเลิก#
+คุณได้ออกจากลำดับการรอ#
+คุณต้องการเข้าร่วม Battlefield จริง ๆ ใช่หรือไม่?#
+[กฎของการลงทะเบียน Battlefield]#
+การลงทะเบียนและตำแหน่งของ Battlefield จะไม่สามารถลงทะเบียนได้หากติดเงื่อนไขดังนี้#
+1. ไม่สามารถลงทะเบียนหลาย ๆ รูปแบบการเล่นพร้อมกันได้#
+2. ไม่สามารถลงทะเบียนการต่อสู้ รายบุคคล / Party / Guild พร้อม ๆ กันได้#
+3. Party สามารถลงทะเบียนได้โดยหัวหน้า Party เท่านั้น#
+สมาชิก Party ที่ไม่ได้อยู่ในเกมจะไม่ถูกนำเข้าสู่ลำดับการรอได้#
+4. คุณสามารถเข้าสู่ Arena จากแผนที่ใด ๆ ก็ได้ยกเว้นแผนที่ที่ไม่สามารถเคลื่อนย้าย/Warp ได้#
+เมื่อการต่อสู้จบลงตัวละครของคุณจะถูกส่งกลับไปยังจุดเดิมหรือถ้าเกิดข้อผิดพลาดจะกลับไปยัง Save Point#
+5. คุณสามารถดูและเลือกรางวัลได้ภายในห้องรอ Arena#
+ส่งคำขอการสนับสนุนตำแหน่งการต่อสู้#
+%s การต่อสู้เริ่มต้นแล้ว#
+คุณต้องการเข้าไปยัง Arena?#
+[ข้อความ]#
+เมื่อการต่อสู้จบลงตัวละครของคุณจะ#
+กลับไปยังจุดเดิมที่มาหรือถ้าเกิดข้อผิดพลาด#
+จะกลับไปยัง Save Point#
 Waiting for the opponents.#
 Battlefield position request#
 Accept standby time:%d seconds#
