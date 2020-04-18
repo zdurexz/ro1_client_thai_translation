@@ -1866,61 +1866,61 @@ Cash: %s C#
 ไม่สามารถดำเนินการได้เนื่องจากเกินจำนวนที่กำหนด#
 ชื่อจริงยังไม่ถูกยืนยัน โปรดยืนยันชื่อที่เว็บไซต์#
 โปรดเลือกช่องที่ต้องการบันทึก#
-Congratulation %s,  Acquired '%s' !#
-Unable to use in gloomy state#
-Purchased products has exceeded the total price.#
-Cannot join a party in this map.#
-Cannot leave a party in this map.#
-Cannot withdraw/break the party in this map.#
-Real Name#
-ID Number#
+ยินดีด้วย %s ได้รับ '%s' !#
+ไม่สามารถใช้ได้ขณะที่เศร้าอยู่#
+สินค้าที่ซื้อมามีราคารวมเกินกำหนด#
+ไม่สามารถเข้าร่วม Party ภายในแผนที่ดังกล่าวได้#
+ไม่สามารถออกจาก Party ภายในแผนที่ดังกล่าวได้#
+ไม่สามารถ ขับไล่/ยุบ Party ภายในแผนที่ดังกล่าวได้#
+ชื่อจริง#
+เลขประจำตัวประชาชน#
 E-mail#
-Invalid input#
-Failed to send the zeny #
-This is not a relevant job#
-This is not a relevant gender#
-User information identification was successful.#
-Name does not match. Please retry.#
-ID number does not match. Please retry.#
-Service is currently unavailable. Please try again later.#
-Unable to attack while riding.#
-Unable to cast the skill while riding.#
-Pin number should be 4~6 characters.#
-Secured authentication is successful.#
-Succeeded in creating 2nd password.#
-2nd password has been deleted.#
-2nd password has been corrected.#
-Password is incorrect.#
-Failed to create 2nd password.#
-Failed to delete 2nd password.#
-Failed to correct 2nd password.#
-Unable to use restricted number in 2nd password.#
-Unable to use your KSSN number.#
-~There is already a password.#
-Security Code#
-Account for the additional password security settings are recommended.#
-Do not use secure password.#
-Use the set security password failed.#
-Use secure passwords. Will be applied to your next login.#
-Use the set security password failed.#
-Added to the security of your account password is set.#
-Use the mouse to enter the 4-digit password below.#
-Typing an incorrect password 3 times will shut down the client.#
+ข้อมูลที่ระบุผิดพลาด#
+เกิดข้อผิดพลาดในการส่ง Zeny #
+ไม่สามารถใช้กับอาชีพดังกล่าวได้#
+ไม่สามารถใช้กับเพศดังกล่าวได้#
+การระบุตัวตนของข้อมูลผู้ใช้งานสำเร็จเรียบร้อย#
+ชื่อไม่ตรง โปรดลองใหม่#
+เลขประจำตัวประชาชนไม่ตรง โปรดลองใหม่#
+ระบบยังไม่พร้อมใช้งานในขณะนี้ โปรดลองใหม่ภายหลัง#
+ไม่สามารถโจมตีได้ขณะขี่พาหนะอยู่#
+ไม่สามารถใช้ Skill ได้ขณะขี่พาหนะอยู่#
+เลข Pin ควรมีความยาวตัวอักษร 4~6 ตัวอักษร#
+การยืนยันตนสำหรับความปลอดภัยสำเร็จเรียบร้อย#
+การสร้าง Password ขั้นที่สองสำเร็จเรียบร้อย#
+ลบ Password ขั้นที่สองเรียบร้อยแล้ว#
+แก้ไข Password ขั้นที่สองเรียบร้อยแล้ว#
+Password ที่ระบุไม่ถูกต้อง#
+เกิดข้อผิดพลาดในการสร้าง Password ขั้นที่สอง#
+เกิดข้อผิดพลาดในการลบ Password ขั้นที่สอง#
+เกิดข้อผิดพลาดในการแก้ไข Password ขั้นที่สอง#
+ไม่สามารถใช้ชุดตัวเลขที่ระบบห้ามไว้ได้กับ Password ขั้นที่สองที่ระบุ#
+ไม่สามารถใช้เลขประจำตัวประชาชนของคุณได้#
+~มี Password อยู่แล้ว#
+รหัสความปลอดภัย#
+เราแนะนำให้คุณทำ Password สำหรับความปลอดภัยสำหรับ ID ของคุณ#
+ไม่สามารถใช้ Password ดังกล่าวได้#
+เกิดข้อผิดพลาดในการตั้ง Password สำหรับความปลอดภัย#
+Password สำหรับความปลอดภัย จะถูกใช้ในครั้งถัดไปที่เข้าเกม#
+เกิดข้อผิดพลาดในการใช้ Password สำหรับความปลอดภัย#
+เพิ่มความปลอดภัยให้กับ ID ของคุณเรียบร้อยแล้ว#
+ใช้ Mouse ระบุ Password 4 หลักด้านล่าง#
+ระบุ Password ผิด 3 ครั้งจะทำการปิดตัวเกมอัตโนมัติ#
 ITEM#
 SKILL#
-TACTIC#
-ETC#
-COMBAT#
-NON-COMBAT#
+แผน#
+อื่น ๆ#
+สู้รบ#
+ไม่ได้สู้รบ#
 BUFF#
-AUTO EQUIPED#
-1st. ATTACK#
-ATTACK#
-Next attack time: #
-When died#
-When invited to a party#
-Pickup Item#
-Over 85% Weight#
+การสวมใส่อัตโนมัติ#
+การโจมตีครั้งแรก#
+การโจมตี#
+การโจมตีครั้งต่อไป: #
+เมื่อหมดสติ#
+เมื่อชวนเข้า Party#
+การเก็บ Item#
+น้ำหนักเกิน 85%#
 Any work in progress (NPC dialog, manufacturing ...) quit and try again.#
 Monster Job hunting experience that you can get through the doubling of %d is %.2f minutes.#
 SaveData_ExMacro %d#
