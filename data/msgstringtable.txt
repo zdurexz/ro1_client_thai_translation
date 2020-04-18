@@ -1811,61 +1811,61 @@ Costume#
 ไม่พบ Item ที่ระบุ#
 แผนที่ดังกล่าวไม่สามารถใช้ได้#
 ไม่พบชื่อหรือคำนำหน้า/คำต่อท้าย#
-You can purchase up to 10 items.#
-Some items could not be purchased.#
-Enter your 6-digit DOB(YYMMDD) (e.g: 801122)#
-Now Logging Out.#
-A database error has occurred.#
-Please leave your guild first in order to remove your character.#
-Please leave your party first in order to remove your character.#
-You cannot delete this character because the delete time has not expired yet.#
-You cannot delete this character at the moment.#
-Your entered birthday does not match.#
-You lack of familiarity.#
-This is only available on style change for fighting classes.#
-This is only available on style change for novice.#
-Party Registration failed.#
-results have been found.#
-Failed to remove result.#
-No results have been found.#
-No payment information has been found.#
-Screenshot Trade#
+คุณสามารถซื้อ Item ได้มากสุด 10 ชิ้น#
+Item บางชิ้นไม่สามารถซื้อได้#
+ระบุ 6 หลัก ด้วย ปีเดือนวัน เกิดของคุณ (ตัวอย่าง: 801122)#
+กำลังออกจากเกม#
+เกิดข้อผิดพลาดกับฐานข้อมูล#
+โปรดออกจาก Guild ก่อนที่จะลบตัวละคร#
+โปรดออกจาก Party ก่อนที่จะลบตัวละคร#
+ยังไม่สามารถลบตัวละครดังกล่าวได้ เนื่องจากระยะเวลาการลบตัวละครยังไม่สิ้นสุด#
+ยังไม่สามารถลบตัวละครดังกล่าวได้ภายในขณะนี้#
+ปีเดือนวัน เกิดที่ระบุไม่ตรงกับที่สมัครสมาชิกเอาไว้#
+คุณดูไม่เก๋เลย#
+นี่คือรูปแบบของ Class นักสู้#
+นี่คือรูปแบบของ Class Novice#
+เกิดข้อผิดพลาดในการลงทะเบียน Party#
+พบข้อมูล#
+เกิดข้อผิดพลาดในการลบข้อมูล#
+ไม่พบข้อมูล#
+ไม่พบข้อมูลการชำระ#
+ภาพถ่ายขณะทำการแลกเปลี่ยน#
 [Trade_%s]#
-Death due to the auto insurance young people are spending.#
-Chat Dialog#
-Redundant is not available.#
-Use the limit that has been set.#
-No user restrictions are set.#
-Connection has failed. Please contact your administrator.#
-Failed to authenticate.#
-User is offline.#
-The age limit from commandment tables cannot connect to this server.#
-Buy#
-Cancel.#
-First page#
-Last page#
-New#
-Headgears#
-Limited#
-Rental Items#
-Equipments#
-Scrolls#
-Consumables#
-Other#
-Cost#
-Quantity#
-Total#
+หมดสติขณะที่มีการประกันภัยอัตโนมัติ หนุ่มสาวกำลังใช้มันอยู่#
+ข้อความการสนทนา#
+ไม่สามารถใช้คำซ้ำได้#
+ใช้ค่าจากค่าที่จำกัดไว้#
+ไม่มีการกำหนดจำนวนผู้เล่น#
+เกิดข้อผิดพลาดในการเชื่อมต่อ โปรดติดต่อเจ้าหน้าที่#
+เกิดข้อผิดพลาดในการยืนยันตน#
+ผู้เล่นดังกล่าวไม่ได้อยู่ในเกม#
+ไม่สามารถเชื่อมต่อกับระบบตรวจสอบอายุได้#
+ซื้อ#
+ยกเลิก#
+หน้าแรก#
+หน้าสุดท้าย#
+มาใหม่#
+ส่วนหัว#
+พิเศษ#
+Item เช่า#
+อุปกรณ์สวมใส่#
+คัมภีร์#
+ของกดใช้#
+อื่น ๆ#
+ราคา#
+จำนวน#
+ทั้งหมด#
 Free Cash: %s C#
-CashPoints: %s C#
-You cannot summon a monster in this area.#
-Exceeded total free cash#
-%d seconds left until you can use#
-Content has been saved in [SaveData_ExMacro%d]#
-~ [Windows] must be equipped with.#
-Available only on the dragon.#
-Unable to proceed due to exceeding capacity.#
-Real name has not been verified. Go to name verification site.#
-Please select slot you are going to save.#
+Cash: %s C#
+ไม่สามารถเรียก Monster ภายในแผนที่ดังกล่าวได้#
+เกินจำนวน Free Cash ที่มี#
+%d วินาทีก่อนที่จะสามารถใช้ได้อีกครั้ง#
+ข้อมูลถูกบันทึกไว้ที่ [SaveData_ExMacro%d]#
+~ [Windows] ควรสวมใส่กับ#
+สามารถใช้ได้ขณะขี่มังกรเท่านั้น#
+ไม่สามารถดำเนินการได้เนื่องจากเกินจำนวนที่กำหนด#
+ชื่อจริงยังไม่ถูกยืนยัน โปรดยืนยันชื่อที่เว็บไซต์#
+โปรดเลือกช่องที่ต้องการบันทึก#
 Congratulation %s,  Acquired '%s' !#
 Unable to use in gloomy state#
 Purchased products has exceeded the total price.#
