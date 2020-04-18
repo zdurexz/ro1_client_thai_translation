@@ -2130,82 +2130,82 @@ Area ที่เลือกไม่สามารถใช้งานได้ในขณะนี้ การลงทะเบียนของคุณถูกยกเลิก#
 เมื่อการต่อสู้จบลงตัวละครของคุณจะ#
 กลับไปยังจุดเดิมที่มาหรือถ้าเกิดข้อผิดพลาด#
 จะกลับไปยัง Save Point#
-Waiting for the opponents.#
-Battlefield position request#
-Accept standby time:%d seconds#
-Standby position#
-Battlefield name:%s#
-Persons required:%d#
-Your position:%d#
-Name:#
-Goal:#
-Format:#
-Level:#
-Win:#
-Draw:#
-Loss:#
-Do you want to participate in the individuals battle?#
-Do you want to participate in the parties battle?#
-Do you want to participate in the guilds battle?#
-Battleground List#
+กำลังรอฝั่งตรงข้าม#
+การขอความช่วยเหลือในตำแหน่ง Battlefield#
+เวลารอการตอบรับ:%d วินาที#
+ตำแหน่งที่เตรียมพร้อม#
+ชื่อ Battlefield:%s#
+ต้องการผู้เล่น:%d#
+ตำแหน่งของคุณ:%d#
+ชื่อ:#
+จุดหมาย:#
+รูปแบบ:#
+เลเวล:#
+ชนะ:#
+เสมอ:#
+แพ้:#
+ต้องการเข้าร่วมการต่อสู้รายบุคคล?#
+ต้องการเข้าร่วมการต่อสู้ Party?#
+ต้องการเข้าร่วมการต่อสู้ Guild?#
+รายการ Battlefield#
 %d VS %d#
-LV %d and lower#
-LV %d and higher#
-LV %d ~ %d#
-No restrictions#
-[You can't apply on this map.]#
-[You must wait about 1 minute to apply.]#
-[You must be in a party.]#
-[Only party leader can apply.]#
-[Too many party members online.]#
-[You must be in a guild.]#
-[Only guild master can apply.]#
-[Too many guild members online.]#
-Moving Book#
-Move#
-Rename#
-Make Character#
-http://ro.game.gnjoy.com/#
+เลเวล %d และต่ำกว่า#
+เลเวล %d และสูงกว่า#
+เลเวล %d ~ %d#
+ไม่กำหนด#
+[ไม่สามารถลงทะเบียนภายในแผนที่ดังกล่าวได้]#
+[คุณต้องรออย่างน้อย 1 นาทีเพื่อลงทะเบียน]#
+[คุณต้องอยู่ภายใน Party]#
+[เฉพาะหัวหน้า Party เท่านั้นที่สามารถลงทะเบียนได้]#
+[มีสมาชิกภายใน Party ที่กำลังเล่นอยู่มากเกินไป]#
+[คุณต้องอยู่ภายใน Guild]#
+[เฉพาะหัวหน้า Guild เท่านั้นที่สามารถลงทะเบียนได้]#
+[มีสมาชิกภายใน Guild ที่กำลังเล่นอยู่มากเกินไป]#
+กำลังย้าย#
+ย้าย#
+เปลี่ยนชื่อ#
+สร้างตัวละคร#
+https://discord.gg/TK6rVtY#
 (%s) Server#
-Item Merge#
-Two or more of the same type. Please select an item.#
-Item merge is successful.#
-Combining items will be only one kind at a time.#
-You cannot have more than 30,000 stacked items.#
-Rotate left#
-Rotate right#
-(%s) to view the old server information#
-Existing server information#
-^ff0000Existing server: ^0000ff#
-^ff0000Existing character: ^0000ff#
-Show monster HP bar when attacking.#
-Hide monster HP bar when attacking.#
-Merge does not exist as an item#
-Merge items available does not exist.#
+การผสม Item#
+มีประเภทเดียวกันมากกว่าสอง โปรดเลือก Item#
+การผสม Item สำเร็จเรียบร้อยแล้ว#
+การผสม Item สามารถทำได้หนึ่งอย่างต่อครั้ง#
+คุณไม่สามารถมี Item ได้มากกว่า 30,000 ชิ้นต่อ 1 อย่าง#
+หมุนไปทางซ้าย#
+หมุนไปทางขวา#
+(%s) เพื่อดูข้อมูล Server เก่า#
+ข้อมูล Server ที่พบ#
+^ff0000Server ที่พบ: ^0000ff#
+^ff0000ตัวละครที่พบ: ^0000ff#
+เปิดใช้งาน การแสดงหลอด HP ของ Monster เมื่อโจมตี#
+ปิดใช้งาน การแสดงหลอด HP ของ Monster เมื่อโจมตี#
+ไม่พบ Item หลังการผสม#
+ไม่พบ Item ที่สามารถผสมได้#
 Act#
 Pen#
 Rec#
 Epi#
-Loc#
-Evt#
-New#
-Monsters to kill#
-Rewards#
-Required Items#
-Time Limit#
-Deadline#
-Search#
-Navigation#
-Back to Navigation#
-Find Information#
-Toggle Minimap#
-Read Information from External File#
-Exit#
-Change the Default UI#
-Change to Default UI#
-Help#
-All#
-Map#
+สถานที่#
+กิจกรรม#
+ข่าวสาร#
+Monsters ที่ต้องกำจัด#
+รางวัล#
+Item ที่ต้องการ#
+เวลาที่เหลือ#
+หมดเวลา ณ#
+ค้นหา#
+การนำทาง#
+กลับสู่การทำทาง#
+ค้นหาข้อมูล#
+แสดง Minimap#
+อ่านข้อมูลจาก File ภายอื่น ๆ#
+ออก#
+เปลี่ยน UI เริ่มต้น#
+คืนค่า UI เป็นแบบเริ่มต้น#
+ช่วยเหลือ#
+ทั้งหมด#
+แผนที่#
 Npc#
 Mob#
 Enter search string... (Ex: word word ...)#
