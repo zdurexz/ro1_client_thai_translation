@@ -1921,103 +1921,103 @@ BUFF#
 เมื่อชวนเข้า Party#
 การเก็บ Item#
 น้ำหนักเกิน 85%#
-Any work in progress (NPC dialog, manufacturing ...) quit and try again.#
-Monster Job hunting experience that you can get through the doubling of %d is %.2f minutes.#
+มีการทำงานค้างกับ NPC ตัวอื่นอยู่ โปรดออกจากเกมแล้วเข้าใหม่#
+Job EXP จากการล่า Monster มากขึ้น %d เท่าเป็นเวลา %.2f นาที#
 SaveData_ExMacro %d#
-Settings for [%s] are stored in.#
-Security level#
-The current character is a party or join the guild can not be deleted.#
-Objects can be used only near the wall.#
-%s: Level %d %s party to obtain level.#
-While boarding reins is not available for items.#
-This skill requires 1% experience.#
-Experience value: #
-Drop rate: #
-Death Penalty: #
+เก็บการตั้งค่าสำหรับ [%s] แล้ว#
+ระดับความปลอดภัย#
+ตัวละครดังกล่าวมีการเข้าร่วม Party หรือ Guild อยู่ทำให้ไม่สามารถลบได้#
+การกระทำดังกล่าวสามารถใช้ได้ใกล้กับกำแพง#
+%s: เลเวล %d %s Party เพื่อรับเลเวล#
+เมื่อขี่พาหนะจะไม่สามารถใช้ Item ได้#
+Skill ดังกล่าวต้องการ EXP 1%#
+ค่า EXP: #
+อัตราการ Drop: #
+โทษการหมดสติ: #
 %d%% (PCroom %d%% + TPLUS %d%% + Premium %d%% + %s Server %d%%)#
-Amount of party members to cast the skill Chorus SP is low.#
-Relative character that has possession of the items can not trade because amount is exceeded.#
-Relative character that has possession of the item amount which exceeds makes it impossible to trade.#
-Amounts are exceeded the possession of the item is not available for purchase.#
-Advertising is pending registration.#
-With the following files and text content Ragnarok Official Website -> Support -> Contact Us to submit your comments by:#
-Has caused an error in billing system(%d)#
-Failed purchase of runes, items exceed the maximum number that can be held.#
-Exceeded the number of individual items, purchase failed.#
-Purchase failed due to an unknown error.#
-Please try again later.#
-Kunai must be equipped to use this skill.#
-Please enter the value of the minimum level to be recruited.#
-Jonda agency receipt of the item to the NPC is not possible. Gaining possession of the free space of the window.#
-This skill is only available in the siege.#
-This skill is available only to the player.#
-Forbidden to wear the state can not be worn.#
-Current location of the shop and chat room creation is disabled.#
-Elapsed time: %d:%d:%d / %d:%d:%d#
-Speed: X 1/4#
-Speed: X 1/2#
-Speed: X 1  #
-Speed: X 2  #
-Speed: X 4  #
-Speed: X 8  #
-Speed: X 16 #
-Speed: Unknown#
-Service Info: %s#
-Character Name: %s#
-Map Name: %s#
-Record Time: %d-%01d-%01d %d: %02d: %02d#
-Play Time: %02d: %02d: %02d#
-No Replay File.#
-Server No Matching#
-Replay Option Setting#
-Enter File Name#
-Set Replay Save Data#
-Set Rec Option#
-%.1f % Pos->:%d:%d:%d#
-%.1f % Pos->:cannot move#
-Start#
-Stop#
-Input FileName -> Start#
-Open Option#
-Close Option#
-End#
-Time#
-Party & Friends#
-Chat#
-Shortcuts#
-Automatic filename generation#
-Checking for duplicate files#
-The same file exists already.#
-Record Start#
- is Saved.#
-Weight: %3d / %3d#
-Total: %s C#
-[Shuriken] must be equipped.#
-Base Lv. %d#
-Job Lv. %d#
+จำนวน SP ของสมาชิกภายใน Party เพื่อใช้ Skill Chorus น้อยเกินไป#
+การแลกเปลี่ยนด้วยจำนวนดังกล่าวทำให้ตัวละครดังกล่าวมี Item มากเกินไป ส่งผลให้ไม่สามารถทำการแลกเปลี่ยนได้#
+ตัวละครดังกล่าวมี Item มากเกินไป ไม่สามารถทำการแลกเปลี่ยนได้#
+มี Item มากเกินไปทำให้ไม่สามารถซื้อ Item ได้#
+การโฆษณาอยู่ในขั้นตอนการลงทะเบียน#
+ด้วย File และข้อความของเว็บไซต์ทางการ Ragnarok -> Support -> Contact Us เพื่อส่งข้อความเสนอแนะของคุณโดย:#
+เกิดข้อผิดพลาดภายในระบบชำระเงิน(%d)#
+เกิดข้อผิดพลาดในการซื้อ Rune เนื่องจากคุณแบก Item มากเกินไป#
+เกิดข้อผิดพลาดในการซื้อ เกินจำนวน Item ต่อชิ้น #
+เกิดข้อผิดพลาดในการซื้อ ที่ไม่ทราบสาเหตุ#
+โปรดลองใหม่ภายหลัง#
+ต้องสวมใส่ Kunai เพื่อใช้ Skill ดัวกล่าว#
+โปรดระบุเลเวลขั้นต่ำที่จะรับสมัคร#
+การกระทำ Item ส่วนผสม Jonda agency กับ NPC ไม่สามารถเป็นไปได้ โปรดตรวจสอบช่องเก็บของ#
+Skill ดังกล่าวใช้ได้เฉพาะภายในสงคราม#
+Skill ดังกล่าวใช้กับผู้เล่นได้เท่านั้น#
+ไม่สามารถสวมใส่ได้#
+สถานที่ดังกล่าวไม่สามารถตั้งร้านค้าแผงลอยและห้องสนทนาได้#
+เวลาผ่านไป: %d:%d:%d / %d:%d:%d#
+ความเร็ว: X 1/4#
+ความเร็ว: X 1/2#
+ความเร็ว: X 1  #
+ความเร็ว: X 2  #
+ความเร็ว: X 4  #
+ความเร็ว: X 8  #
+ความเร็ว: X 16 #
+ความเร็ว: ไม่ทราบ#
+ข้อมูลระบบ: %s#
+ชื่อตัวละคร: %s#
+ชื่อแผนที่: %s#
+เวลาที่บันทึก: %d-%01d-%01d %d: %02d: %02d#
+เวลาที่เล่นไป: %02d: %02d: %02d#
+ไม่พบ File Replay#
+Server ไม่ตรงกัน#
+การตั้งค่าตัวเลือก Replay#
+ระบุชื่อ File#
+ตั้งการบันทึก Replay#
+ตั้งตัวเลือกการบันทึก#
+%.1f % ตำแหน่ง->:%d:%d:%d#
+%.1f % ตำแหน่ง->:ไม่สามารถย้ายไปได้#
+เริ่ม#
+หยุด#
+ระบุชื่อ File -> เริ่ม#
+เปิดตัวเลือก#
+ปิดตัวเลือก#
+สิ้นสุด#
+เวลา#
+Party & เพื่อน#
+การสนทนา#
+Hotkey#
+สร้างชื่อ File อัตโนมัติ#
+การตรวจสอบ File ซ้ำกัน#
+พบ File เดิม#
+เริ่มการบันทึก#
+ ถูกบันทึกแล้ว#
+น้ำหนัก: %3d / %3d#
+รวม: %s C#
+ต้องสวมใส่ [Shuriken]#
+เลเวล %d#
+Job เลเวล %d#
 Zeny: %s#
-Trilinear#
-attack#
-skill#
-item#
-NoCtrl#
+ลดรอยหยักของภาพ#
+โจมตี#
+Skill#
+Item#
+No Ctrl#
 Arena#
-(Character/Total Slot)#
-Premium Service#
+(ตัวละคร/ช่องทั้งหมด)#
+บริการ Premium#
 Premium #
-Service#
-Billing Service#
-Billing #
-Command List#
-LEVEL#
-MAP#
-JOB#
-Not Available#
-[Protection of Guardian Angel] You can't use it when you reach the highest level.#
-Do you really want to move?#
-Failed to move Char slot.#
-Character name is invalid.#
-Show Quest#
+บริการ#
+บริการการชำระเงิน#
+การชำระเงิน #
+รายการคำสั่ง#
+เลเวล#
+แผนที่#
+อาชีพ#
+ไม่พร้อมใช้งาน#
+[Protection of Guardian Angel] จะไม่สามารถใช้งานได้หากมีเลเวลสูงสุดแล้ว#
+ต้องการย้ายจริง ๆ ใช่หรือไม่?#
+เกิดข้อผิดพลาดในการย้ายช่องตัวละคร#
+ชื่อตัวละครผิด#
+แสดงภารกิจ#
  access is restricted between the hours of midnight to 6:00am.#
  access is restricted between the hours of ^ff0000midnight to 6:00am.^000000#
 In order to change the character name, you must leave the guild.#
