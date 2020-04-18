@@ -2057,36 +2057,36 @@ F#
 การเชิญชวน Party#
 ชื่อ Party:#
 ชื่อผู้เล่น:#
- has recieved an invitation to join your party.#
- rejected your party invitation.#
- accepted your party invitation.#
-Recruitment is already a party.#
-Same conditions such as the previous search.#
-Guild after withdrwal.#
-Party after secession.#
-The player can not be summoned to this map.#
-Party Leader is on a map that is restricted to summon players.#
-Summon has been denied.#
-Can not be summoned.#
-Only the leader can invite.#
-Search item:#
-You must enter a character name.#
-You must enter the name of the party.#
-Guild Creation Window#
-Join a guild or start your own!#
-Create Guild#
-Guild Name#
-Guild System#
-What is the guild system#
-You must enter the name of your guild.#
-Supported at the party was rejected.#
-Select Service:#
-Possible escape area.#
-Replay File List#
-File info#
-File List#
-%s Item deal not possible.#
-Disband the Guild#
+ ได้รับการเชิญชวนเพื่อเข้าร่วม Party ของคุณแล้ว#
+ ได้ปฎิเสธคำเชิญเข้าร่วม Party ของคุณ#
+ ได้ตอบรับคำเชิญเข้าร่วม Party ของคุณ#
+การรับสมัครผู้เล่นดังกล่าวอยู่ใน Party อยู่แล้ว#
+การค้นหาเหมือนครั้งก่อน#
+Guild หลังจากการถอนตัว#
+Party หลังจากการถอนตัว#
+ไม่สามารถเรียกผู้เล่นมายังแผนที่ดังกล่าวได้#
+หัวหน้า Party อยู่ในแผนที่ที่ไม่สามารถเรียกผู้เล่นได้#
+การเรียกถูกยกเลิก#
+ไม่สามารถเรียกได้#
+เฉพาะหัวหน้าเท่านั้นที่สามารถเชิญได้#
+ค้นหา Item:#
+คุณต้องระบุชื่อตัวละคร#
+คุณต้องระบุชื่อ Party#
+หน้าต่างการสร้าง Guild#
+เข้าร่วม Guild หรือสร้าง Guild ของคุณเอง!#
+สร้าง Guild#
+ชื่อ Guild#
+ระบบ Guild#
+อะไรคือระบบ Guild#
+คุณต้องระบุชื่อ Guild ของคุณ#
+การช่วยเหลือ Party ถูกปฎิเสธ#
+เลือกบริการ:#
+บริเวณที่สามารถหนีได้#
+รายการ File Replay#
+ข้อมูล File#
+รายการ File#
+%s การแลกเปลี่ยน Item ไม่สามารถเป็นไปได้#
+ยุบ Guild#
 Enter Guild Name#
 The character is not online or does not exist.#
 Failed to call Falcon.#
