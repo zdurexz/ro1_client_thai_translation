@@ -187,7 +187,7 @@ Item ที่สามารถขายได้#
 Item ที่สามารถซื้อได้#
 พื้นที่ที่ไม่รู้จัก#
 ภาษาของตัวเกมของคุณไม่ตรงกับ Server#
-โปรดย้ายอุปกรณ์สวมใส่ไปยังช่องเก็บของ และปิดหน้าต่างอุปกรณ์สวมใส่#
+โปรดปิดหน้าต่างอุปกรณ์สวมใส่ก่อน#
 Server นี้สนับสนุนตัวอักษร English เท่านั้น#
 การกระทำดังกล่าวยังไม่เปิดการใช้งาน#
 ไม่พบรายการกระซิบ#
@@ -1740,35 +1740,35 @@ Item ที่ใช้ได้:#
 จำนวนมากสุดของ Item ที่คุณสามารถขายได้คือ %d#
 ผู้รับซื้อมี Zeny ไม่เพียงพอ โปรดลดจำนวน Item ของคุณที่จะขาย#
 เกิดข้อผิดพลาดในการเปิดร้านรับซื้อ#
-You exceed the total amount of items.#
-You have purchased all items within the limited price.#
-You purchased all items.#
-Failed to deal because you have not enough Zeny.#
-You have sold %s. Amount: %d. Total Zeny: %dz#
-%s item could not be sold because you do not have the wanted amount of items.#
-You don't have any summoned spirits.#
-This is a restricted server.#
-OTP password is 6 digits long.#
-OTP information is unavailable. Please contact your administrator.#
-OTP authentication failed.#
-Party ad has been added.#
-Recruit party members#
-Roles#
-1st Jobs#
-2nd Jobs#
-3-1 Classes#
-3-2 Classes#
-1st Job High#
-2nd Jobs High#
-Other Jobs#
-Recruit#
-Open party recruitment window.#
-Searching - #
-Select All#
-Recruitment of at least one job must be running.#
-You have to select atleast 1 or more jobs.#
-You have selected %d Jobs. You can only select up to 6 different jobs.#
-Only numeric characters are allowed.#
+คุณมี Item รวมกันเกินมากกว่าจำนวนที่กำหนด#
+คุณได้ซื้อ Item ทั้งหมดด้วยราคาที่จำกัด#
+คุณได้ซื้อ Item ทั้งหมดเรียบร้อยแล้ว#
+ไม่สามารถทำการแลกเปลี่ยนได้เนื่องจากคุณมี Zeny ไม่เพียงพอ#
+คุณได้ขาย %s จำนวน: %d Zeny ทั้งหมด: %dz#
+%s ไม่สามารถขายได้เนื่องจากคุณมีจำนวน Item ไม่เพียงพอกับที่ผู้รับต้องการ#
+คุณไม่มี Summon Spirit เลย#
+Server นี้คือ Server ที่ถูกควบคุมอยู่#
+รหัสผ่าน OTP ต้องมีความยาว 6 ตัวอักษร#
+ข้อมูล OTP ยังไม่สามารถใช้ได้ โปรดติดต่อเจ้าหน้าที่#
+เกิดข้อผิดพลาดในการยืนยัน OTP#
+เพิ่มการโฆษณา Party เรียบร้อยแล้ว#
+รับสมัครสมาชิกเข้า Party#
+บทบาท#
+Class 1#
+Class 2#
+Class 3-1#
+Class 3-2#
+Class 1 High#
+Class 2 High#
+Class อื่น ๆ#
+รับสมัคร#
+เปิดหน้าต่างรับสมัครเข้า Party#
+กำลังค้นหา - #
+เลือกทั้งหมด#
+ต้องมีอย่างน้อย 1 อาชีพที่ต้องเลือกในการรับสมัคร#
+คุณต้องเลือกอย่างน้อยอีก 1 อาชีพ#
+คุณเลือก %d อาชีพ คุณสามารถเลือกได้มากสุด 6 อาชีพที่แตกต่างกัน#
+ระบุได้เฉพาะตัวเลขเท่านั้น#
 Please enter levels between 1~150.#
 Nothing found in the selected map.#
 You cannot equip this item with your current level.#
