@@ -2255,12 +2255,12 @@ E%2d) %s#
 ตัวอย่าง) รายการเลือก -> เลือก "Npc" จากนั้นระบุ  "Kafra" ภายในช่อง ผลลัพธ์จะแสดงออกมา#
 3) เมื่อคุณเลือก Item จากรายการ ข้อมูลเกี่ยวกับมันจะถูกแสดง#
 -> เมื่อปุ่มถูกกด มันจะชี้ทางไปยังจุดหมายด้วยหากเป็นไปได้#
-4) Scroll | Zeny | Plane options can be checked to find a faster route#
-5) Guide button is pressed, the result list window displays where routes can change direction#
-6) Using the button below, search results can be found#
--> [Results List Window] <-> [View Modes can be switched]#
-Level:%d (Boss)#
-Level:%d (Mob)#
+4) ตัวเลือก คัมภีร์ | Zeny | เรือเหาะ สามารถเลือกได้เพื่อเลือกหนทางที่รวดเร็วที่สุด#
+5) เมื่อกดปุ่มแนะนำ ผลลัพธ์จะแสดงรายการหนทางที่สามารถเปลี่ยนได้#
+6) ใช้ปุ่มด้านล่าง ค้นหาผลลัพธ์ที่สามารถพบได้#
+-> [หน้าต่างรายการผลลัพธ์] <-> [Mode การแสดงสามารถเปลี่ยนได้เสมอ]#
+เลเวล:%d (Boss)#
+เลเวล:%d (Mob)#
 Water %d#
 Earth %d#
 Fire %d#
@@ -2284,41 +2284,41 @@ Demi-Human#
 Angel#
 Dragon#
 Formless#
-Click to move %s#
-Move to the Kafra Service Npc#
-Click the NPC#
-Move %s#
-Move to the Airship Service#
-By Warp#
-End Points: (%d %d)#
-That does not support the navigation area#
-The purpose is unclear#
-Does not meet the map requirement#
-Information Failure | Change settings#
-Failed to set info for location!#
-Failed to find a path#
-Failed to find players #
-No Information#
-Map doesn't support directions#
-Please specify target goals.#
-Found#
-Directions were started#
-Is the map that your looking for mob#
-Map appears on the guide you are looking for#
-Please navigate using the item#
-Please follow the instruction to reach your destination.#
-Arrived at the target map#
-Arrived on the map that has the Npc your looking for. Go to that NPC#
-You have arrived at the mob you were looking for#
-You have reached your goal#
-Please go to indicated direction.#
-The goal has been reached#
-Navigation >: %s#
-Navigation >: Talk to Guide "%s" (A)#
-Navigation >: Move to (%s) map#
-Navigation >: Choose (%s) Map from Kafra#
-Navigation >: Please go to the AirShip#
-Navigation >: Get to your destination by using WarpPortal#
+กดเพื่อเคลื่อนย้าย %s#
+เคลื่อนย้ายไปยัง Npc Kafra#
+กดที่ NPC#
+ย้าย %s#
+ย้ายไปยังเรือเหาะ#
+โดยการ Warp#
+จุดสิ้นสุด: (%d %d)#
+บริเวณดังกล่าวไม่รับการนำทาง#
+จุดประสงค์ไม่ชัดเจน#
+ไม่ตรงกับเงื่อนไขของแผนที่#
+เกิดข้อผิดพลาดกับข้อมูล | เปลี่ยนการตั้งค่า#
+เกิดข้อผิดพลาดกับการตั้งข้อมูลสำหรับสถานที่!#
+เกิดข้อผิดพลาดในการค้นหาเส้นทาง#
+เกิดข้อผิดพลาดในการค้นหาผู้เล่น #
+ไม่มีข้อมูล#
+แผนที่ดังกล่าวไม่สนับสนุนการนำทาง#
+โปรดระบุจุดมุ่งหมาย#
+พบ#
+การนำทางเริ่มขึ้นแล้ว#
+คือแผนที่ที่คุณกำลังตามหา Monster#
+คือแผนที่ที่คุณกำลังตามหา Guide#
+โปรดนำทางด้วยการใช้ Item#
+โปรดทำตามคำแนะนำเพื่อไปยังจุดหมาย#
+ถึงแผนที่เป้าหมายแล้ว#
+ถึงแผนที่ที่มี Npc ที่คุณตามหาแล้ว ไปหา Npc ดังกล่าวเลย#
+คุณได้มาถึงบริเวณที่มี Monster ที่คุณตามหาแล้ว#
+คุณได้มาถึงจุดมุ่งหมายแล้ว#
+โปรดไปยังเส้นทางที่แนะนำ#
+ถึงจุดมุ่งหมายแล้ว#
+การนำทาง >: %s#
+การนำทาง >: คุยกับ Guide "%s" (A)#
+การนำทาง >: เคลื่อนย้ายไปยังแผนที่ (%s)#
+การนำทาง >: เลือกแผนที่ (%s) จาก Kafra#
+การนำทาง >: โปรดไปยังเรือเหาะ#
+การนำทาง >: ไปยังจุดหมายด้วยการเข้าจุด Warp#
 Item: #
 $$#
 $$lv#
