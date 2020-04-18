@@ -2208,53 +2208,53 @@ Item ที่ต้องการ#
 แผนที่#
 Npc#
 Mob#
-Enter search string... (Ex: word word ...)#
-Scroll#
-Use Scroll?#
-Service#
-Use Kafra Warp?#
-Plane#
-Use Airship?#
->> Failed to read the target information.#
->> Destination <<#
-<<   Goal   >>#
+ระบุคำที่ต้องการค้นหา... (ตัวอย่าง: ไก่ ...)#
+คัมภีร์#
+ต้องการใช้คัมภีร์หรือไม่?#
+บริการ#
+ต้องการใช้ Warp ของ Kafra หรือไม่?#
+เรือเหาะ#
+ต้องการใช้ยานเหาะหรือไม่?#
+>> เกิดข้อผิดพลาดในการอ่านข้อมูลเป้าหมาย#
+>> จุดหมาย <<#
+<<   จุดมุ่งหมาย   >>#
 -----------#
-Navigation#
-= Found (%d) ==#
+การนำทาง#
+= พบ (%d) ==#
 Npc)%s:%s#
 Mob)%s:%s#
-Map)%s#
-======== Results ==========#
-Dist  %d Cell %d WarpMove#
-Coords %s(%s)#
-Goal:%s (%d,%d)#
+แผนที่)%s#
+======== ผลลัพธ์ ==========#
+ระยะทาง  %d ช่อง %d การเคลื่อนย้ายด้วย Warp#
+ตำแหน่ง %s(%s)#
+จุดมุ่งหมาย:%s (%d,%d)#
 Boss#
-General#
-Goal:#
-Goal: (%d, %d)#
-======= Guidance =======#
-%2d) Item:%s => %s Use!#
+ทั่วไป#
+จุดมุ่งหมาย:#
+จุดมุ่งหมาย: (%d, %d)#
+======= การแนะนำ =======#
+%2d) Item:%s => %s ที่ต้องใช้!#
 %2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s#
-Do you want to cancel navigation?#
-How to Use Navigation#
-------------------- Instruction --------------------#
-1) /Navigation or /navi#
-ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
-2) /Navigation2 or /navi2 #
-ex) /navi2 prontera 100 111#
--> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
--> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
-3) /$$ Output all the items (Can take a while...) #
-4) /$$ Lv30 monsters are placed in the output #
-5) /$$ Lv20~30 monsters in that level range are placed in the output #
--------------------  Description  --------------------#
-1) One can search for monsters, npcs, maps, or all at once#
-2) You can press the search button to get results. It will out put the results depending on what rule you choose#
-ex) Drop down box -> Select "Npc", then type in the box "Kafra". Results will now be displayed#
-3) When you select an item from a list, information about it are displayed.#
--> When button is clicked, it will point you towards your destination if available#
+ต้องการยกเลิกการนำทางหรือไม่?#
+วิธีใช้การนำทาง#
+------------------- วิธีใช้ --------------------#
+1) /Navigation หรือ /navi#
+ตัวอย่าง) /navi prontera 100 100 -> /navi "ชื่อแผนที่", 100, 100#
+2) /Navigation2 หรือ /navi2 #
+ตัวอย่าง) /navi2 prontera 100 111#
+-> ชื่อแผนที่ ตำแหน่ง (100 90), คัมภีร์ | Zeny | เรือเหาะ (1: เปิดการใช้งาน หรือ 0: ปิดการใช้งาน)#
+-> /navi2 ไปแบบระบุตำแหน่งของสถานที่ ต้องระบุไม่น้อยกว่า 3 ตัวอักษร #
+3) /$$ ผลลัพธ์ของ Item ทั้งหมด (อาจต้องใช้เวลาหน่อย...) #
+4) /$$ Monster เลเวล 30 ถูกกำหนดไว้ในผลลัพธ์ #
+5) /$$ Monster ที่มีเลเวลระหว่าง 20~30 ถูกกำหนดไว้ในผลลัพธ์ #
+-------------------  คำอธิบาย  --------------------#
+1) สามารถค้นหา Monster, Npc, แผนที่, หรือทั้งหมดได้ภายในคราวเดียวกัน#
+2) สามารถกดปุ่มค้นหาเพื่อดูผลลัพธ์ มันจะแสดงผลลัพธ์ตามกฎที่คุณกำหนด#
+ตัวอย่าง) รายการเลือก -> เลือก "Npc" จากนั้นระบุ  "Kafra" ภายในช่อง ผลลัพธ์จะแสดงออกมา#
+3) เมื่อคุณเลือก Item จากรายการ ข้อมูลเกี่ยวกับมันจะถูกแสดง#
+-> เมื่อปุ่มถูกกด มันจะชี้ทางไปยังจุดหมายด้วยหากเป็นไปได้#
 4) Scroll | Zeny | Plane options can be checked to find a faster route#
 5) Guide button is pressed, the result list window displays where routes can change direction#
 6) Using the button below, search results can be found#
