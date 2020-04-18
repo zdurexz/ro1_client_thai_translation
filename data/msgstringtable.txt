@@ -1769,48 +1769,48 @@ Class อื่น ๆ#
 คุณต้องเลือกอย่างน้อยอีก 1 อาชีพ#
 คุณเลือก %d อาชีพ คุณสามารถเลือกได้มากสุด 6 อาชีพที่แตกต่างกัน#
 ระบุได้เฉพาะตัวเลขเท่านั้น#
-Please enter levels between 1~150.#
-Nothing found in the selected map.#
-You cannot equip this item with your current level.#
-You cannot use this item with your current level.#
-Enable Battlemode#
-Failed to add because you have reached the limit.#
-Window Sign Information#
-Sell#
-Purchase#
-Search for Vends#
-Shop Name#
-Quantity#
-Cost#
-Too much results have been found. Please do a more precisely search.#
-Do you want to open a street stall?#
-Failed to recognize SSO.#
-Cannot move to the applied area.#
-searching  item including the word#
-User has been expelled.#
-You have not accepted the user agreements yet.#
-You will not be disconnect from the game.#
-It is available only for 12 hours.#
-Your account is blocked due to illegal use of the game account.#
-Your account is blocked because there may exist a bug with your account.#
-Increases base exp and job exp gained by killing monsters up to 75% for 30 minutes.#
-Increases base exp and job exp gained by killing monsters up to 50% for 30 minutes.#
-No sales information.#
-Failed to search any further.#
-The item you have entered does not exist.#
-Cannot search yet.#
-Enter the card name or prefix/suffix.#
-Searches left: %d#
-No result has been found.#
-The item price is too high.#
-General#
+โปรดระบุเลเวลระหว่าง 1~150#
+ไม่พบอะไรเลยภายในแผนที่ที่เลือก#
+ไม่สามารถสวมใส่อุปกรณ์ดังกล่าวได้ด้วยเลเวลของคุณในขณะนี้#
+ไม่สามารถใช้ Item ดังกล่าวได้ด้วยเลเวลของคุณในขณะนี้#
+เปิดการใช้งาน Mode Battle#
+เกิดข้อผิดพลาดในการเพิ่ม เนื่องจากเกินจำนวนที่จำกัดแล้ว#
+หน้าต่างข้อมูลการลงชื่อ#
+ขาย#
+ซื้อ#
+ค้นหาร้านค้าแผงลอย#
+ชื่อร้านค้า#
+จำนวน#
+ราคา#
+เจอผลการค้นหามากเกินไป โปรดระบุการค้นหาให้กระชับกว่านี้#
+ต้องการเปิดร้านค้าแผงลอยหรือไม่?#
+เกิดข้อผิดพลาดในการเรียกใช้งาน SSO#
+ไม่สามารถเคลื่อนย้ายไปยังบริเวณที่ระบุได้#
+การค้นหา Item ด้วยคำ#
+ขับไล่ผู้เล่นดังกล่าวเรียบร้อยแล้ว#
+คุณยังไม่ได้ยินยอมข้อตกลงของผู้ใช้งาน#
+คุณจะไม่ถูกตัดการเชื่อมต่อจากเกม#
+สามารถใช้งานได้ภายใน 12 ชั่วโมงเท่านั้น#
+ID ของคุณถูกระงับเนื่องจากมีการทุจริตภายใน ID#
+ID ของคุณถูกระงับเนื่องจากตรวจพบ Bug ภายใน ID#
+EXP และ Job EXP ที่ได้รับจากการกำจัด Monster มากขึ้น 75% เป็นเวลา 30 นาที#
+EXP และ Job EXP ที่ได้รับจากการกำจัด Monster มากขึ้น 50% เป็นเวลา 30 นาที#
+ไม่พบรายละเอียดการขาย#
+เกิดข้อผิดพลาดในการค้นหา#
+ไม่พบ Item ที่ระบุ#
+ยังไม่สามารถค้นหาได้ในขณะนี้#
+โปรดระบุชื่อ Card หรือ คำนำหน้า/คำต่อท้าย#
+จำนวนครั้งที่เหลือในการค้นหา: %d#
+ไม่พบข้อมูลใด ๆ#
+ราคา Item สูงเกินไป#
+ทั่วไป#
 Costume#
-minute#
-second#
-Please enter the name of the item.#
-The item you have entered does not exist.#
-The map is not available.#
-The selected name or prefix/suffix does not exist.#
+นาที#
+วินาที#
+โปรดระบุชื่อ Item#
+ไม่พบ Item ที่ระบุ#
+แผนที่ดังกล่าวไม่สามารถใช้ได้#
+ไม่พบชื่อหรือคำนำหน้า/คำต่อท้าย#
 You can purchase up to 10 items.#
 Some items could not be purchased.#
 Enter your 6-digit DOB(YYMMDD) (e.g: 801122)#
