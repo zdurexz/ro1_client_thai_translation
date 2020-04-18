@@ -2377,60 +2377,60 @@ Items ที่ได้รับจากการเปิดจะถูกผนึกไว้กับตัวละคร (ไม่สามารถย้ายไปยังคลังเก็บของ) 
 คำสั่งต่าง ๆ ของเกม#
 เปิด/ปิด คำสั่งต่าง ๆ ของเกม#
 Macro#
-Trading is prohibited in this Map#
-Vending is prohibited in this Map#
-In this Map,Effect of Mirace of Sun and Moon is nullified.#
-Ranking Board#
-Rank#
-Name#
-Points#
-BlackSmith#
+การแลกเปลี่ยนถูกระงับภายในแผนที่ดังกล่าว#
+การตั้งร้านค้าแผงลอยถูกระงับภายในแผนที่ดังกล่าว#
+ผลของ Mirace of Sun and Moon ไม่สามารถใช้งานได้ภายในแผนที่ดังกล่าว#
+กระดานจัดอันดับ#
+อันดับ#
+ชื่อ#
+แต้ม#
+Blacksmith#
 Alchemist#
 Taekwon#
-Killer#
+ฆาตกร#
 7 vs 7#
-RuneKnight#
+Rune Knight#
 Warlock#
 Ranger#
 Mechanic#
-GuillotineCross#
+Guillotine Cross#
 Archbishop#
-RoyalGuard#
+Royal Guard#
 Sorcerer#
 Minstrel#
 Wanderer#
 Genetic#
-ShadowChaser#
+Shadow Chaser#
 Sura#
 Kagerou#
 Oboro#
-Select Ranking Type#
-Ranking Type#
-Currently,Server is full.           ^0000ffPeople Currently Waiting: %d                    Expected Waiting Time: %dSeconds#
-Currently,Server is full.           ^0000ffPeople Currently Waiting: %d                    Expected Waiting Time: %dMinutes %d Seconds#
-CBT is not an invited user#
-------------------- Instruction --------------------#
-1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
-2) /Navigation2 or /navi2 ex) /navi2 prontera 100 111 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
--> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
-3) $$all Output all the items (Can take a while...) #
-4) $$lv30 monsters are placed in the output #
-5) $$lv20~30 monsters in that level range are placed in the output #
+เลือกประเภทการจัดอันดับ#
+ประเภทการจัดอันดับ#
+ขณะนี้ Server เต็ม           ^0000ffผู้เล่นที่กำลังรอ: %d                    เวลาเฉลี่ยที่ต้องรอ: %d วินาที#
+ขณะนี้ Server เต็ม           ^0000ffผู้เล่นที่กำลังรอ: %d                    เวลาเฉลี่ยที่ต้องรอ: %d นาที %d วินาที#
+CBT ไม่ใช่การเชิญชวนผู้เล่น#
+------------------- คู่มือ --------------------#
+1) /Navigation หรือ /navi ex) /navi prontera 100 100 -> /navi "แผนที่", 100, 100#
+2) /Navigation2 หรือ /navi2 ex) /navi2 prontera 100 111 -> แผนที่ ตำแหน่ง (100 90), คัมภีร์ | Zeny | เรือเหาะ (1: เปิดการใช้งาน หรือ 0: ปิดการใช้งาน)#
+-> /navi2 ไปแบบระบุตำแหน่งของสถานที่ ต้องระบุไม่น้อยกว่า 3 ตัวอักษร #
+3) $$all ผลลัพธ์ของ Item ทั้งหมด (อาจต้องใช้เวลาหน่อย...) #
+4) $$lv30 Monster เลเวล 30 ถูกกำหนดไว้ในผลลัพธ์ #
+5) $$lv20~30 Monster ที่มีเลเวลระหว่าง 20~30 ถูกกำหนดไว้ในผลลัพธ์ #
 1 vs 1#
 Costume#
-%d First character of the profession is more than information. Please contact the Customer Care Center. ErrorCode(%d)#
+%d ตัวอักษรแรกที่ระบบแจ้ง สำคัญกว่าข้อมูล โปรดติดต่อเจ้าหน้าที่ด้วย ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
-Server Exceeded the maximum number of users,Cannot Connect anymore users.#
-Server Connection Failed (%d)#
-Login Timeout Permitted#
-Login Authentication Failed from Authentication Server.#
-Guild Cannot use Space in the name.#
-Hey,Hello There#
-Available Time will End on %d month %d hour %d:%d#
-You've lot of time,Play in Peace.#
-Your hours will be terminated within this week. Please Charge before termination.#
-Your hours will be terminated within 24 hours.Please Charge Quickly.#
+Server มีผู้เล่นมากกว่าเกินกำหนดแล้ว ไม่สามารถรับการเชื่อมต่อเพิ่มได้ในขณะนี้#
+เกิดข้อผิดพลาดในการเชื่อมต่อ Server (%d)#
+อนุญาตให้มีการ Login โดยที่ไม่จำกัดเวลา#
+เกิดข้อผิดพลาดในการยืนยันการ Login จาก Server ตรวจสอบการยืนยันตน#
+ไม่สามารถใช้ Spacebar ภายในชื่อ Guild ได้#
+เฮ้ ว่าไง#
+เวลาที่ใช้ได้จะสิ้นสุดลงภายใน %d เดือน %d ชั่วโมง %d:%d#
+คุณมีเวลาเหลือเฟือ เล่นอย่างสงบเถอะ#
+ชั่วโมงของคุณจะหมดภายในอาทิตย์นี้ โปรดชำระค่าบริการก่อนที่จะหมดเวลา#
+ชั่วโมงของคุณจะหมดภายในวันนี้ โปรดชำระค่าบริการก่อนที่จะหมดเวลา#
 Current Time Left:%d hours.Charge the game for uninterrupted play.#
 Current Time Left:%d minutes.Charge the game for uninterrupted play.#
 Time Left: %d hours %d minutes#
