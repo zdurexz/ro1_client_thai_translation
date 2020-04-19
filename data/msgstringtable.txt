@@ -2490,27 +2490,27 @@ https://discord.gg/TK6rVtY#
 หน้าต่างการแลกเปลี่ยนหรือหน้าต่างร้านค้าถูกเปิดอยู่ ทำให้ไม่สามารถถอนได้#
 ไปยัง#
 การเปรียบเทียบ Item#
-Now you are trying to mount the gun equipped with bullet does not meet#
-Now you are trying to mount the guns and bullets will not fit mounted#
-Has not registered to sell the item. Please register to sell the item#
+คุณใช้กระสุนไม่เหมาะกับปืนที่สวมใส่อยู่#
+คุณใช้ปืนไม่เหมาะกับกระสุนที่สวมใส่อยู่#
+ไม่ได้ลงทะเบียนขาย Item โปรดลงทะเบียนขาย Item เสียก่อน#
 ITEM#
-Guild storage is not available.#
-Guild is not subscribed to. After signing up, please use #
-Two other guild members are in use. Please use it after a while.#
-Storage Permission#
-Guild Storage#
-You do not have permission to use guild storage.#
-Limited Sale Registration Window#
-Item DB Name#
-Item DB Number#
-Number of Sale#
-Sale Start Time#
-Time to sell#
-Please enter number you want to sell#
-Enter start time of sale#
-Start time does not match the scope of sales.#
-Please enter the time#
-Please enter the Item DB Name#
+ไม่สามารถใช้คลังเก็บของ Guild ได้ในขณะนี้#
+Guild ยังไม่ได้สมัครการใช้งาน หลังจากสมัครแล้วจึงสามารถใช้ได้ #
+มีสมาชิก Guild กำลังใช้งานอยู่ โปรดรอสักพักแล้วลองใหม่#
+สิทธิในการใช้คลังเก็บของ#
+คลังเก็บของ Guild#
+คุณไม่มีสิทธิใช้คลังเก็บของ Guild#
+หน้าต่างการลงทะเบียนขายของแบบจำกัด#
+ชื่อ Item จากฐานข้อมูล#
+เลข Item จากฐานข้อมูล#
+จำนวนการขาย#
+เวลาเริ่มการขาย#
+เวลาที่จะขาย#
+โปรดระบุจำนวนที่ต้องการขาย#
+ระบุเวลาเริ่มการขาย#
+เวลาที่จะขายไม่ตรงกับรูปแบบการขาย#
+โปรดระบุเวลา#
+โปรดระบุชื่อ Item จากฐานข้อมูล#
 Item ID lookup failed. Please try again later#
 >> ItemName: %s / Price: %dc / Quantity: %d / TimeOfSale: %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%dSecond#
 Registration successful#
