@@ -2567,48 +2567,48 @@ https://discord.gg/TK6rVtY#
 โปรดระบุ Password เพื่อเชื่อมต่อ#
 Pet Evolution#
 Evolution - %s#
-Evolution requires the following ingredients:#
-Are you sure you want to evolve your pet?#
-Unknown Error#
-Pet Cannot be hatched.#
-It is not requested petal.#
-Evolution material is low.#
-Insufficient materials for evolution.#
-Loyal Intimacy is required to evolve.#
-Automatic feeding#
-Feeding the pet. %d '%d' remaining#
-Automatic feeding turned On#
-Automatic feeding turned Off#
-Update#
-%d minutes ago#
-%d hours ago#
-%d days ago#
+Evolution ต้องการส่วนผสมตามนี้:#
+ต้องการ Evolution Pet ของคุณใช่หรือไม่?#
+เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ#
+Pet ไม่สามารถฟักออกจากไข่ได้#
+ไม่ใช่ดอกไม้ที่ต้องการ#
+ส่วนผสมในการ Evolution เหลือน้อย#
+ส่วนผสมไม่เพียงพอในการ Evolution#
+ต้องการความสนิทสนมสูงสุดในการ Evolution#
+การให้อาหารอัตโนมัติ#
+ให้อาหาร Pet แล้ว %d '%d' คงเหลือ#
+เปิดใช้งาน การให้อาหารอัตโนมัติ#
+ปิดใช้งาน การให้อาหารอัตโนมัติ#
+อัปเดต#
+%d นาทีที่แล้ว#
+%d ชั่วโมงที่แล้ว#
+%d วันที่แล้ว#
 %d%%% ( Premium %d%%% + %s Server )#
-Mailed#
-Your mail has been sent.#
-This item has been moved to the inventory.#
-Failed to get items.#
-Please empty your inventory.#
-Zeny received.#
-Failed to get zeny.#
-Exceeded the limits of zenny.#
-Items attached success#
-The name of the recipient must be included.#
-The length of the title must be 4 to 50 characters long.#
-Mail delivery failed.#
-Transmission has failed to inappropriate items.#
-Information of the recipient does not exist.#
+ส่งจดหมาย#
+จดหมายของคุณถูกส่งแล้ว#
+Item ดังกล่าวถูกย้ายไปยังช่องเก็บของ#
+เกิดข้อผิดพลาดในการรับ Item#
+โปรดทำให้ช่องเก็บของว่างมากกว่านี้#
+Zeny ที่ได้รับ#
+เกิดข้อผิดพลาดในการรับ Zeny#
+เกินจำนวนที่กำหนดของ Zeny#
+การแนบ Item สำเร็จเรียบร้อย#
+ต้องระบุชื่อของผู้รับ#
+ต้องระบุชื่อหัวข้ออย่างน้อย 4~50 ตัวอักษร#
+เกิดข้อผิดพลาดในการส่งจดหมาย#
+เกิดข้อผิดพลาดในการส่งเนื่องจากมี Item ที่ไม่เหมาะสม#
+ไม่พบข้อมูลผู้รับ#
 %s [%d Option]#
-Level, enter a number between 1 and %d.#
-Please free the window possessing space.#
-Sending mail count exceeded.#
-You can not open the mail.#
-You are currently joined in Clan !!#
-Gold PC rooms mileage information#
-Unequip pet accessories first to start evolution#
-%d minutes later#
-%d hours later#
-%d days later#
+เลเวล ต้องระบุระหว่าง 1~%d#
+โปรดทำให้มีช่องว่างภายในหน้าต่าง#
+เกินจำนวนที่กำหนดในการส่งจดหมายแล้ว#
+คุณไม่สามารถเปิดจดหมายได้#
+คุณมี Clan อยู่แล้ว !!#
+ข้อมูลห้อง Gold PC#
+โปรดถอดอุปกรณ์ Pet ก่อนที่จะ Evolution#
+%d นาทีหลังจากนั้น#
+%d ชั่วโมงหลังจากนั้น#
+%d วันหลังจากนั้น#
 Press the OK button to confirm the C-CODE.#
 After obtaining the attached article can be deleted.#
 You can not send any more zeny.#
