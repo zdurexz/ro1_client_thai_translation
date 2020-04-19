@@ -2431,65 +2431,65 @@ Server มีผู้เล่นมากกว่าเกินกำหนดแล้ว ไม่สามารถรับการเชื่อมต่อเพิ่มได้ในขณะนี้#
 คุณมีเวลาเหลือเฟือ เล่นอย่างสงบเถอะ#
 ชั่วโมงของคุณจะหมดภายในอาทิตย์นี้ โปรดชำระค่าบริการก่อนที่จะหมดเวลา#
 ชั่วโมงของคุณจะหมดภายในวันนี้ โปรดชำระค่าบริการก่อนที่จะหมดเวลา#
-Current Time Left:%d hours.Charge the game for uninterrupted play.#
-Current Time Left:%d minutes.Charge the game for uninterrupted play.#
-Time Left: %d hours %d minutes#
+เวลาคงเหลือ:%d ชั่วโมง โปรดอย่าลืมชำระค่าบริการก่อนที่จะหมดเวลาเสียก่อน#
+เวลาคงเหลือ:%d นาที โปรดอย่าลืมชำระค่าบริการก่อนที่จะหมดเวลาเสียก่อน#
+เวลาคงเหลือ: %d ชั่วโมง %d นาที#
 %d%% ( Basic 100%% + PCRoom %d%% + Premium %d%% + %sServer %d%% )#
-After %d hours %d minutes, your game will be terminated.#
-This Account is permanently Banned.#
-This Account is banned.\nTermination Time:%04d-%02d-%02d %02d:%02d #
-Monster(Tab)#
-Map(Alt)#
-Product Information#
-Find Information#
-AirShip#
+หลังจาก %d ชั่วโมง %d นาที ตัวเกมจะถูกปิดตัวลง#
+ID ดังกล่าวถูกระงับถาวร#
+ID ดังกล่าวถูกระงับ\nเวลาสิ้นสุด:%04d-%02d-%02d %02d:%02d #
+Monster [Tab]#
+แผนที่ [Alt]#
+ข้อมูลสิ้นค้า#
+ข้อมูลการค้นหา#
+เรือเหาะ#
 Kafra#
-(Arrival)#
+(มาถึงแล้ว)#
 Mob)%s:%s(%s)#
-Distribution:%s#
-Very Plenty#
-Plenty#
-Normal#
-Low#
-Very Low#
-The bank is not available. Please try again in a few minutes.#
-Bank balance is low.#
-You don't have enough zeny#
-Minimum Deposit Amount: 1 zeny#
-Minimum Withdrawal Amount: 1 zeny#
-You cannot hold more than 2,147,483,647 Zeny#
-your account is lock by mobile otp#
-MOTP auth fail#
-For %d minutes,Job Experience obtained from monster is increased by %d%%#
-Current Zeny: %s Zeny#
+การจำหน่าย:%s#
+มากที่สุด#
+มาก#
+ปกติ#
+น้อย#
+น้อยมาก#
+ธนาคารยังไม่สามารถใช้งานได้ โปรดลองใหม่ภายหลัง#
+เงินฝากเหลือน้อยแล้ว#
+คุณมี Zeny ไม่เพียงพอ#
+ฝากขั้นต่ำ: 1 zeny#
+ถอนขั้นต่ำ: 1 zeny#
+ไม่สามารถมี Zeny มากกว่า 2,147,483,647 Zeny ได้#
+ID ของคุณถูกระงับโดยการยืนยันตนผ่านมือถือ#
+เกิดข้อผิดพลาดกับการยืนยันตนผ่านมือถือ#
+เป็นเวลา %d นาที Job EXP ที่ได้รับจาก Monster จะเพิ่มขึ้น %d%%#
+Zeny ปัจจุบัน: %s Zeny#
 Zeny#
-The Maximum amount is 2,147,483,647 Zeny#
-Insufficient bullet#
-You entered more than 1 Billion Zeny, the price will be set to 1 Billion Zeny.#
-AuthTicket is Not Valid#
+Zeny สามารถมีได้มากสุด 2,147,483,647 Zeny#
+กระสุนหมด#
+คุณระบุจำนวน Zeny มากกว่า 1 พันล้าน Zeny ราคาจะถูกปรับเป็น 1 พันล้าน Zeny#
+การยืนยันตนไม่ถูกต้อง#
 ErrorCategory: %d, ErrorCode: %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + Internet cafe %d%% + %s Server %d%% )#
-Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
-Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
-The price of^0000FF %s^000000#
+อัตราการ Drop จากการล่า Monster เพิ่มขึ้นเป็นเวลา %d นาที จำนวน %d เท่า#
+อัตราการ Drop จากการล่า Monster เพิ่มขึ้นเป็นเวลา %d ชั่วโมง %.2d นาที  จำนวน %d เท่า#
+ราคาของ^0000FF %s^000000#
 1000000000#
- is over ^FF0000%d^0000FF Billion^000000 Zeny and#
+ เกิน ^FF0000%d^0000FF พันล้าน^000000 Zeny และ#
 10000000#
- more than^FF0000 %d0^0000FF Million^000000 Zeny#
-. Is this correct?#
-Safety check for more than 10m Zeny#
-https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
-https://kepler.warpportal.com/ro1/purchase/?step=1&steamid=%lld&accountname=#
-A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
-This is a marker indicating the end of the trip, a new world is opening indicators! Guardian, such as the lyrics to the temptation was gradually losing the soul.#
-For thousands of years, a mysterious melody has mesmerized the guardian. After a millennia of slumber, the guardian became confused about what he had been protecting all these years, and began to suspect that he might be the one who has been sealed and hidden away.#
-When the melody reached its peak, a giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim. As a result, the two worlds were cut off from each other, causing a big problem for the people.#
-Now, the only way to get to Bifrost is through the Labyrinth Forest. Nobody knows how the forest came to exist, and nobody has ever come out of it alive...#
-Swallowed countless adventurers to put a hell of confusion, wandering in the forest labyrinth of nowhere, like the heart of a woman was being extend deeper confusion.#
-You can enter only numbers.#
-Exchange or store window is active and can not register the withdrawal.#
-Go to#
-Item Compare#
+ เกิน^FF0000 %d0^0000FF ล้าน^000000 Zeny#
+. ยืนยันว่าถูกต้อง?#
+ตรวจสอบว่าเกิน 10m Zeny#
+https://discord.gg/TK6rVtY#
+https://discord.gg/TK6rVtY#
+พบรอยแตกขนาดใหญ่ปรากฎใน Bifrost สะพานระหว่าง Splendide จุดจบของโลกและเกาะลอยฟ้า Alfheim บางทีคุณอาจยังไม่ทราบเกี่ยวกับ Labyrinth Forest#
+มันคือจุดหมายที่นำทางไปยังจุดจบของการเดินทาง โลกใบใหม่กำลังจะปรากฎขึ้น! เหล่าผู้พิทักษ์เอ๋ย ท่วงทำนองที่ค่อย ๆ ล่อลวงเหล่าวิญญาณให้สลายไปทีละนิด#
+เป็นเวลากว่าพันปี ทำนองที่ลึกลับนั้นทำให้เหล่าผู้พิทักษ์ต้องตะลึง หลังจาก Millennia แห่ง Slumber ผู้พิทักษ์ที่สับสนกับการปกป้องของเขาตลอดหลาย ๆ ปีที่ผ่านมาจนเริ่มเห็นเบาะแสว่าใครเป็นคนผนึกและหายตัวไปอย่างไร้ร่องรอย#
+เมื่อทำนองถึงคีย์ที่สูงที่สุด รอยแตกก็ได้ปรากฎใน Bifrost สะพานระหว่าง Splendide จุดจบของโลกและเกาะลอยฟ้า Alfheim อย่างที่เห็น โลกทั้งสองถูกตัดออกจากกัน ทำให้มีปัญหาใหญ่สำหรับผู้คน#
+ในตอนนี้ ทางเดียวที่จะไปยัง Bifrost ได้ก็คือผ่าน Labyrinth Forest ไป ไม่มีใครรู้ว่าป่านั้นมีอยู่จริงและไม่มีใครเคยมีชีวิตรอดออกมาได้...#
+การกลืนกินนักพจญภัยเพื่อส่งไปยังขุมนรกแห่งความสับสน เร่ร่อนภายใน Labyrinth Forest อย่างไร้จุดหมาย ดั่งจิตใจของผู้หญิงที่รู้สึกแย่ที่สุดสับสนที่สุด#
+คุณสามารถระบุได้เฉพาะตัวเลขเท่านั้น#
+หน้าต่างการแลกเปลี่ยนหรือหน้าต่างร้านค้าถูกเปิดอยู่ ทำให้ไม่สามารถถอนได้#
+ไปยัง#
+การเปรียบเทียบ Item#
 Now you are trying to mount the gun equipped with bullet does not meet#
 Now you are trying to mount the guns and bullets will not fit mounted#
 Has not registered to sell the item. Please register to sell the item#
