@@ -2511,60 +2511,60 @@ Guild ยังไม่ได้สมัครการใช้งาน หลังจากสมัครแล้วจึงสามารถใช้ได้ #
 เวลาที่จะขายไม่ตรงกับรูปแบบการขาย#
 โปรดระบุเวลา#
 โปรดระบุชื่อ Item จากฐานข้อมูล#
-Item ID lookup failed. Please try again later#
->> ItemName: %s / Price: %dc / Quantity: %d / TimeOfSale: %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%dSecond#
-Registration successful#
-Registration failure. Please try again later.#
-Item has already been registered. Please try again later.#
-Failed to delete the item. Please try again later.#
-%s item has been deleted.#
-Special#
-Sales limited sale item update# 
-Discontinued#
-Quantity update is required #
-The %d is out of stock or to buy as much as#
-%s Items are on sale#
-%s time-out or sale of the items sold has been shut down due to the limited sales #
+เกิดข้อผิดพลาดในการเรียก Item ID โปรดลองใหม่อีกครั้ง#
+>> ชื่อ Item: %s / ราคา: %dc / จำนวน: %d / เวลาที่จะขาย: %d เดือน:%d วัน:%d นาที:%d วินาที ~ %d เดือน:%d วัน:%d นาที:%d วินาที#
+การลงทะเบียนสำเร็จเรียบร้อย#
+เกิดข้อผิดพลาดในการลงทะเบียน โปรดลองใหม่อีกครั้ง#
+Item ดังกล่าวลงทะเบียนไปแล้ว โปรดลองใหม่อีกครั้ง#
+เกิดข้อผิดพลาดในการลบ Item โปรดลองใหม่อีกครั้ง#
+%s Item ถูกลบ#
+พิเศษ#
+อัปเดตการขาย Item แบบจำกัด# 
+ไม่ทำต่อ#
+ต้องการจำนวนที่ต้องการอัปเดต #
+%d หมดแล้วหรือจำนวนไม่เพียงพอ#
+%s Items กำลังอยู่ในระหว่างการขาย#
+%s หมดเวลาหรือจำนวน Item หมดแล้ว #
 /limitedsale#
-http://www.ragnarokeurope.com/news/home-r70.html#
-http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
-Item purchase successful#
-You do not have enough items.#
-Name of the character that cannot be invited.#
-You cannot invite the character to the guild.#
-Item already Sold,Purchase Failed.#
-The warp spot cannot be memorized in current position.#
-Cannot purchase item, You exceeded the weight.#
+https://discord.gg/TK6rVtY#
+https://discord.gg/TK6rVtY#
+การซื้อ Item สำเร็จเรียบร้อย#
+คุณมี Item ไม่เพียงพอ#
+ไม่สามารถเชิญชวนด้วยชื่อตัวละครดังกล่าวได้#
+คุณไม่สามารถชวนผู้เล่นเข้า Guild ได้#
+เกิดข้อผิดพลาดในการซื้อ เนื่องจาก Item ถูกขายไปแล้ว#
+ไม่สามารถ Memo ภายในแผนที่ดังกล่าวได้#
+ไม่สามารถซื้อ Item ได้ เนื่องจากคุณแบก Item มากเกินไป#
 No.#
 Item#
-Number#
-Name#
-Time#
-Input/Output#
-Log does not exist.#
-Entire#
-Insert Symbol#
-Remaining Time#
-Guild Storage Logs#
-100 entries are displayed.#
-Guild Storage is open only for 2 minutes, and will close automatically.#
-Incorrect GameSamba ID. Please Try Again.#
-%s [%d Option]: %d Quantity#
-Requires a Coin.#
-%d Coins are required.#
-Gatling Gun should be equipped with bullets.#
-Shotguns should be equipped with bullets.#
-Rifle should be equipped with bullets.#
-Pair of Revolver should be equipped with bullets.#
-[Silver Bullet] weapon class must be equipped.#
-Item Sell History#
-Item Purchase History#
-Grenade Launcher should be equipped with bullets.#
-[Heat barrel],[Last Stand],[Platinum Alter] cannot be used while sitting.#
-Cannot use skill in this map.#
-If you are using a guild storage, all items inside it will disappear.#
-http://ragnarok.gamesamba.com/paytest.html#
-Please enter a password to login.#
+ตัวเลข#
+ชื่อ#
+เวลา#
+ขาเข้า/ขาออก#
+ไม่พบข้อมูลที่บันทึกไว้#
+ทั้งหมด#
+ระบุสัญลักษณ์#
+เวลาคงเหลือ#
+บันทึกการใช้คลังเก็บของ Guild#
+100 การบันทึกถูกแสดง#
+คลังเก็บของ Guild ถูกเปิดให้ใช้ 2 นาทีหลังจากนั้นจะปิดอัตโนมัติ#
+ไม่พบ ID GameSamba โปรดลองใหม่อีกครั้ง#
+%s [%d Option]: %d จำนวน#
+ต้องการ [Coin]#
+ต้องการ %d [Coin]#
+ต้องสวมใส่ Gatling Gun ถึงจะใช้กระสุนดังกล่าวได้#
+ต้องสวมใส่ Shotguns ถึงจะใช้กระสุนดังกล่าวได้#
+ต้องสวมใส่ Rifle ถึงจะใช้กระสุนดังกล่าวได้#
+ต้องสวมใส่ Revolver ถึงจะใช้กระสุนดังกล่าวได้#
+ต้องสวมใส่ อาวุธ Class [Silver Bullet]#
+ประวัติการขาย Item#
+ประวัติการซื้อ Item#
+ต้องสวมใส่ Grenade Launcher ถึงจะใช้กระสุนดังกล่าวได้#
+[Heat barrel], [Last Stand], [Platinum Alter] ไม่สามารถใช้ได้ขณะนั่งอยู่#
+ไม่สามารถใช้ Skill ได้ภายในแผนที่ดังกล่าว#
+ถ้าคุณกำลังใช้คลังเก็บของ Guild Item ทุกชิ้นภายในนั้นจะหายไป#
+https://discord.gg/TK6rVtY#
+โปรดระบุ Password เพื่อเชื่อมต่อ#
 Pet Evolution#
 Evolution - %s#
 Evolution requires the following ingredients:#
