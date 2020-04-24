@@ -2630,55 +2630,55 @@ Summon มี SP ไม่เพียงพอ#
 เกิดข้อผิดพลาดในการแนบ Item#
 น้ำหนักของ Item ที่จะแนบเกินกำหนดแล้ว#
 กำลังใช้บริการอยู่ โปรดลองใหม่ภายหลัง#
-Unable to open the window of Lucky Roulette.#
-Unable to close the window of the Lucky Roulette.#
-You can not start a roulette wheel of fortune.#
-Points is required to play Lucky Roulette.#
-You can not receive a winning items.#
-The number of items in the inventory has been exceeded. #
-The weight has been exceeded. Please free up the possesion window.#
-Failed to open stalls.#
-The roulette wheel is spinning. Please try again after checking with prizes.#
+ไม่สามารถเปิดหน้าต่าง Lucky Roulette ได้#
+ไม่สามารถปิดหน้าต่าง Lucky Roulette ได้#
+คุณไม่สามารถหมุนวงล้อได้ในขณะนี้#
+ต้องการแต้มในการเล่น Lucky Roulette#
+คุณไม่สามารถรับรางวัลได้ในขณะนี้#
+คุณแบก Item มากเกินไป #
+คุณแบก Item มากเกินไป#
+เกิดข้อผิดพลาดในการเปิดร้านค้าแผงลอย#
+วงล้อ Roulette กำลังหมุนอยู่ โปรดลองใหม่หลังจากรับรางวัลแล้ว#
 Lucky Roulette#
-Notify when item sell out#
-Please check the fees.#
-Verify user name#
-Schedule deletion#
-Achievable challenge#
-Achieve overall#
-Achieve rank#
-The following compensation box until [% 5d] point#
-Progress#
-Recent Achievements#
+แจ้งเตือนเมื่อขาย Item ได้#
+โปรดตรวจสอบค่าใช้จ่าย#
+ตรวจสอบชื่อผู้ใช้งาน#
+ตั้งเวลาการลบ#
+Challenge ที่สามารถรับได้#
+ผลรวมความสำเร็จ#
+ระดับความสำเร็จ#
+กล่องชดเชยดังกล่าวจนกระทั่ง [% 5d] แต้ม#
+การดำเนินการ#
+ความสำเร็จล่าสุด#
 Cracker  Item#
 Cracker  : %d / %d #
-Cracker  is low.#
+Cracker  เหลือน้อย#
 %s#
-Overview#
-General#
-Character#
-Action#
-Other#
-Adventure#
+ภาพรวม#
+ทั่วไป#
+ตัวละคร#
+การกระทำ#
+อื่น ๆ#
+การพจญภัย#
 Rune Midgarts#
 Schwartzvald#
 Arunafeltz#
-Commandment#
-Localizing#
+อำนาจ#
+การสำรวจพื้นที่#
 Dungeon#
-Battle#
-Duel#
+การต่อสู้#
+การประลอง#
 Lily#
-Quest#
+ภารกิจ#
 Episode#
-General#
+ทั่วไป#
 Memorial#
 Midgard#
-Commandment#
-Other#
-Feat#
-Achieved challenge#
-You cannot add anymore.#
+อำนาจ#
+อื่น ๆ#
+ความชำนาญ#
+Challenge ที่สำเร็จ#
+คุณไม่สามารถเพิ่มได้อีกแล้ว#
 < %s > achieved.#
 only otp user login allow#
 When this button pressed, you will receive a specified initialized roulette item.#
