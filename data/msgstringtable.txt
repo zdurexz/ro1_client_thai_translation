@@ -2571,7 +2571,7 @@ Evolution ต้องการส่วนผสมตามนี้:#
 ต้องการ Evolution Pet ของคุณใช่หรือไม่?#
 เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ#
 Pet ไม่สามารถฟักออกจากไข่ได้#
-ไม่ใช่ดอกไม้ที่ต้องการ#
+ไม่พบ Pet ที่สามารถ Evolution ได้#
 ส่วนผสมในการ Evolution เหลือน้อย#
 ส่วนผสมไม่เพียงพอในการ Evolution#
 ต้องการความสนิทสนมสูงสุดในการ Evolution#
@@ -2609,27 +2609,27 @@ Zeny ที่ได้รับ#
 %d นาทีหลังจากนั้น#
 %d ชั่วโมงหลังจากนั้น#
 %d วันหลังจากนั้น#
-Press the OK button to confirm the C-CODE.#
-After obtaining the attached article can be deleted.#
-You can not send any more zeny.#
-Fee: %s Zeny#
-The recipient's name does not exist.#
-E X P : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
-DROP  : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
-DEATH : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
-You can accumulate points of PC Gold-club up to %d points maximum.#
-This function can not be used on the server.#
-Imposible to use in server.#
-The auction is not available in server.#
-The deal is imposible in server.#
-Items discard is imposible in server.#
-Stores selling features are not available.#
-The SP's summoned enough.#
+กดปุ่ม OK เพื่อยืนยัน C-CODE#
+หลังจากรับแล้วข้อความดังกล่าวจะสามารถลบได้#
+คุณไม่สามารถส่ง Zeny ได้อีก#
+ค่าใช้จ่าย: %s Zeny#
+ไม่พบชื่อผู้รับ#
+อัตรา E X P : %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
+อัตรา DROP  : %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
+โทษของการหมดสติ : %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
+คุณสามารถสะสมแต้ม PC Gold-Club ได้มากสุด %d แต้ม#
+คำสั่งดังกล่าวไม่สามารถใช้ได้ใน Server นี้#
+ไม่สามารถใช้ใน Server นี้ได้#
+การประมูลไม่สามารถใช้ได้ใน Server นี้#
+การแลกเปลี่ยนไม่สามารถใช้ได้ใน Server นี้#
+การโยน Item ไม่สามารถใช้ได้ใน Server นี้#
+การตั้งร้านค้าแผงลอยไม่สามารถใช้ได้ใน Server นี้#
+Summon มี SP ไม่เพียงพอ#
 %s/%s#
-The maximum length of the message content is 1K.#
-Failed to attach an item.#
-The weight of the items that can be attached to mail has been exceeded.#
-Is already in service. Please try again in a few minutes.#
+ความยาวของข้อความมากสุด 1,000 ตัวอักษร#
+เกิดข้อผิดพลาดในการแนบ Item#
+น้ำหนักของ Item ที่จะแนบเกินกำหนดแล้ว#
+กำลังใช้บริการอยู่ โปรดลองใหม่ภายหลัง#
 Unable to open the window of Lucky Roulette.#
 Unable to close the window of the Lucky Roulette.#
 You can not start a roulette wheel of fortune.#
