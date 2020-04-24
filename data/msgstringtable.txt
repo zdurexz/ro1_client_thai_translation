@@ -2711,81 +2711,81 @@ Crackers #
                                           Crackers ขณะนี้ : %s#
     %s  :  %s  Crackers#
 %10s Crackers#
-Total : %s Crackers#
-* Commission 3% / Minimum 1 Crackers comission deducted#
-The Crackers.#
-^0000ff more than crackers^000000Did you enter the correct amount?#
-Over than 10billions secure check#
-If you fill over 1 billion, the price will be automatically set as 10 billion Crackers.#
-If you fill over 9,999 Crackers, the price will automatically set as 9,999 Crackers.#
-There are items priced 0 Crackers. You cannot open vending.#
-The opponent is over the Crackers limit. Trade failed.#
-Please fill out %s item price less than 1 billion Crackers.#
-%s:  %s  Crackers => %s pc.#
-Limited price: %s Crackers#
+รวม : %s Crackers#
+* ค่าจ้าง 3% / ขั้นต่ำ 1 Crackers ค่าจ้างที่จะถูกลด#
+The Crackers#
+^0000ff จำนวนมากกว่า Crackers^000000 คุณได้ระบุจำนวนที่ถูกต้องแล้วใช่หรือไม่?#
+ตรวจสอบหากมากกว่า 10 พันล้าน#
+หากคุณระบุมากกว่า 1 พันล้าน ราคาจะถูกตั้งไว้ที่ 10 พันล้าน Crackers#
+ถ้าคุณระบุมากกว่า 9,999 Crackers ราคาจะถูกตั้งไว้ที่ 9,999 Crackers#
+มี Item ราคา 0 Crackers คุณไม่สามารถเปิดร้านค้าแผงลอยได้#
+เกิดข้อผิดพลาดในการแลกเปลี่ยน ฝั่งตรงข้ามมี Crackers เกินกำหนด#
+โปรดระบุราคา Item %s ให้น้อยกว่า 1 พันล้าน Crackers#
+%s:  %s  Crackers => %s ชิ้น#
+ราคาจำกัด: %s Crackers#
 %s %s %d Crackers#
-%d %s are sold. In total %d Crackers. 3%% charge will be imposed.#
+%d %s ถูกขาย รวม %d Crackers โดยหักภาษี 3%% แล้ว#
 RODEX#
-SEND#
-RECEIVE#
-Please close the mail compose window.#
-Server access denied(A)#
-Server access denied(B)#
-Unequipped Arrow/Ammunition.#
-Consuming item in inventory will close mail compose window.#
-Do not have Magnifier.#
-Close email window if you want to discard item.#
-The opponent has already requested you to be a friend.#
+ส่ง#
+รับ#
+โปรดปิดหน้าต่างการส่งจดหมาย#
+การเชื่อมต่อ Server ถูกปฎิเสธ(A)#
+การเชื่อมต่อ Server ถูกปฎิเสธ(B)#
+ถอดกระสุนเรียบร้อยแล้ว#
+การใช้งาน ของกดใช้ ภายในช่องเก็บของจะปิดหน้าต่างส่งจดหมาย#
+ไม่มี Magnifier#
+ปิดหน้าต่างจดหมายถ้าคุณต้องการโยน Item#
+ฝั่งตรงข้ามได้ขอคุณเป็นเพื่อนอยู่แล้ว#
 SCRIPT ERROR AID#
 \nErrorfile : %s\nErrorLine : %d item\nErrorContext: %s#
-^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
-Shutdown#
-Quest#
-View Quest icon#
-Facility#
-View Facility icon#
+^ff0000ยืนยันการซื้อ Item? หลังจากยืนยันแล้วจะใช้ %d แต้มและ %d Crackers#
+หยุดการทำงาน#
+ภารกิจ#
+แสดง Icon Quest#
+สิ่งก่อสร้าง#
+แสดง Icon สิ่งก่อสร้าง#
 Guild/Party#
-Show Guild/Party#
-Record#
+แสดง Guild/Party#
+บันทึก#
 Boss Monster#
-I#
-Are you sure want to delete it?#
-Quest NPC#
-Record content#
-Store#
-Record#
-%s [%d Property] %d ea#
-%s [%d Property] %s Zeny#
-%s [%d Property] %d %s %d -> %s %s#
-%s [%d Property] %d %s %s %s#
-%s [%d Property] %d -> %s %s#
-%s [%d Property] %s %s#
-The minimum trading unit must be 100 crackers or more.#
-Hair color#
-Hair style#
-Cloth color#
-Cloth pattern#
-Unsupported Map.#
-Enter Zeny Below 2,147,483,647.#
-Please Enter atleast 1 zeny.#
-You do not hold any zeny.#
-Zeny Storage#
-in Bank#
-on hand#
-Deposit#
-Withdraw#
-1z UP#
-1z Down#
-Max#
-There is no Input value#
-Not enough zeny#
-Input Required#
-Numbers only#
-Exceeded max input#
-Below Minimum Input#
-Not enough zeny#
-Insufficient funds#
-Exceeded max zeny#
+ฉัน#
+ยืนยันการลบหรือไม่?#
+NPC ภารกิจ#
+บันทึกข้อมูล#
+เก็บไว้#
+บันทึก#
+%s [%d ทรัพย์สิน] %d ชิ้น#
+%s [%d ทรัพย์สิน] %s Zeny#
+%s [%d ทรัพย์สิน] %d %s %d -> %s %s#
+%s [%d ทรัพย์สิน] %d %s %s %s#
+%s [%d ทรัพย์สิน] %d -> %s %s#
+%s [%d ทรัพย์สิน] %s %s#
+การแลกเปลี่ยนขั้นต่ำต้องมีอย่างน้อย 100 Crackers หรือมากกว่า#
+สีผม#
+ทรงผม#
+สีเสื้อ#
+รูปแบบเสื้อ#
+แผนที่ดังกล่าวใช้การไม่ได้#
+โปรดระบุ Zeny ให้ต่ำกว่า 2,147,483,647#
+โปรดระบุอย่างน้อย 1 Zeny#
+คุณไม่มี Zeny เหลืออยู่เลย#
+คลัง Zeny#
+ในธนาคาร#
+ในมือ#
+ฝาก#
+ถอน#
+1z ขึ้น#
+1z ลง#
+มากสุด#
+ไม่มีจำนวนที่ระบุ#
+Zeny ไม่เพียงพอ#
+ต้องระบุจำนวน#
+ตัวเลขเท่านั้น#
+จำนวนเกินกว่าที่กำหนด#
+จำนวนต่ำกว่าที่กำหนด#
+Zeny ไม่เพียงพอ#
+เงินในคลังไม่เพียงพอ#
+Zeny เกินจำนวนที่กำหนด#
 Drop X#
 Storage X#
 Cart X#
