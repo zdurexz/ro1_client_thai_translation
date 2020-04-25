@@ -3027,89 +3027,89 @@ C#
 ขีดจำกัด Overheat: %d#
 ไม่สามารถชวนหรือขับไล่ได้ขณะอยู่ใน Memorial Dungeon#
 พบคำหยาบ\nโปรดลองใหม่#
-โปรดระบุมากกว่า %d ตัวอักษร ถ้าคุณยังไม่มี ID โปรดกดปุ่ม [ลงทะเบียน] ที่ด้านซ้ายล่าง#
-Please enter the password over %d characters.#
-Please finish your current work and try it again.#
-%.1f%% (Internet-Cafe %.1f%% + TPLUS %.1f%% + %sServer %.1f%%)#
-The item cannot be registered.#
+โปรดระบุตัวอักษรให้มากกว่า %d ตัวอักษร ถ้าคุณยังไม่มี ID โปรดกดปุ่ม [ลงทะเบียน] ที่ด้านซ้ายล่าง#
+โปรดระบุตัวอักษรของ Password ให้มากกว่า %d ตัวอักษร#
+โปรดเสร็จสิ้นการกระทำปัจจุบันก่อนแล้วลองใหม่อีกครั้ง#
+%.1f%% (Internet Cafe %.1f%% + TPLUS %.1f%% + %sServer %.1f%%)#
+Item ดังกล่าวไม่สามารถลงทะเบียนได้#
 /300#
 /4000#
-https://member.gnjoy.com.tw/mRO_SecPwd.aspx#
-The emblem you want to register does not exist. Insert it in the emblem file and try again#
+https://discord.gg/TK6rVtY#
+ไม่พบสัญลักษณ์ที่เลือก โปรดตรวจสอบ File แล้วลองใหม่#
 Ragnarok Ragnarok#
-If your screenshot or chat box includes other users besides yourself, first ask permission from the other users before using it.#
-You cannot change equipment in current condition#
-Getting the user's name#
-This message includes contents you are not able to use.#
-Failed to purchase item.#
-The lower numbers of the identification number does not match.#
-Close#
-Rule#
-Purchase 1x#
-Purchase 10x#
-Purchase 100x#
-Win 1st prize#
-Win 2nd prize#
-Win 3rd prize#
-Currently not in use#
-Currently not in use#
-Zeny Lottery winner#
-Lottery purchase amount#
-Participating character#
-1st Price#
-2nd Price#
-3rd Price#
-Purchase Reward Item#
-^1a1a1a Do you want to purchase ^b%d lottery tickets for \n^4435b2%dZeny^1a1a1a?#
-You have successfully purchased the lottery ticket.#
-Not enough Zeny to purchase lottey ticket.#
-You are only able to purchase the tickets upto 1000 times.#
-Yes#
-No#
+ถ้ามีผู้เล่นอื่นหรือห้องสนทนาอยู่ภายในรูปถ่าย โปรดขออนุญาตบุคคลดังกล่าวเสียก่อนที่จะใช้มัน#
+ไม่สามารถเปลี่ยนอุปกรณ์สวมใส่ได้ภายในสถานการณ์ปัจจุบัน#
+กำลังโหลดชื่อผู้เล่นดังกล่าว#
+ข้อความดังกล่าวมีข้อมูลที่คุณไม่สามารถใช้ได้#
+เกิดข้อผิดพลาดในการซื้อ Item#
+เลขด้านล่างของตัวเลขการยืนยันตนไม่ตรงกัน#
+ปิด#
+กฎระเบียบ#
+ซื้อ 1x#
+ซื้อ 10x#
+ซื้อ 100x#
+ชนะรางวัลที่ 1st#
+ชนะรางวัลที่ 2nd#
+ชนะรางวัลที่ 3rd#
+ยังไม่เปิดใช้งานในขณะนี้#
+ยังไม่เปิดใช้งานในขณะนี้#
+ผู้ชนะ Zeny Lottery#
+จำนวนการซื้อ Lottery#
+ตัวละครที่เข้าร่วม#
+รางวัลที่ 1st#
+รางวัลที่ 2nd#
+รางวัลที่ 3rd#
+ซื้อ Item รางวัล#
+^1a1a1a ต้องการซื้อตั๋ว Lottery ^b%d เป็นเงิน \n^4435b2%dZeny^1a1a1a?#
+คุณได้ซื้อตั๋ว Lottery เรียบร้อยแล้ว#
+คุณมี Zeny ไม่เพียงพอที่จะซื้อตั๋ว Lottery#
+คุณสามารถซื้อตั๋ว Lottery ได้ 1,000 ครั้ง#
+ใช่#
+ไม่ใช่#
 HP#
 SP#
-Lv#
-Lv#
+เลเวล#
+เลเวล#
 Exp#
- all on#
-Play Replay Flie#
+ เปิดทั้งหมด#
+เล่น File Replay#
 P#
-Total#
-Basicinfo#
-Equip#
+รวม#
+ข้อมูลเบื้องต้น#
+สวมใส่#
 Item#
 Skill#
 Guild#
 Party#
-Chatting#
-Shortcut#
-Status#
-ALL#
-User Defined File Name#
-Repeated File Check#
-on#
-<Basic Skin>#
-Select Skin#
-You cannot delete it because you are currently participating in the lottery#
+การสนทนา#
+Hotkey#
+สถานะ#
+ทั้งหมด#
+ชื่อ File ที่ผู้เล่นตั้ง#
+การตรวจ File อีกครั้ง#
+เปิด#
+<Skin พื้นฐาน>#
+เลือก Skin#
+ไม่สามารถลบได้เนื่องจากกำลังใช้งาน Lottery#
 /achievement#
-Zeny Lottery ticket#
-Zenyy Lottery %dprize reward#
-%dprize reward: %s#
-Zeny Lottery Cumulative purchase reward#
-Cumulative %d times reward: %s#
-Zeny Lottery Refund#
-Refund amount: %d Zeny\r\nReason for Refund: Failed to draw lottery in the server#
-Add Mini Party Chat#
-Delete Mini Party Chat#
-The lottery draw had ended! Check the winner!#
-%dMonth %dDay#
-Till the next grade#
-All#
-Incomplete#
-(Accomplished!)#
-(Not Accomplished)#
-Change equipment#
-CHANGE#
+ตั๋ว Zeny Lottery#
+รางวัล Zeny Lottery %d#
+%dรางวัล: %s#
+แต้มสะสมการซื้อ Zeny Lottery#
+รางวัลสะสม %d ครั้ง: %s#
+การขอคืนเงิน Zeny Lottery#
+จำนวนการขอคืนเงิน: %d Zeny\r\nเหตุผล: เกิดข้อผิดพลาดในการจับรางวัลภายใน Server#
+เพิ่มการสนทนา Mini Party#
+ลบการสนทนา Mini Party#
+การจับรางวัล Lottery จบลงแล้ว! โปรดตรวจสอบผู้ชนะ!#
+%dเดือน %dวัน#
+จนกว่าจะถึงระดับต่อไป#
+ทั้งหมด#
+ไม่สำเร็จ#
+(สำเร็จ!)#
+(ไม่สำเร็จ)#
+เปลี่ยนอุปกรณ์สวมใส่#
+เปลี่ยน#
 Power Parameter\n ^cc0000Melee PhysicalAttack^ffffff, Carrying Weight#
 Agility Parameter\n^cc0000Attack Speed^ffffff, Dodge, Physical Defense#
 HP Parameter\n^cc0000Max HP^ffffff, Physical Defense, Magic Defense#
