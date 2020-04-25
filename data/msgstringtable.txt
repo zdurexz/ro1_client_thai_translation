@@ -3531,107 +3531,107 @@ SP คู่หู ไม่เพียงพอหรือไม่ได้ใช้งาน Skill อยู่#
 Energy Sphere ไม่เพียงพอ#
 มี Skill (%s) ที่ไม่สามารถเรียนรู้ได้#
 /frame#
-After Weapon Blocking is triggered, possible skills are available for use for limited duration.#
-The username or password is incorrect.#
-E X P : %.1f%% ( basic 100.0%% %s %.1f%%)#
-DROP  : %.1f%% ( basic 100.0%% %s %.1f%%)#
-DEATH : %.1f%% ( basic 100.0%% %s %.1f%%)#
-Available in English or Russian only.#
-you must have an AccessTicket to login#
-Loading Guild Storage.#
-NOW LOADING..#
-Delete#
-Reply#
-Send#
-Validate name#
-Notice#
-General#
-Return#
-Search#
-Failed to feed the pet. Pet in a state that can't be fed.#
-Failed to feed the homunculus. Homunculus in a state that can't be fed.#
-money#
-%s %d ea#
-Exchange failed.#
-Exchange successfuly completed.#
-Not enough items to exchange.#
-The item has been sold and out of stock.#
-KO'ed#
+หลังจาก Weapon Blocking ถูกใช้งาน Skill สามารถใช้งานได้ในเวลาที่จำกัด#
+ID หรือ Password ไม่ถูกต้อง#
+อัตรา EXP   : %.1f%% ( ปกติ 100.0%% %s %.1f%%)#
+อัตรา DROP  : %.1f%% ( ปกติ 100.0%% %s %.1f%%)#
+โทษของการหมดสติ: %.1f%% ( ปกติ 100.0%% %s %.1f%%)#
+สามารถใช้งานได้ใน English หรือ Russian เท่านั้น#
+คุณต้องมี AccessTicket เพื่อเข้าเกม#
+กำลังโหลดคลังเก็บของ Guild#
+กำลังโหลด..#
+ลบ#
+ตอบกลับ#
+ส่ง#
+การยืนยันชื่อ#
+ข่าวสาร#
+ทั่วไป#
+กลับ#
+ค้นหา#
+เกิดข้อผิดพลาดในการให้อาหาร Pet Pet อยู่ในสถานะที่ไม่สามารถให้อาหารได้#
+เกิดข้อผิดพลาดในการให้อาหาร Homunculus Homunculus อยู่ในสถานะที่ไม่สามารถให้อาหารได้#
+เงิน#
+%s %d ชิ้น#
+เกิดข้อผิดพลาดในการแลกเปลี่ยน#
+การแลกเปลี่ยนสำเร็จเรียบร้อย#
+มี Item ไม่เพียงพอในการแลกเปลี่ยน#
+Item ถูกขายแล้วและหมดแล้ว#
+หมดสติ#
 PvP#
-Expand possession limit#
-Do you want to expand the maximum possession limit by using ^0000ff%s^000000? \nIt will expand from (^0000ff%d^000000) to (^0000ff%d^000000).\n^ff0000 Expanded item possession limit can't be reversed.^000000#
-Failed to expand the maximum possession limit.#
-To expand the possession limit, please close other windows.#
-Failed to expand the maximum possession limit, insufficient required item.#
-You can no longer expand the maximum possession limit.#
-You have successfully expanded the possession limit.#
-You can't have more the same %d item at a time.#
-It is not possible to purchase as it will exceeds the possession limit.#
-You can only buy one item at a time.#
+ขยายช่องเก็บของ#
+ต้องการขยายช่องเก็บของด้วยการใช้ ^0000ff%s^000000? \nมันจะขยายจาก (^0000ff%d^000000) เป็น (^0000ff%d^000000)\n^ff0000 การขยายไม่สามารถย้อนการกระทำได้^000000#
+เกิดข้อผิดพลาดในการขยายช่องเก็บของ#
+ในการขยายช่องเก็บของโปรดปิดหน้าต่างอื่น ๆ#
+เกิดข้อผิดพลาดในการขยายช่องเก็บของ ไม่มี Item ที่ต้องการ#
+คุณไม่สามารถขยายช่องเก็บของได้อีกแล้ว#
+คุณขยายช่องเก็บของสำเร็จเรียบร้อยแล้ว#
+คุณไม่สามารถมี Item %d ซ้ำกันได้ภายในเวลาเดียวกัน#
+ไม่สามารถทำการซื้อได้เนื่องจากช่องเก็บของไม่เพียงพอ#
+คุณสามารถซื้อ Item ดังกล่าวได้ 1 ชิ้นต่อครั้ง#
 Star Emperor#
 Soul Reaper#
-The settings are stored on the server on normal exit.#
-Capture Monster#
-message#
-TITLE#
-Expand damage mark#
-Map name notation #
-System message: The stall view function is currently in% s state. (/ View stalls) #
-Vertical sync #
-material#
+การตั้งค่าถูกเก็บไว้ใน Server เมื่อออกจากเกมปกติ#
+การจับ Monster#
+ข้อความ#
+หัวข้อ#
+การขยาย Damage Mark#
+ชื่อย่อแผนที่ #
+ข้อความจากระบบ: ระบบดูร้านค้าแผงลอยในตอนนี้อยู่ในระหว่าง %s (/View stalls) #
+Vertical Sync #
+ส่วนผสม#
 https://discord.gg/TK6rVtY#
-Title #
-Frame limit #
-If it exceeds% d, it can no longer be installed. #
-destination#
-Please try again in a few minutes.#
-This file cannot be registered. #
-Delete Selection #
-delete all#
-Are you sure you want to delete all mail in the [% s] mailbox? #
-Get Selection #
-Get all #
-Would you like to receive the attachment of the selected email? #
-Would you like to receive all the attachments of the [% s] letterbox? #
+หัวข้อ #
+การจำกัด Frame #
+ถ้ามันเกิน %d มันจะไม่สามารถติดตั้งได้ #
+จุดหมาย#
+โปรดลองใหม่ภายหลัง#
+File ดังกล่าวไม่สามารถลงทะเบียนได้ #
+การเลือกที่จะลบ #
+ลบทั้งหมด#
+ยืนยันที่จะลบจดหมายทั้งหมดภายใน [% s]? #
+รับสิ่งที่เลือก #
+รับทั้งหมด #
+ต้องการรับของที่แนบมากับจดหมายที่เลือกหรือไม่? #
+รับของทั้งหมดที่แนบมากับจดหมาย [% s] หรือไม่? #
 Skill Bar 2 #
-Skill Bar Replacement #
- #
- #
- #
- #
-? #
- #
-The window cannot be closed while loading. #
-There is no magic saved as a leading spellbook. #
-Items that are used for movement cannot be exchanged. #
-I purchased a free pass #
-While using the free pass, related items are not consumed. #
-apply#
-stop#
-Free Movement Rights #
-% d hours spent,% s% d #
-Using Free Pass #
-Character Status #
-Power parameter \ n ^ cc0000Physical attack power, attribute attack power ^ ffffff increase #
-Stamina parameter \ n ^ cc0000Physical resistance ^ ffffff increase #
-Wisdom Parameter \ n ^ cc0000 Magic Resistance ^ ffffff Increase #
-Spell Parameters \ n ^ cc0000 Increases Magical Damage and Magical Damage ^ ffffff #
-Concentration Parameters \ n ^ cc0000 Accuracy, Evasion Rate, and Attribute Physical / Magical Damage ^ ffffff increase #
-Creative Parameters \ n ^ cc0000 Heal amount of healing, critical damage ratio ^ ffffff increase #
-Talent Physical Attack #
-Talent Magic Damage #
-Physical Resistance #
-Magic Resistance #
-Character Heal Recovery #
-Critical Damage Ratio #
-Points used to level up characteristic parameters #
-J.Lv #
+การแทนที่ Skill Bar #
+#
+#
+#
+#
+?#
+#
+หน้าต่างไม่สามารถปิดได้ขณะทำการโหลดอยู่ #
+ไม่พบเวทย์มนต์ที่บันทึกไว้ใน Spellbook #
+Item ที่ใช้สำหรับการเคลื่อนที่ไม่สามารถแลกเปลี่ยนได้ #
+ข้าซื้อบัตร Free #
+เมื่อใช้บัตร Free Item ที่เกี่ยวข้องจะไม่ถูกใช้ #
+ใช้งาน#
+หยุด#
+สิทธิ Free Movement #
+%d ชั่วโมงที่เล่น %s %d #
+ใช้บัตร Free #
+สถานะตัวละคร #
+ค่าความแข็งแรง\n ^cc0000พลังโจมตีกายภาพระยะประชิด^ffffff น้ำหนักการแบกของ#
+ค่าความเร็ว\n^cc0000ความเร็วในการโจมตี^ffffff การหลบหลีก พลังป้องกันกายภาพ#
+ค่าพลังชีวิต\n^cc0000Max HP^ffffff พลังป้องกันกายภาพ พลังป้องกันเวทย์#
+ค่าความรู้\n^cc0000พลังโจมตีเวทย์^ffffff ความเร็วในการร่ายเวทย์มนต์ พลังป้องกันเวทย์#
+ค่าความแม่นยำ\n^cc0000พลังโจมตีกายภาพระยะไกล^ffffff ความแม่นยำ ความเร็วในการร่ายเวทย์มนต์ พลังโจมตีเวทย์#
+ค่าโชคลาภ\n^cc0000อัตรา Critical^ffffff ความแม่นยำ พลังโจมตีกายภาพ พลังโจมตีเวทย์ การหลบหลีก#
+ความสามารถพิเศษ พลังโจมตีกายภาพ #
+ความสามารถพิเศษ พลังโจมตีเวทย์ #
+พลังป้องกันกายภาพ #
+พลังป้องกันเวทย์ #
+การฟื้นฟูตัวละคร #
+พลังโจมตี Critical #
+แต้มที่ใช้ในการเพิ่มค่าสถานะ #
+เลเวล Job #
 AP #
-Go to Territory #
-Check commercial / defense diagram #
-Would you like to go to "% s" in the management territory? \ N% d Jenny will be consumed with every move. \ N (% d Jenny will be consumed during siege time) #
-\ nManaged territory "% s" \ n \ nDefense degree:% d /% d \ nCommercial degree:% d /% d #
-This feature is not available in Siege Territory. #
+ไปยังอาณาเขต #
+ตรวจสอบแผนพัง การรบ/การป้องกัน #
+ต้องการไปยัง "%s" ในการจัดการอาณาเขต? \n %d Zeny จะถูกใช้ในทุก ๆ การกระทำ \n (%d Zeny จะถูกใช้ในช่วงเวลาสงคราม) #
+\nการจัดการอาณาเขต "%s" \n \nอัตราการป้องกัน:%d /%d \nอัตราการรบ:%d /%d #
+ระบบดังกล่าวยังไม่สามารถใช้งานได้ในอาณาเขตสงคราม #
 A character who has not mastered basic functional skills. #
 You cannot use Ragnarok Zero for the IP you are connected to. \ NPlease contact the customer center or homepage. #
 Boarding / unmounting #
