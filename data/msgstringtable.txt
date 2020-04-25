@@ -269,14 +269,14 @@ ID หรือ Password ที่ระบุผิดพลาด โปรดลองใหม่อีกครั้ง#
 เลือกทรงผม#
 พลังชีวิต#
 อัตราการป้องกัน#
-เปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อโจมตีปกติ#
-ปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อโจมตีปกติ#
-เปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อใช้ Skill#
-ปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติเมื่อใช้ Skill#
-/snap: เปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ สำหรับการต่อสู้, /skillsnap: เปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ สำหรับการใช้ Skill /itemsnap: เปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล๊อคเป้าหมายหมายอัตโนมัติ สำหรับการเก็บของบนพื้น#
-เปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติสำหรับการเก็บของบนพื้น#
-ปิดการใช้งาน ตัวช่วยล๊อคเป้าหมายอัตโนมัติสำหรับการเก็บของบนพื้น#
-ตัวช่วยล๊อคเป้าหมายอัตโนมัติ#
+เปิดการใช้งาน ตัวช่วยล็อคเป้าหมายอัตโนมัติเมื่อโจมตีปกติ#
+ปิดการใช้งาน ตัวช่วยล็อคเป้าหมายอัตโนมัติเมื่อโจมตีปกติ#
+เปิดการใช้งาน ตัวช่วยล็อคเป้าหมายอัตโนมัติเมื่อใช้ Skill#
+ปิดการใช้งาน ตัวช่วยล็อคเป้าหมายอัตโนมัติเมื่อใช้ Skill#
+/snap: เปิดตัวช่วยล็อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล็อคเป้าหมายหมายอัตโนมัติ สำหรับการต่อสู้, /skillsnap: เปิดตัวช่วยล็อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล็อคเป้าหมายหมายอัตโนมัติ สำหรับการใช้ Skill /itemsnap: เปิดตัวช่วยล็อคเป้าหมายหมายอัตโนมัติ | ปิดตัวช่วยล็อคเป้าหมายหมายอัตโนมัติ สำหรับการเก็บของบนพื้น#
+เปิดการใช้งาน ตัวช่วยล็อคเป้าหมายอัตโนมัติสำหรับการเก็บของบนพื้น#
+ปิดการใช้งาน ตัวช่วยล็อคเป้าหมายอัตโนมัติสำหรับการเก็บของบนพื้น#
+ตัวช่วยล็อคเป้าหมายอัตโนมัติ#
 ไม่สามารถแบก Item ชนิดเดียวกันได้มากกว่า 30,000 ชิ้น#
 ไม่สามารถลบตัวละครที่มีเลเวลมากกว่า 30 ได้ ถ้าต้องการลบโปรดติดต่อ GM#
 ไม่สามารถคุยกับ NPC ได้ขณะที่กำลังทำการแลกเปลี่ยนอยู่#
@@ -2893,93 +2893,93 @@ Icon ไม่ได้ถูกเลือก#
 อัตรา EXP   : %.1f%% ( ปกติ %.1f%% %s %.1f%%)#
 อัตรา DROP  : %.1f%% ( ปกติ %.1f%% %s %.1f%%)#
 โทษของการหมดสติ: %.1f%% ( ปกติ %.1f%% %s %.1f%%)#
-The role name will be sent: %s #
-Synthesis of the required materials#
-Insufficient synthesis materials#
-Required material %d ea.#
-Refine value is to low for synthesis#
-Do you want to sign in to the adventurers?#
-Please leave a message#
-Please enter the text on the graph#
-%d second left#
-Please enter your 6 identification number.#
-Identification number.#
-It's not a 6 identification number. Please try again#
-The message has been deleted#
-Please select the area where the private airship will move#
-E X P : %d%% ( basic 100.0%% %s %d%%)#
-DROP  : %d%% ( basic 100.0%% %s %d%%)#
-DEATH : %d%% ( basic 100.0%% %s %d%%)#
-Move to the destination#
-The [%s] is not present, the default AI will be used instead.#
-%.1f%% ( Basic 100.0%% + Premium %.1f%% + %s %.1f%%)#
-Would you like to open a shop at this location?#
-Doram race can't wear this clothes#
-Props open-air store sales will be traded in RODEX#
+ชื่อบทบาทจะถูกส่ง: %s #
+การสังเคราะห์ต้องการส่วนผสม#
+ส่วนผสมไม่เพียงพอที่จะสังเคราะห์#
+ต้องการส่วนผสม %d ชิ้น#
+จำนวนตีบวกต่ำเกินกว่าที่จะสังเคราะห์#
+ต้องการลงทะเบียนเพื่อเป็นนักพจญภัย?#
+โปรดทิ้งข้อความ#
+โปรดระบุข้อความบนกราฟ#
+%d วินาทีคงเหลือ#
+โปรดระบุตัวเลขยืนยันตน 6 ตัว#
+ตัวเลขการยืนยันตน#
+มันไม่ใช่ 6 ตัวเลขการยืนยันตน โปรดลองใหม่อีกครั้ง#
+ข้อความถูกลบ#
+โปรดเลือกจุดหมายของการเดินทางสำหรับเรือเหาะส่วนตัว#
+อัตรา EXP   : %d%% ( ปกติ 100.0%% %s %d%%)#
+อัตรา DROP  : %d%% ( ปกติ 100.0%% %s %d%%)#
+โทษของการหมดสติ: %d%% ( ปกติ 100.0%% %s %d%%)#
+เคลื่อนที่ไปยังจุดหมาย#
+[%s] ไม่มีอยู่จริง AI ปกติจะถูกใช้งานแทน#
+%.1f%% ( ปกติ 100.0%% + Premium %.1f%% + %s %.1f%%)#
+ต้องการเปิดร้านค้าแผงลอย ณ สถานที่ดังกล่าวใช่หรือไม่?#
+เผ่า Doram ไม่สามารถใส่เสื้อผ้าดังกล่าวได้#
+การขายของร้านค้าแผงลอยจะถูกแลกเปลี่ยนภายใน RODEX#
 30,000 z#
-Malangdo Special Can 100 pc#
-Cannot carry anymore because weight limit over 80%#
-Unsold items are sent to RODEX#
-Preview#
-Assign Guild Leader#
-Are sure want to assign %s as guild leader? After assigned your position will become %s#
-Cancel#
-Do you want to close the shop?#
-%02d day %02d hour %02d minute %02d second#
-Unable to sign in#
-Unable to sign in because the maximum number of sign-in is exceeded#
-Please select a location for your shop#
-Pet name will be changed to ^0000ff^0000ff %s^000000^000000, do you want to continue?#
-Trade date : #
-Trade item : #
-Trade quantity : #
-Trade price : #
-Total trade : #
-Open vending sales agent#
-Open vending purchase agent#
-Close vending sales agent#
-Close vending purchase agent#
-Balance: #
-Item list: #
-Vending agent#
-Returned item: #
-Returned quantity: #
-Returned date: #
-Total trade will be sent to RODEX #
-Name isn't available#
-Item has been delivered#
-Thank you for purchasing#
-Press again to unlock#
-Lock from NPC selling#
-There is no callable location nearby#
-Capture full screens#
-Capture part of screen#
-Send#
-Family Affairs agent#
-Acknowledgement of family member registrations.#
-Dear whom it may concern. \r\n\r\n Today, \"%s\" and \"%s\" 's son/daughter \"%s\" has fully separated and independent from your member of family.\r\n\r\nHereat, we inform you in writing.\r\n\r\nPlease contact to Prontera Family Affairs if you have any enquiries.\r\n\r\nThank you.#
-Equip#
-No image#
-[%s] is blocking Call Massage.#
-Currently in WoE hours, unable to delegate Guild leader#
-You have to wait for one day before delegating a new Guild leader#
-When adopted, character will not able to transcend, maximum stats will be limited, MaxHP and MaxSP will be reduced.\nAre you sure you want to continue?#
-Refining#
-Use Blacksmith's Blessing#
-Insufficient zeny#
-Not enough Blacksmith's Blessing#
-This equipment can not be refined#
-Upgrade success!#
-Upgrade failed!#
-Back#
-Success# 
-Return#
-With Mr/Miss#
-The Homunculus's name will be changed to^0000ff^0000ff %s^000000^000000, Are you sure?#
-Call function is ON#
-Call function is OFF#
-Display Call messages#
-This character is currently opening a shop and can't be deleted#
+Malangdo Special Can 100 ชิ้น#
+ไม่สามารถแบกเพิ่มได้อีกเนื่องจากน้ำหนักเกิน 80%#
+Item ที่ไม่ได้ถูกขายจะถูกส่งไปยัง RODEX#
+ตัวอย่าง#
+เลือกหัวหน้า Guild#
+ต้องการเลือก %s เป็นหัวหน้า Guild? หลังจากเปลี่ยนตำแหน่งแล้วคุณจะกลายเป็น %s#
+ยกเลิก#
+ต้องการปิดร้านค้าใช่หรือไม่?#
+%02d วัน %02d ชั่วโมง %02d นาที %02d วินาที#
+ไม่สามารถเข้าได้#
+ไม่สามารถเข้าได้ เนื่องจากเกินจำนวนการเข้า#
+โปรดเลือกสถานที่สำหรับร้านค้าของคุณ#
+ชื่อของ Pet จะถูกเปลี่ยนเป็น ^0000ff^0000ff %s^000000^000000 ต้องการดำเนินการต่อหรือไม่?#
+วันที่แลกเปลี่ยน: #
+Item ที่แลกเปลี่ยน: #
+จำนวนที่แลกเปลี่ยน: #
+ราคาที่แลกเปลี่ยน: #
+การแลกเปลี่ยนทั้งหมด: #
+เปิดตัวจัดการร้านค้าแผงลอย#
+เปิดตัวจัดการร้านค้าแผงลอยรับซื้อ#
+ปิดตัวจัดการร้านค้าแผงลอย#
+ปิดตัวจัดการร้านค้าแผงลอยรับซื้อ#
+คงเหลือ: #
+รายการ Item: #
+ตัวจัดการร้านค้าแผงลอย#
+Item ที่คืนมา: #
+จำนวนที่คืนมา: #
+วันที่คืนมา: #
+การแลกเปลี่ยนทั้งหมดจะถูกส่งไปยัง RODEX #
+ชื่อดังกล่าวไม่สามารถใช้งานได้#
+Item ถูกส่งแล้ว#
+ขอบคุณมาก ๆ ที่ซื้อ#
+กดอีกครั้งเพื่อปลดล็อค#
+ล็อคการขายไปยัง NPC#
+ไม่พบสถานที่ที่สามารถเรียกได้ใกล้ ๆ#
+ถ่ายภาพเต็มจอ#
+ถ่ายภาพส่วนที่เลือก#
+ส่ง#
+ตัวจัดการความสัมพันธ์ของครอบครัว#
+ลงทะเบียนการยินยอมจากครอบครัว#
+เรียนผู้ที่เกี่ยวข้อง \r\n\r\n วันนี้ \"%s\" และ \"%s\" 's ลูกชาย/ลูกสาว \"%s\" ได้แยกจากครอบครัวแล้ว\r\n\r\nณ บัดนี้ เราแจ้งให้คุณทราบเป็นลายลักษณ์อักษร\r\n\r\nโปรดติดต่อ ศูนย์สัมพันธ์ครอบครัว Prontera หากมีข้อผิดพลาดใด ๆ\r\n\r\nขอบคุณ#
+สวมใส่#
+ไม่มีรูป#
+[%s] ปฎิเสธข้อความการเรียก#
+ตอนนี้อยู่ในช่วง WoE ไม่สามารถมอบอำนาจหัวหน้า Guild ได้#
+คุณต้องรออย่างน้อย 1 วันเพื่อมอบอำนาจหัวหน้า Guild ใหม่#
+เมื่อถูกรับเลี้ยง ตัวละครจะไม่สามารถไปยังจุดสูงสุดได้ Status จะถูกจำกัด MaxHP และ MaxSP จะถูกลด\nต้องการดำเนินการต่อหรือไม่?#
+การเสริมแกร่ง#
+ใช้ Blacksmith's Blessing#
+Zeny ไม่เพียงพอ#
+Blacksmith's Blessing ไม่เพียงพอ#
+อุปกรณ์สวมใส่ดังกล่าวไม่สามารถเสริมแกร่งได้#
+การเสริมแกร่งสำเร็จเรียบร้อย!#
+เกิดข้อผิดพลาดในการเสริมแกร่ง!#
+กลับ#
+สำเร็จ# 
+กลับ#
+กับ คุณ/คุณนาย#
+ชื่อ Homunculus จะถูกเปลี่ยนเป็น^0000ff^0000ff %s^000000^000000 ต้องการดำเนินการต่อหรือไม่?#
+เปิดการใช้งาน ระบบการเรียก#
+ปิดการใช้งาน ระบบการเรียก#
+แสดงข้อความการเรียก#
+ไม่สามารถลบได้ เนื่องจากตัวละครดังกล่าวกำลังเปิดร้านค้า#
 The same vend shop NPC has been set up#
 Opening shop is not allowed on this location#
 Opening shop is not allowed when there is other character#
