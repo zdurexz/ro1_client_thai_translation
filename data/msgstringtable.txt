@@ -317,8 +317,8 @@ Item ถูกขายออกไปหมดเรียบร้อยแล้ว#
 อนุมัติการกระซิบ#
 แสดง ''Miss''#
 แสดง ''Miss''#
-เปิดใช้งานการซูมกล้อง#
-ปิดใช้งานการซูมกล้อง#
+เปิดการใช้งาน การซูมกล้อง#
+ปิดการใช้งาน การซูมกล้อง#
 /camera: เปิด/ปิด การใช้งานการซูมกล้อง /miss: เปิด/ปิด การแสดง ''Miss''#
 ดูข้อมูล Skill#
 เปลี่ยน Skill#
@@ -813,8 +813,8 @@ ID ถูกระงับชั่วคราวเนื่องจาก Login ในช่วงของการตรวจสอบ Bug#
 Item ที่สามารถซ่อมแซมได้#
 ซ่อมแซม Item ดังงกล่าวสำเร็จเรียบร้อย#
 เกิดข้อผิดพลาดในการซ่อมแซม Item ดังกล่าว โปรดสอบสอบระยะห่างระหว่างคุณและเป้าหมาย#
-เปิดใช้งาน การตรวจสอบระบบ [GM mode] [/sc]#
-ปิดใช้งาน การตรวจสอบระบบ [GM mode] [/sc]#
+เปิดการใช้งาน การตรวจสอบระบบ [GM mode] [/sc]#
+ปิดการใช้งาน การตรวจสอบระบบ [GM mode] [/sc]#
 /systemcheck: เปิด/ปิด การใช้งาน การตรวจสอบระบบ [GM mode]#
 (%s) ต้องการเป็นเพื่อนกับคุณ ยอมรับหรือไม่?#
 รายการเพื่อนของคุณเต็มแล้ว#
@@ -1624,8 +1624,8 @@ Camp A: Camp B#
 แสดงข้อความ Battlefield#
 [%s] #
 ร่าย Skill [%s]#
-เปิดใช้งาน ระบบ Lock#
-ปิดใช้งาน ระบบ Lock#
+เปิดการใช้งาน ระบบ Lock#
+ปิดการใช้งาน ระบบ Lock#
 พลเมืองแห่ง Midgard โชคลาภจากหญิงสาวแห่งแสงสว่างได้ปรากฎขึ้น [%s] !! [%s] ได้ให้รางวัลกับผู้เล่นด้วย '%s' !!#
 Swordman#
 Magician#
@@ -1700,8 +1700,8 @@ Soul Linker#
 คุณไม่สามารถใช้หรือเปลี่ยนอุปกรณ์สวมใส่ Item ขณะทำการแลกเปลี่ยนอยู่ได้#
 ค่าที่ยังไม่ได้ถูกระบุ#
 /stateinfo: เปิด/ปิด การแสดงรายละเอียดของ Icon สถานะ#
-เปิดใช้งาน การแสดงรายละเอียดของ Icon สถานะ#
-ปิดใช้งาน การแสดงรายละเอียดของ Icon สถานะ#
+เปิดการใช้งาน การแสดงรายละเอียดของ Icon สถานะ#
+ปิดการใช้งาน การแสดงรายละเอียดของ Icon สถานะ#
 ไม่สามารถซื้อ Item เดียวกันได้มากกว่า %d ชิ้นภายในครั้งเดียว#
 ไม่สามารถซื้อ Item เดียวกันได้มากกว่า %d ชิ้นภายในครั้งเดียว#
 สามารถซื้อได้มากสุด %d ชิ้นต่อการซื้อ 1 รอบ#
@@ -2178,8 +2178,8 @@ https://discord.gg/TK6rVtY#
 ข้อมูล Server ที่พบ#
 ^ff0000Server ที่พบ: ^0000ff#
 ^ff0000ตัวละครที่พบ: ^0000ff#
-เปิดใช้งาน การแสดงหลอด HP ของ Monster เมื่อโจมตี#
-ปิดใช้งาน การแสดงหลอด HP ของ Monster เมื่อโจมตี#
+เปิดการใช้งาน การแสดงหลอด HP ของ Monster เมื่อโจมตี#
+ปิดการใช้งาน การแสดงหลอด HP ของ Monster เมื่อโจมตี#
 ไม่พบ Item หลังการผสม#
 ไม่พบ Item ที่สามารถผสมได้#
 Act#
@@ -2347,7 +2347,7 @@ $$all#
 https://discord.gg/TK6rVtY#
 การเชื่อมต่อด้วย Guest ถูกระงับ#
 ระบบปฎิบัติการของคุณกำลังจะปิดตัวลง %1.2d-%1.2d-%1.2d %1.2d:%1.2d:%1.2d คือเวลาสิ้นสุด#
-เปิดใช้งาน การปิดระบบปฎิบัติการอัตโนมัติ เวลาคงเหลือ: %1.2d ชั่วโมง %1.2d นาที#
+เปิดการใช้งาน การปิดระบบปฎิบัติการอัตโนมัติ เวลาคงเหลือ: %1.2d ชั่วโมง %1.2d นาที#
 Replay#
 Macro#
 Webbrowser#
@@ -2577,8 +2577,8 @@ Pet ไม่สามารถฟักออกจากไข่ได้#
 ต้องการความสนิทสนมสูงสุดในการ Evolution#
 การให้อาหารอัตโนมัติ#
 ให้อาหาร Pet แล้ว %d '%d' คงเหลือ#
-เปิดใช้งาน การให้อาหารอัตโนมัติ#
-ปิดใช้งาน การให้อาหารอัตโนมัติ#
+เปิดการใช้งาน การให้อาหารอัตโนมัติ#
+ปิดการใช้งาน การให้อาหารอัตโนมัติ#
 อัปเดต#
 %d นาทีที่แล้ว#
 %d ชั่วโมงที่แล้ว#
@@ -2964,13 +2964,13 @@ Item ถูกส่งแล้ว#
 ตอนนี้อยู่ในช่วง WoE ไม่สามารถมอบอำนาจหัวหน้า Guild ได้#
 คุณต้องรออย่างน้อย 1 วันเพื่อมอบอำนาจหัวหน้า Guild ใหม่#
 เมื่อถูกรับเลี้ยง ตัวละครจะไม่สามารถไปยังจุดสูงสุดได้ Status จะถูกจำกัด MaxHP และ MaxSP จะถูกลด\nต้องการดำเนินการต่อหรือไม่?#
-การเสริมแกร่ง#
+การตีบวก#
 ใช้ Blacksmith's Blessing#
 Zeny ไม่เพียงพอ#
 Blacksmith's Blessing ไม่เพียงพอ#
-อุปกรณ์สวมใส่ดังกล่าวไม่สามารถเสริมแกร่งได้#
-การเสริมแกร่งสำเร็จเรียบร้อย!#
-เกิดข้อผิดพลาดในการเสริมแกร่ง!#
+อุปกรณ์สวมใส่ดังกล่าวไม่สามารถตีบวกได้#
+การตีบวกสำเร็จเรียบร้อย!#
+เกิดข้อผิดพลาดในการตีบวก!#
 กลับ#
 สำเร็จ# 
 กลับ#
@@ -2980,54 +2980,54 @@ Blacksmith's Blessing ไม่เพียงพอ#
 ปิดการใช้งาน ระบบการเรียก#
 แสดงข้อความการเรียก#
 ไม่สามารถลบได้ เนื่องจากตัวละครดังกล่าวกำลังเปิดร้านค้า#
-The same vend shop NPC has been set up#
-Opening shop is not allowed on this location#
-Opening shop is not allowed when there is other character#
-Failed to feed pet, please close RODEX window#
-Set item setting#
-Equip#
-Equipment will dissapear when refine fails#
-Equipment's refine level will decreased when refine fails#
-Equipment will dissapear or refine level will decreased when refine fails#
-You cannot use RODEX while refining. RODEX has closed.#
-You cannot use RODEX while refining.#
-Please close other windows to continue.#
-Turn On Aura [Aura ON]#
-Turn Off Aura [Auta OFF]#
-Aura is turned off. Please turn it on and try again#
-You need %d bullet(s) to activate the skill.#
-Do you want to change the equipment set?#
-You can not do it while you are dead.#
-You can not do it while casting#
-You can not do it while trading#
-You can not do it while opening vendor#
-You can not do it while using NPC#
-You can not do it while using chatting room#
-Party members are not connected.#
-You need %d arrow(s) to activate the skill.#
-Align items#
-Please close item setting window to dump item.#
-There is no item to replace.#
-Deleted character#
+มี NPC ร้านค้าแผงลอยดังกล่าวอยู่แล้ว#
+ไม่สามารถเปิดร้านค้า ณ สถานที่ดังกล่าวได้#
+ไม่สามารถเปิดร้านค้า ณ สถานที่ที่มีผู้เล่นอื่นยืนอยู่ได้#
+เกิดข้อผิดพลาดในการให้อาหาร Pet โปรดปิดหน้าต่าง  RODEX#
+ตั้งค่า Item Set#
+สวมใส่#
+อุปกรณ์สวมใส่จะหายไปหากเกิดข้อผิดพลาด#
+อุปกรณ์สวมใส่จะถูกลดจำนวนตีบวกหากเกิดข้อผิดพลาด#
+อุปกรณ์สวมใส่จะหายไปหรือถูกลดจำนวนตีบวกหากเกิดข้อผิดพลาด#
+ไม่สามารถใช้ RODEX ได้ขณะกำลังตีบวกอยู่ หน้าต่าง RODEX ถูกปิดลง#
+ไม่สามารถใช้ RODEX ได้ขณะกำลังตีบวกอยู่#
+โปรดปิดหน้าต่างอื่นเพื่อดำเนินการต่อ#
+เปิดการใช้งาน การแสดง Aura [/aura]#
+ปิดการใช้งาน การแสดง Aura [/aura]#
+การแสดง Aura ถูกปิด โปรดเปิดมันก่อนและลองใหม่#
+ต้องการกระสุน %d เพื่อใช้งาน Skill#
+ต้องการเปลี่ยน Set อุปกรณ์สวมใส่ใช่หรือไม่?#
+ไม่สามารถทำได้ขณะหมดสติ#
+ไม่สามารถทำได้ขณะร่ายเวทย์มนต์#
+ไม่สามารถทำได้ขณะทำการแลกเปลี่ยน#
+ไม่สามารถทำได้ขณะเปิดร้านค้าแผงลอย#
+ไม่สามารถทำได้ขณะใช้งาน NPC#
+ไม่สามารถทำได้ขณะใช้งานห้องสนทนา#
+สมาชิกภายใน Party ไม่ได้อยู่ในเกม#
+ต้องการลูกธนู %d เพื่อใช้งาน Skill#
+จัดเรียง Item#
+โปรดปิดหน้าต่างการตั้งค่า Item เพื่อโยน Item#
+ไม่พบ Item ในการแลกเปลี่ยน#
+ตัวละครที่ถูกลบ#
 %Y.%m.%d#
-Access date: %s#
-You can not use bank while refining. Bank has closed.#
-You can not use bank while refining.#
-The item has bind to set equipment.#
-Human#
+วันที่เข้า: %s#
+ไม่สามารถใช้ธนาคารได้ขณะทำการตีบวก หน้าต่างธนาคารถูกปิดลง#
+ไม่สามารถใช้ธนาคารได้ขณะทำการตีบวก#
+Item ดังกล่าวถูกกำหนดไว้ใน Set อุปกรณ์สวมใส่#
+มนุษย์#
 Swordman, Mage, Merchant, Acolyte, Thief, Archer#
 Doram#
 Summoner#
-Delegate race of Midgard. Very talented race to solve a problem with inifite potential and great adaptability.#
-One of delegate race of Far-star continent with natural born curiosity and sparky character.#
-Weight limit has reached toover 70%. Or less then 10 invenrory space.#
+ตัวแทนแห่ง Midgard มีความสามารถในการแก้ปัญหาสารพัดอย่างและมีการปรับตัวที่ดีเยี่ยม#
+เผ่าที่มาจากดาวอันไกลโพ้น ไม่ทราบแหล่งที่มาแน่ชัด ชอบความร่าเริงเป็นชีวิตจิตใจ#
+น้ำหนักเกิน 70% หรือช่องว่างในช่องเก็บของมีน้อยกว่า 10 ช่อง#
 C#
 C#
-Doing in other activity.#
-Overheat limit : %d#
-You cannot invite or withdraw while in memorial dungeon.#
-Expletive has detected.\nPlease check again.#
-Please enter over %d characters. If you don't have user account, please click [Register] button on the bottom left.#
+กำลังทำการกระทำอื่นอยู่#
+ขีดจำกัด Overheat: %d#
+ไม่สามารถชวนหรือขับไล่ได้ขณะอยู่ใน Memorial Dungeon#
+พบคำหยาบ\nโปรดลองใหม่#
+โปรดระบุมากกว่า %d ตัวอักษร ถ้าคุณยังไม่มี ID โปรดกดปุ่ม [ลงทะเบียน] ที่ด้านซ้ายล่าง#
 Please enter the password over %d characters.#
 Please finish your current work and try it again.#
 %.1f%% (Internet-Cafe %.1f%% + TPLUS %.1f%% + %sServer %.1f%%)#
