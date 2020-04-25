@@ -3575,97 +3575,97 @@ Capture Monster#
 message#
 TITLE#
 Expand damage mark#
-맵 이름 표기#
-시스템 메세지 : 현재 노점보기 기능이 %s 상태입니다. (/노점보기)#
-수직 동기#
-자료#
+Map name notation #
+System message: The stall view function is currently in% s state. (/ View stalls) #
+Vertical sync #
+material#
 http://rodata.zhaouc.com/renwu.html#
-작위#
-프레임 제한#
-%d개를 초과할 경우 더 이상 설치 할 수 없습니다.#
-목적지#
-잠시 후 다시 시도해주세요.#
-등록할 수 없는 파일입니다.#
-선택 삭제#
-모두 삭제#
-[%s]편지함의 모든 메일을 삭제하시겠습니까?#
-선택 받기#
-모두 받기#
-선택한 메일의 첨부 물품을 받으시겠습니까?#
-[%s]편지함의 모든 첨부 물품을 받으시겠습니까?#
-스킬바2#
-스킬바 교체#
-←#
-↑#
-→#
-↓#
-▤#
-←#
-로딩중에는 창을 닫을 수 없습니다.#
-리딩 스펠북으로 저장된 마법이 없습니다.#
-이동 시 사용한 아이템은 재교환이 불가능합니다.#
-자유이동권을 구매 하였습니다#
-자유이동권 사용 중, 관련 아이템을 소모하지 않습니다.#
-적용#
-중지#
-자유이동권#
-%d시간 이용, %s %d개#
-자유이용권 사용중#
-특성 스테이터스#
-파워 파라메터\n^cc0000물리 공격력, 특성 공격력^ffffff 증가#
-스테미나 파라메터\n^cc0000물리 저항력^ffffff 증가#
-위즈덤 파라메터\n^cc0000마법 저항력^ffffff 증가#
-스펠 파라메터\n^cc0000마법 공격력, 마법 공격력^ffffff 증가#
-컨센트레이션 파라메터\n^cc0000명중률, 회피율, 특성 물리/마법 공격력^ffffff 증가#
-크리에이티브 파라메터\n^cc0000특성 힐 회복량, 크리티컬 데미지 비율^ffffff 증가#
-특성 물리 공격력#
-특성 마법 공격력#
-물리 저항력#
-마법 저항력#
-특성 힐 회복량#
-크리티컬 데미지 비율#
-특성 파라메터 레벨업에 사용되는 포인트#
-J.Lv#
-AP#
-영지로 이동#
-상업도/방어도 확인#
-관리영지 "%s"(으)로 이동하시겠습니까?\n이동 시 마다 %d제니가 소모됩니다.\n(공성전 시간에는 %d제니가 소모됩니다.)#
-\n관리영지 "%s"\n	\n방어도: %d / %d\n상업도: %d / %d#
-공성 영지에서는 사용할 수 없는 기능입니다.#
-기본 기능 스킬을 습득하지 않은 캐릭터입니다.#
-접속하신 IP는 라그나로크 제로 이용이 불가능합니다.\n고객센터 또는 홈페이지로 문의해 주십시오.#
-탑승/장착 해제#
-가져오기#
-직전 노점에 등록된 아이템 정보를 가져옵니다.#
-서버 이슈로 인해 로그인이 제한되고 있습니다.#
-메시지#
-+18 이상만 플레이가 가능합니다.#
-3시간 이상의 게임 플레이를 권장하지 않습니다.#
-AP가 부족합니다.#
-제련도가 높아서 조합할 수 없습니다.#
-제련도가 조합에 필요한 요구치보다 높습니다.#
-카드가 끼워져있거나 인챈트 되어 있습니다.#
-∞#
-Z#
-Total : %s Zeny#
-계정한정판매 등록창#
-아이템 DB명#
-아이템 DB번호#
-판매 갯수#
-판매 시작시간#
-판매 종료시간#
-계정 한정#
-판매기간 : %d월 %d일 %d시 %d분#
-계정당 구매가능#
-%d개 한정#
->> ItemName : %s /  수량 : %d / 판매기간 : %d월:%d일:%d시:%d분 ~ %d월:%d일:%d시:%d분#
-Sold Out#
-[%s]은(는) 현재 소환할 수 없는 지역에 있습니다.#
-~ %d월 %d일 %d시 %d분#
-상품을 더이상 추가할 수 없습니다#
-장착 중인 아이템은 교환할 수 없습니다. 장착을 해제한 뒤 시도해 주시길 바랍니다.#
-길드 창고 이용 중엔 캐릭터 선택창으로 이동 할 수 없습니다.#
-아이템 태그가 포함되어 있어 사용할 수 없습니다.#
+Title #
+Frame limit #
+If it exceeds% d, it can no longer be installed. #
+destination#
+Please try again in a few minutes.#
+This file cannot be registered. #
+Delete Selection #
+delete all#
+Are you sure you want to delete all mail in the [% s] mailbox? #
+Get Selection #
+Get all #
+Would you like to receive the attachment of the selected email? #
+Would you like to receive all the attachments of the [% s] letterbox? #
+Skill Bar 2 #
+Skill Bar Replacement #
+ #
+ #
+ #
+ #
+? #
+ #
+The window cannot be closed while loading. #
+There is no magic saved as a leading spellbook. #
+Items that are used for movement cannot be exchanged. #
+I purchased a free pass #
+While using the free pass, related items are not consumed. #
+apply#
+stop#
+Free Movement Rights #
+% d hours spent,% s% d #
+Using Free Pass #
+Character Status #
+Power parameter \ n ^ cc0000Physical attack power, attribute attack power ^ ffffff increase #
+Stamina parameter \ n ^ cc0000Physical resistance ^ ffffff increase #
+Wisdom Parameter \ n ^ cc0000 Magic Resistance ^ ffffff Increase #
+Spell Parameters \ n ^ cc0000 Increases Magical Damage and Magical Damage ^ ffffff #
+Concentration Parameters \ n ^ cc0000 Accuracy, Evasion Rate, and Attribute Physical / Magical Damage ^ ffffff increase #
+Creative Parameters \ n ^ cc0000 Heal amount of healing, critical damage ratio ^ ffffff increase #
+Talent Physical Attack #
+Talent Magic Damage #
+Physical Resistance #
+Magic Resistance #
+Character Heal Recovery #
+Critical Damage Ratio #
+Points used to level up characteristic parameters #
+J.Lv #
+AP #
+Go to Territory #
+Check commercial / defense diagram #
+Would you like to go to "% s" in the management territory? \ N% d Jenny will be consumed with every move. \ N (% d Jenny will be consumed during siege time) #
+\ nManaged territory "% s" \ n \ nDefense degree:% d /% d \ nCommercial degree:% d /% d #
+This feature is not available in Siege Territory. #
+A character who has not mastered basic functional skills. #
+You cannot use Ragnarok Zero for the IP you are connected to. \ NPlease contact the customer center or homepage. #
+Boarding / unmounting #
+Import#
+Get the item information registered in the previous stall. #
+Login is restricted due to server issue. #
+message#
+You can play only +18 or higher. #
+We don't recommend playing over 3 hours. #
+There is not enough AP #
+It cannot be combined due to its high smelting degree.
+The smelting degree is higher than that required for the combination. #
+The card is inserted or enchanted. #
+? #
+Z #
+Total:% s Zeny #
+Account limited sales registration window #
+Item DB name #
+Item DB number #
+Number of sales #
+Sales start time #
+End of Sale #
+Account only #
+Sales period:% d month% d day% d hour% d minute #
+Available per account #
+% d only #
+>> ItemName:% s / Quantity:% d / Sales period:% d month:% d day:% d hour:% d minutes ~% d month:% d day:% d hour:% d minutes #
+Sold Out #
+[% s] is currently in an area that cannot be summoned. #
+~% d month% d day% d hour% d minute #
+No more products can be added #
+Equip items cannot be exchanged. Please try after dismounting. #
+You cannot go to the character selection window while using the guild warehouse. #
+Item tag is included and cannot be used. #
 Monster#
 Unknown#
 Undead#
@@ -3678,98 +3678,98 @@ Human#
 Angel#
 Dragon#
 Balance: %s %c#
- ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 %s캐시가 차감됩니다.#
- ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 일반 %s캐시, 무료 %s캐시가 차감됩니다.#
-호출이 거부되었습니다.#
-구매 한도액은 소지액을 초과할 수 없습니다.#
-노점을 여는데 실패하였습니다. 구매노점 개설을 닫아주시기 바랍니다.#
-판매 노점 아이템 리스트가 저장되었습니다.#
-구매 노점 아이템 리스트가 저장되었습니다.#
-VTC 인증에 실패하였습니다.#
-물물교환 중에는 장비를 착용할 수 없습니다.#
-교환하려는 품목#
- 1차, 2차, 3차 직업 스킬 %d개를 더 올려 주십시오.#
-같은 아이템은 %d개까지 소유할 수 있습니다.#
-같은 아이템은 한 번에 %d개까지 교환할 수 있습니다.#
-해당 로덱스는 "%s"서버에서 열 수 있습니다.#
-[공지]편지함의 모든 메일을 삭제하시겠습니까 ? \n(해당 "%s"서버의 메일만 삭제됩니다.)#
-[공지]편지함의 모든 첨부 물품을 받으시겠습니까? \n(해당 "%s"서버의 메일의 물품만 받으실 수 있습니다.)#
-해당 메일은 "%s"서버에서만 삭제 가능합니다.#
-해당 메일은 "%s"서버에서만 물품 받기가 가능합니다.#
-해당 메일은 "%s"서버에서만 내용읽기가 가능합니다.#
-합계 : %d z#
-메세지#
-구매상점 개설 중에는 개인상점의 물건을 구입할 수 없습니다.#
-등급강화가 성공적으로 되었습니다.#
-등급강화가 실패하였습니다.#
-등급 수치가 하향 조정 되었습니다.#
-장비가 파괴되었습니다.#
-장비가 보호되었습니다.#
-재료가 선택되지 않았습니다.#
-재료가 부족합니다.#
-소지 금액이 부족합니다.#
-아이템 공간이 부족합니다.#
-장비가 보호되고 있습니다.#
-장비가 파괴될 수 있습니다.#
-등급강화 실패 시 등급이 내려갑니다.#
-등급강화 중에는 로덱스를 사용할 수 없습니다. 로덱스를 강제 종료하였습니다.#
-등급강화 중에는 로덱스를 사용할 수 없습니다.#
-등급강화 중에는 은행을 사용할 수 없습니다. 은행을 강제 종료하였습니다.#
-등급강화 중에는 은행을 사용할 수 없습니다.#
-[%s] 님이 등급강화를 성공하여, [%s등급 %s] 아이템을 획득하였습니다.#
-[%s] 님이 [%s등급 %s] 아이템의 등급강화에 실패하였습니다.#
-등급 강화가 불가능한 장비입니다.#
-체인지 메테리얼#
-가나다 정렬#
-기본 결과물은 %s %d개 이나, 낮은 확률로 최대 %d개까지 생성될 수 있습니다.#
-성공 %d%%#
-아이템 태그는 소지한 아이템만 태그할 수 있습니다.#
-공격력 및 특성 공격력이 증가되었습니다.#
-강인한 신념 효과가 해제되었습니다.#
-HP 및 물리 저항력이 증가되었습니다.#
-굳건한 신념 효과가 해제되었습니다.#
-공격 속도 및 유도 공격 확률이 증가되었습니다.#
-신실한 신념 효과가 해제되었습니다.#
-POW, CRT 및 CON 이 증가되었습니다.#
-베네딕툼 효과가 해제되었습니다.#
-SPL, WIS 및 CRT 가 증가되었습니다.#
-렐리지오 효과가 해제되었습니다.#
-특성 공격력 및 특성 마법 공격력이 증가되었습니다.#
-콤페텐티아 효과가 해제되었습니다.#
-크리티컬 데미지 비율이 증가되었습니다.#
-프레센스 아치에스 효과가 해제되었습니다.#
-물리 저항력 무시 효과가 부여되었습니다.#
-아르구투스 텔룸 효과가 해제되었습니다.#
-마법 저항력 무시 효과가 부여되었습니다.#
-아르구투스 비타 효과가 해제되었습니다.#
-Num: %d/%d Weight: %d/%d#
-서번트 웨폰 효과가 해제되었습니다.#
-챠징 피어스 효과가 해제되었습니다.#
-비고르 효과가 해제되었습니다.#
-공격력이 증가하고, 방어력이 감소되었습니다.#
-어택 스탠스 효과가 해제되었습니다.#
-방어력이 증가하고, 공격력이 감소되었습니다.#
-가드 스탠스 효과가 해제되었습니다.#
-배리어가 부여되었습니다.#
-가디언 쉴드 효과가 해제되었습니다.#
-헌신 효과로 받는 데미지가 감소되었습니다.#
-리바운드 쉴드 효과가 해제되었습니다.#
-성속성 마법 데미지와 암/불사속성 내성이 증가되었습니다. #
-홀리 쉴드 효과가 해제되었습니다.#
-즉시 부활 효과가 부여되었습니다.#
-얼티메이트 세크리파이스 효과가 해제되었습니다.#
-특정 스킬의 효능이 변경되었습니다.#
-클라이막스 효과가 해제되었습니다.#
-특정 스킬의 효능이 변경되었습니다.#
-쉐도우 익시드 효과가 해제되었습니다.#
-물리 저항력 무시 효과가 부여되었습니다.#
-포텐트 베넘 효과가 해제되었습니다.#
-매 공격 시, 일정 확률로 대상이 받는 데미지를 증가시킵니다.#
-인챈팅 쉐도우 효과가 해제되었습니다.#
-토벌 카운트 On#
-토벌 카운트 Off#
-대상의 AP가 최대치입니다#
- ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.일부(이벤트) 아이템의 경우	이벤트 종료 시 삭제될 수 있으며, 아이템 설명 내 기재된 삭제기간을 확인해 주시기 바랍니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 %d캐시가 차감됩니다.#
- ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.일부(이벤트) 아이템의 경우	이벤트 종료 시 삭제될 수 있으며, 아이템 설명 내 기재된 삭제기간을 확인해 주시기 바랍니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 일반 %d캐시, 무료 %d캐시가 차감됩니다.#
-서번트 웨폰 %d개가 필요합니다.#
+^ ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it will be excluded from the withdrawal of subscription. Also, the free cash used for purchase will not be returned upon withdrawal of subscription. ^ 000000 Are you sure you want to purchase the item? % S Cash will be deducted when purchasing. #
+�^ ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it will be excluded from the withdrawal of subscription. Also, the free cash used for purchase will not be returned upon withdrawal of subscription. ^ 000000 Are you sure you want to purchase the item? Regular% s cash and free% s cash will be deducted when purchasing. #
+The call was rejected. #
+The purchase limit cannot exceed your possession. #
+Failed to open the stall. Please close the opening of the purchase stall. #
+The list of items for sale stalls has been saved. #
+The list of purchase stall items has been saved. #
+VTC authentication failed. #
+Equipment cannot be worn during barter exchange. #
+Item to be exchanged #
+�Please raise% d of 1st, 2nd and 3rd job skills. #
+You can have up to% d of the same item. #
+Up to% d items can be exchanged at once. #
+That rodex can be opened on server "% s".
+[Notice] Are you sure you want to delete all mails in the mailbox? \ n (Only mail from the "% s" server will be deleted.) #
+[Notice] Would you like to receive all the attached items in your letterbox? \ n (You can only receive mail from the "% s" server.) #
+This mail can only be deleted from the "% s" server. #
+This mail can only be received from the "% s" server. #
+The mail can be read only on the "% s" server. #
+Total:% d z #
+message#
+During the opening of a purchasing store, you cannot purchase the items of a private store. #
+The grade has been successfully upgraded. #
+Grade reinforcement failed. #
+The ratings have been revised down. #
+Equipment destroyed. #
+The equipment is protected. #
+No material selected. #
+Insufficient ingredients #
+Insufficient amount of possession. #
+There is not enough item space. #
+The equipment is protected. #
+Equipment may be destroyed. #
+If the class upgrade fails, the class will go down. #
+Rodex cannot be used while upgrading. Forced the end of Rodex. #
+Rodex cannot be used during rank upgrade. #
+Banks cannot be used while upgrading. The bank was forcibly closed. #
+Banks cannot be used while upgrading. #
+[% s] succeeded in enhancing the grade, and obtained the [% s grade% s] item. #
+[% s] failed to upgrade the [% s rating% s] item. #
+This equipment cannot be upgraded. #
+Change Material #
+Alphabetical Sort #
+The default output is% s% d, but with a low probability up to% d. #
+Success% d %% #
+You can only tag items you have. #
+Attack and attribute damage increased. #
+The strong belief effect has been released. #
+HP and physical resistance increased. #
+The firm belief effect has been released. #
+Attack speed and guided attack chance increased. #
+The faithful belief effect has been released. #
+POW, CRT and CON have been increased. #
+The Benedictum effect has been released. #
+SPL, WIS and CRT have been increased. #
+Relizio effect has been canceled. #
+Talent attack power and talent magic attack power increased. #
+The Competentia effect has been removed. #
+Critical damage ratio increased. #
+The Presence Archies effect has been released. #
+The effect of ignoring physical resistance has been granted. #
+The Argutus Tellroom effect has been removed. #
+Ignored the magic resistance. #
+The Argutus Vita effect has been removed. #
+Num:% d /% d Weight:% d /% d #
+The Servant Weapon effect has been removed. #
+The charging pierce effect has been canceled. #
+The Vigor effect has been removed. #
+Damage increased, defense decreased. #
+The attack stance effect has been released. #
+Defense increased, attack power decreased. #
+Guard Stance effect has been released. #
+Barrier granted. #
+Guardian Shield effect has been released. #
+The damage taken by the devotion effect has been reduced. #
+The rebound shield effect has been released. #
+Property magic damage and cancer / immortal resistance have been increased. #
+The Holy Shield effect has been released. #
+Instant resurrection effect was granted. #
+Ultimate Secretify effect has been canceled. #
+The effectiveness of certain skills has changed. #
+The climax effect is off. #
+The effectiveness of certain skills has changed. #
+Shadow Extreme effect has been released. #
+The effect of ignoring physical resistance has been granted. #
+Potent Bennum effect has been released. #
+Each attack has a chance to increase the target's damage. #
+The enchanting shadow effect has been canceled. #
+Subtotal Count On #
+Subtotal Count Off #
+Target AP is the maximum.
+�^ ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it is excluded from the withdrawal of subscription. Also, the free cash used at the time of purchase is not returned when the subscription is withdrawn. Some (event) items may be deleted at the end of the event, Please confirm the deletion period listed. ^ 000000 Are you sure you want to purchase the item? % D Cash will be deducted when purchasing. #
+�^ ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it is excluded from the withdrawal of subscription. Also, the free cash used at the time of purchase is not returned when the subscription is withdrawn. Some (event) items may be deleted at the end of the event, Please confirm the deletion period listed. ^ 000000 Are you sure you want to purchase the item? Regular% d cash and free% d cash will be deducted when purchasing. #
+Requires% d Servant Weapon.
 https://member.gnjoy.com.tw/billing.aspx#
