@@ -2887,8 +2887,8 @@ Icon �����١���͡#
 �ӹǹ���駤������: %d#
 ���ҷ#
 ����#
-������������������͡���ҷ#
-�������������͡�˹�����#
+�� Mouse �����������͡���ҷ#
+�� Mouse ������͡�˹�����#
 ���з���кؼԴ��Ҵ�ô������ [Enter]#
 �ѵ�� EXP   : %.1f%% ( ���� %.1f%% %s %.1f%%)#
 �ѵ�� DROP  : %.1f%% ( ���� %.1f%% %s %.1f%%)#
@@ -3170,148 +3170,148 @@ Style#
 ��͡#
 �ʴ� Aura ��ҧ���ҧ#
 �ʴ� Aura#
-Show Effect#
-Show Shadows#
+�ʴ� Effect#
+�ʴ���#
 No Shift#
-Select Hardware T&L Acceleration Function#
-Select Game Resolution#
-Use full screen#
-Fix mouse#
-Effect Settings#
-Control Settings#
-Graphic Device Settings#
-Graphic Resolution Settings#
-Full Screen Settings#
-Fix mouse Settings#
-Commission : #
-Total commission amount : #
-Select receiver#
-Select receiving group#
-Change size(F10)#
-Loading the mailbox.\n^c92114Delete^000000unnecessary emails!!#
-NOW LOADING..#
-Title#
-Sender#
-라그나로크 클라이언트와 동시에 실행이 불가능 합니다. setup을 종료합니다#
-Add-on settings#
-This account does not exist.#
-Passwords do not match.#
-Failed to pass IP authentication#
-No identification number, supplement your registration information#
-Account block#
-System error#
-unknown error found.#
-Set navigation icon#
-Navigation Info UI#
-Open navigation#
-Share your current location#
-Search Results[0]#
-Search & Guidance#
-The location is incorrect.#
-Search Results[%d]#
-길안내 표시를 위한 아이콘 설정#
-길 찾기에 zeny 허용#
-내비게이션 도킹 해제#
-활성화 하지 않은 계정입니다.#
-The location you clicked on will be shared in the chat window.#
-4. Service 항목을 선택하면 Zeny&비공정 이용을 고려하여 안내 한다.#
-5. [<-] 버튼 : 길안내 모드 <-> 검색 모드를 바꾸거나#
-공유하기 모드 -> 서치 모드로 돌아갈때 사용 된다.#
-경험치 %lld 얻음#
-'%lld'의 경험치를 #
-^b- 노점 수수료 안내^/b\n노점 설정 가격에 따라 일정 비율의 수수료가 부가됩니다.\n\n\t^b> 수수료 비율^/b\n각 금액에 따른 수수료의 비율은 아래와 같습니다.\n\n0 z ~ 10,000 z\n = 수수료율 : ^1567fe0%^000000\n10,001 z ~ 100,000 z\n = 수수료율 : ^1567fe0%^000000\n100,001 z ~ 1,000,000 z\n = 수수료율 : ^1567fe0%^000000\n1,000,001 z ~ 10,000,000 z\n\t = 수수료율 : ^1567fe0%^000000\n10,000,001 z ~ 100,000,000 z\n = 수수료율 : ^1567fe5%^000000\n100,000,001 z 이상\n = 수수료율 : ^1567fe5%^000000\n#
-실거래가 : #
-※ 아이템 판매시, 실거래가만큼 제니를 획득합니다.#
-※ 아이템 구매시, 실거래가만큼 제니가 차감됩니다.#
-Chat Room#
-해당 캐릭터는 파티가입이 가능하지 않은 레벨입니다.#
-'%lld'의 잡경험치를 #
-잡경험치 %lld 얻음#
-현재위치(대로)에는 노점을 개설할 수 없습니다.#
-초 후 가능합니다.#
-파티원#
-SNS 전송실패(%d)#
-SNS 서버 연결실패#
-SNS 로그인 후 사용 가능합니다.#
-접속 할 수 있는 주소가 존재하지 않습니다.#
-미니파티창이 겹쳐져 있어 사용하실 수 없습니다.#
-나의 판매노점#
+���͡�к� Hardware T&L Acceleration#
+���͡��Ҵ����#
+��ҹ���������#
+������ Mouse �͡�͡��#
+��õ�駤�� Effect#
+��õ�駤�һ���#
+��õ�駤�� Graphic Device#
+��õ�駤�Ң�Ҵ��#
+��õ�駤�����������#
+��õ�駤�ҡ�������� Mouse �͡�͡��#
+��Ҩ�ҧ : #
+��Ҩ�ҧ��� : #
+���͡����Ѻ#
+���͡���������Ѻ#
+����¹��Ҵ [F10]#
+���ѧ��Ŵ������\n^c92114ź^000000�����·������ͧ���!!#
+���ѧ��Ŵ..#
+��Ǣ��#
+�����#
+�������ö�Դ�� 2 ���� ��õԴ������Ҩ���١��ͧ#
+��õ�駤���������#
+��辺 ID �ѧ�����#
+Password ���ç#
+�Դ��ͼԴ��Ҵ㹡���׹�ѹ IP#
+��辺����Ţ����׹�ѹ�� �ҡ�����š��ŧ����¹#
+�ЧѺ ID#
+�����Դ��Ҵ�ͧ�к�#
+�������Դ��Ҵ�������Һ���˵�#
+��õ�� Icon ��ùӷҧ#
+UI �����š�ùӷҧ#
+�Դ˹�ҵ�ҧ��ùӷҧ#
+�觻ѹʶҹ���Ѩ�غѹ�ͧ�س#
+�š�ä���[0]#
+��ä��� & ����й�#
+ʶҹ������١��ͧ#
+�š�ä���[%d]#
+Show navigation icon setting#
+Path that uses zeny#
+Open navigation window#
+Account is not active#
+Click on the location to share it in a chat room#
+4. Select Service project, Contains use of zeny and airship#
+5. [<-]ID : navigation mode<->swap search mode#
+Share mode -> use it when searching#
+%lld Base Experience obtained#
+'%lld' Base Experience#
+^b- Street vending fee description^/b: will be set according to item price, with certain percentage of fee.^b> Fee rate^/b The proportion of fee described as follows: 0 z ~ 10,000 z = Fee rate : ^1567fe0%^000000, 10,001 z ~ 100,000 z = Fee rate : ^1567fe2%^000000, 100,001 z ~ 1,000,000 z = Fee rate : ^1567fe4%^000000, 1,000,001 z ~ 10,000,000 z = Fee rate : ^1567fe6%^000000, 10,000,001 z ~ 100,000,000 z = Fee rate : ^1567fe8%^000000, more than 100,000,001 z = Fee rate : ^1567fe10%^000000#
+Total amount : #
+~ When selling items, total amount of zeny received #
+~ When buying items, total amount of zeny reduced #
+Open chat room#
+Character with this level cannot join the party#
+'%lld' Job Experience#
+%lld Job Experience obtained#
+Unable to open a shop at the current location#
+ seconds left before it become usable#
+Cap#
+SNS Failed to send(%d)#
+SNS Failed to connect to server#
+SNS will available after login.#
+Address doesn't exist.#
+Mini party windows can't be overlapped.#
+My Shop#
 BOX#
-Tip Box#
-트윗을 성공했습니다.#
-다시하기#
-다시하기가 비활성화되었습니다. 제련 재료를 다시 선택해주세요.#
-제련석이 부족하여 다시하기가 비활성화 되었습니다.#
-제니가 부족하여 다시하기가 비활성화 되었습니다.#
-대장장이의 축복이 부족하여 다시하기가 비활성화 되었습니다.#
-아이템이 파괴되었습니다.#
-모든 스테이터스가 감소되었습니다.#
-모든 스테이터스 감소 효과가 해제되었습니다.#
-OTP 비밀번호는 8자리 입니다.#
-통합계정#
-라그나로크#
-서비스 점검 중입니다.#
-검색어를 입력해주세요#
+Tip box#
+Tweet success.#
+Refine#
+Please return then select refine material again.#
+Closed due insufficient refine material, please check again.#
+Closed due insufficient zeny, please check again.#
+Closed due insufficient Blacksmith's Blessing, please check again.#
+This item has been destroyed.#
+All stats have been reduced.#
+All stats reducement have been disabled.#
+OTP Password is 8 digits.#
+Integrated account#
+Ragnarok#
+Currently service under maintenance.#
+Please enter a search term#
 MOTP#
-인증번호#
-휴대폰에 다운받은 GNJOY MOTP를 실행하여 인증번호를 입력해 주세요.#
-파티장을 위임할 파티원이 존재하지 않습니다. 파티를 해산하시겠습니까?#
- - 만18세이상#
- - 유료서버#
- - 무료서버#
-쾌적#
-보통#
-혼잡#
-포화#
+Certification Number#
+GNJOY MOTP downloaded to your phone, Please enter your verification number.#
+There is no party member that can be delegated. Do you want to disband the party instead?#
+ - Age 18+#
+ - Paid server#
+ - Free server#
+Smooth#
+Normal#
+Busy#
+Crowded#
 map#
-월드창고는 인벤토리 아이템만 입출고 할 수 있습니다.#
-월드창고에는 펫알을 입고할 수 없습니다.#
-월드창고에는 제작아이템을 입고할 수 없습니다.#
-%s 에서는 출고 할 수 없는 아이템입니다.#
-던전 파괴#
-[%s] 님이 제련을 성공하여, [+%d %s] 아이템을 획득하였습니다.#
-[%s] 님이 [+%d %s] 아이템의 제련에 실패하였습니다.#
-파티장을 위임한 이후에 탈퇴할 수 있습니다.#
-Rise#
-Fall#
-Basic#
-Modified file found. Please run the game again.#
-%s 은(는) 이맵에서 이동이 제한된 아이템입니다.#
-스스로\n먹이먹기#
-로덱스 작성창이 열려있는 동안 호문클루스가 먹이를 먹지 못합니다.#
-호문클루스가 먹이를 먹었습니다. '%s' 잔여량 %d개#
-Homunculus Auto-Feeding is turned On#
-Homunculus Auto-Feeding is turned Off#
-호문클루스는 주인이 획득하는 경험치의\n10%만큼을 자신의 경험치로 분배 받습니다.#
-Percentage : %d%%#
-해당 대상은 호문의 공격대상이 아닙니다. 'Alt + 우클릭'을 통해 호문클루스의 공격대상을 지정해주세요.#
-The target is not the attack target of the homunculus. Please use 'Alt + Right-click' to specify the target of Homunculus attack.#
-Sales List#
-Purchase List#
+The Server Storage can only store inventory items.#
+You can't store Cute Pet Egg in Server Storage.#
+You can't store Forged/Brewed item in Server Storage.#
+%s can't be stored.#
+Destroy instance#
+[%s] successfully upgrades an equipment, [+%d %s] obtained.#
+[%s] fails to upgrade [+%d %s].#
+You can leave a party after delegation.#
+Upgrade#
+Downgrade#
+Base#
+Modified file is found. Please restart the game.#
+%s can't be used in this map.#
+Feed \nyourself#
+You can't feed Homunculus while the RODEX window is open.#
+Homunculus has been fed. '%s' - %d remaining#
+Homunculus automatic feeding is ON#
+Homunculus automatic feeding is OFF#
+Homunculus receives \n10% of master's experiences.#
+Rate : %d%%#
+The target isn't in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
+There is no target in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
+Sell List#
+Buy list#
 New#
 Popular#
 Limited#
-Rental equipments#
-Permanent equipments#
+Rental equipment#
+Permanent equipment#
 Buff#
 Recovery#
 Etc#
 Special Offers#
-Get Points#
+Charging#
 Purchase#
-http://member.gnjoy.com/user/pay/chargelist.asp#
+https://rathena.org/board/clients/donations/#
 Item Search#
-Free Points#
-Used FP#
-Cash Points#
+Free points#
+Use Free points#
+Owned points#
 Update quantity#
-성제(여)#
-Soul Reaper(Female)#
-성제(남)#
-Soul Reaper(Male)#
-If the weight is above %d percent, the HP SP will not recover naturally.#
-The max number of items available for purchase at one time is 8.#
-http://gift.zhaouc.com/#
+Star Emperor(Girl)#
+Soul Reaper(Girl)#
+Star Emperor(Boy)#
+Soul Ripper(Boy)#
+Your weight limit is over %d, HP and SP will not recover naturally.#
+The number of items that can be purchased in 8.#
+https://rathena.org/board/crowdfunding/#
 UNKNOWN ERROR:%d#
 NOT USER#
 THIS ACCOUNT ID IS BLOCKED#
@@ -3327,254 +3327,254 @@ PASSWORD HAS NOT BEEN CHANGED FOR MORE THAN 90DAYS#
 INPUT DATA ERROR#
 ERROR DATABASE#
 ERROR SYSTEM#
-%s Consumption#
+Use %s#
 Payment#
-This is not a startable map.#
-It's a endable map.#
-There are not enough items.#
+This map isn't available for restart.#
+You can't teleport in this map#
+Insufficient item.#
 Please enter one line without line breaks.#
 Names with bad words can not be registered.#
-회원 가입을 위해 공식 홈페이지로 이동됩니다.#
-TokenAgency server connection failure#
+Go to the official website for membership.#
+TokenAgency Server connection failed#
 Billing information#
 Delete reservation#
 Cancel reservation#
-Start Game#
+Game start#
 Delete#
 Character List#
 Notice#
-Produce#
+Create#
 Hair Style#
 Hair Color#
-Double Check#
-%d hour %d minute %d second#
-MOTP 입력 시간이 초과되었습니다. 처음부터 다시 로그인해주십시오.#
-Back#
-아이템을 사용할 수 없습니다.#
-동일한 맵으로 이동할 수 없습니다.#
-사망시 이동이 불가능합니다.#
-캐릭터 생성#
-Adventurer Agency Registration#
-Registering in The Adventurer Agency#
-Recruitment#
-Memo#
-Quest#
-Field#
-Dungeon#
-MD#
-Paradise#
-Other#
-Search#
-Reset#
-Application for party#
-Purpose#
-Rule breaking language usage is punishable.#
-Register#
-The text contains words that can't be used.#
-Join Party#
-1:1 Chat#
+Check availability#
+%d hour %d min %d sec#
+MOTP Input time exceeded. Please log in again from the beginning.#
+Return#
+You can not use items.#
+Can not move to the same map.#
+It is impossible to move when your character KO'ed#
+Character Creation#
+Adventurer agent registration#
 Stop recruiting#
-Edit#
-All#
-[%s] Has applied to join the party.#
+Adventurer Agent Settings#
+All regions#
+Directly#
+Swordman classes#
+Mage classes#
+Archer classes#
+Acolyte classes#
+Merchant classes#
+Thief classes#
+Taekwon classes#
+Ninja classes#
+Gunslinger classes#
+Doram race#
+Location#
+Location name search#
+Request to join#
+Report#
+Party recruitment suspended#
+Please enter a location name.#
+Area#
+All classes#
 Login#
 Account#
-End#
+Exit#
 Apply#
 Connect#
 Confirm#
-휴대폰에 다운받은 GNJOY MOTP를#
-실행하여 인증번호를 입력해 주세요.#
-NPC가 있는 맵의 랜덤 좌표로 이동 됩니다.#
+GNJOY MOTP downloaded to mobile phone#
+Please enter the verification code.#
+NPC will move to random coondinate of the map.#
 Taekwon#
- 에게 전체채팅 및 귓말 거부상태#
- 에게 전체채팅 및 귓말 거부 요청 실패#
- 에게 전체채팅 및 귓말 거부 요청실패 (인원초과)#
- 에게 전체채팅 및 귓말 가능상태#
- 에게 전체채팅 및 귓말 가능 요청실패#
- 에게 전체채팅 및 귓말 가능 요청실패 (인원초과)#
-Ignore-list is empty#
--Characters in ignore-list-#
-진행중#
-추천#
-보류중#
-QUEST#
-내용#
-몬스터#
-보상#
-EXP#
-JEXP#
-아이템#
-진행/보류#
-하단으로 이동#
-간편 퀘스트창에 표시#
-입력시간#
-아이디 저장#
-비밀번호#
-아이디#
-회원가입#
-Leader#
-Your level doesn't match the requirements to join the party.#
-Failed to register in The Adventurer Agency.#
-Registered at The Adventurer Agency.#
-Search content#
-Tanker#
-%.1f%% (+ %s서버 %.1f%%)#
-/ex (캐릭터이름) or /차단 (캐릭터이름) : 해당 캐릭터에 대해 전체채팅 및 귓말 차단#
-/in (캐릭터이름) or /해제 (캐릭터이름) : 해당 캐릭터에 대해 전체채팅 및 귓말 허용#
-/ex or /차단 : 전체채팅 및 귓말 차단 캐릭터 리스트#
-/exall or /차단전부 : 모두에게 전체채팅 및 귓말 차단#
-/inall or /해제전부 : 모두에게 전체채팅 및 귓말 허용#
-모두에게 전체채팅 및 귓말 거부상태#
-모두에게 전체채팅 및 귓말 거부요청 실패#
-모두에게 전체채팅 및 귓말 가능상태#
-모두에게 전체채팅 및 귓말 가능요청 실패#
-오프닝#
-로그인 화면으로 돌아가시겠습니까?#
-힘과 공격력이 강해졌습니다.#
-힘, 지능, 손재주 및 명중률이 증가하였습니다.#
-방어력 및 HP가 증가되었습니다.#
-젤스타#
-계정버프#
-정액서비스#
-현재 접속이 지연되고 있습니다. 순차적으로 접속이 가능하니 잠시 후 재접속 부탁드립니다.#
-현재 접속이 지연되고 있으니 잠시 후 재접속 부탁드립니다.#
-불량 단어가 포함된 이름은 검색할 수 없습니다.#
-파티 마스터가 요청을 받을 수 없는 상태입니다.#
-파티를 찾을 수 없습니다.#
-Dealer#
-http://ro.gnjoy.com#
-▲#
-▼#
-이미 친구입니다#
-상대방을 찾을 수 없습니다#
-이미 다른 캐릭터가 친구 신청 중입니다.#
-혼구슬 표시 ON#
-혼구슬 표시 OFF#
-해당 계정은 2차 비밀번호 오입력으로 인해 게임내 접속이 제한된 상태입니다. \n %02d시간 %02d분 후에 접속제한이 해제되며, 접속제한의 해제는 홈페이지 -> 개인정보변경 -> 2차 비밀번호 에서 본인인증 후 진행해주시기 바랍니다.#
-보안패스워드를 3회이상 틀리셨습니다. 계정 보안을 위해 24시간동안 게임내 접속이 제한됩니다.\n 접속제한의 해제는 홈페이지 -> 개인정보변경 -> 2차 비밀번호 에서 본인인증 후 진행해주시기 바랍니다.#
-운영진#
-%d일차 출석 보상이 지급되었습니다.#
-계정 설정 데이터를 불러오는 중에 오류가 발생했습니다. ( 재시도를 위해서는 재시작 해야 합니다. )#
-해당 스킬은 파티 상태에서 사용 가능합니다.#
-파티 모집을 중단하였습니다.#
-길드 상납 경험치는 최대 %d%%까지 가능합니다.#
-길드 레벨이 최대여서 더 이상 경험치를 상납할 수 없습니다.#
-계정보안을 위하여 MOTP미사용자는 홈페이지 로그인만 가능합니다.\n홈페이지로 로그인을 시도해주시기 바랍니다.#
-물리 공격력과 마법 공격력이 향상되었습니다.#
-물리 공격력과 마법 공격력이 감소되었습니다.#
-%s Attendance Check Reward#
-Event period : From %02d/%02d ~ Until %2d/%2d (Month/Day) 24:00#
-%d Day#
-%d Day attendance check\nPlease click~!#
-%d Day attendance success!#
+ is blocked.#
+ Failed to block.#
+ Failed to block.(Maximum number exceeded)#
+ is unblocked.#
+ Failed to unblock.#
+ Failed to unblock.(Maximum number exceeded)#
+There is no block list.#
+-Block list-#
+Act#
+Rec#
+Pen#
+Quest information#
+Description#
+Monster#
+Reward#
+Base Exp#
+Job Exp#
+Item#
+Show/Hide#
+Hide#
+Display small quest window#
+Input time#
+Save ID#
+Password#
+ID#
+Sign Up#
+Novice classes#
+Super Novice classes#
+Failed to register adventurer's agent.#
+Registered to adventurer's agent.#
+Please select at least one job.#
+Please enter at least two characters.#
+%.1f%% (+ %s server %.1f%%)#
+/ex (Character name) or /block (Character name) : Block all chats and whispers from a character#
+/in (Character name) or /release (Character name) : Allow all chats and whispers from a character#
+/ex or /block : Block all chats and whispers from a character#
+/exall or /Blockall : Block all chats and whispers from all characters#
+/inall or /Releaseall : Allow all chats and whispers from all characters#
+Blocked all chats and whispers from all characters#
+Failed to block all chats and whispers from all characters#
+Allowed all chats and whispers from all characters#
+Failed to allow all chats and whispers from all characters#
+Opening#
+Do you want to return to the login screen?#
+STR and ATK increased.#
+STR, INT, DEX and HIT increased.#
+HP and DEF increased.#
+Gelstar#
+Account Buff#
+Fixed service#
+Your connection is currently delayed. You can connect again later.#
+Your connection is currently delayed, Please reconnect again later.#
+Name with bad words can not be searched.#
+The party leader is in the map that can't receive request.#
+No party can be found.#
+Party request.#
+http://rathena.org#
+��#
+��#
+You're already friends#
+Can't find other party#
+You're already a friend with another character.#
+Sprite Marble effect is ON#
+Sprite Marble effect is OFF#
+This account has limited in-game access due to a secondary password mis-input. \n %02d hour %02d minute until released, To release it go to -> Change personal information -> and enter your secondary password.#
+You've entered wrong password 3 times. Your account will be locked for 24 hours to secure your account.\n To release it go to -> Change personal information -> and enter your secondary password.#
+Officer#
+Day %d attendance reward.#
+There was an error when loading the data account settings. (Please restart to retry.)#
+This skill can only be used when in party.#
+Party recruitment has been canceled.#
+Guild experience can be accumulated up to %d%%.#
+Guild level is at maximum, you can no longer contribute to guild exp.#
+To keep your account secure, please login to MOTP homepage.\nPlease try to log in to the home page.#
+Physical attack and magical attack have been improved.#
+Physical attack and magical attack have been reduced.#
+Server %s attendance reward#
+Event period: month %02d day %02d -  month %2d day %2d 24:00#
+day %d#
+Click the item to claim day %d reward#
+You have claimed day %d reward#
 D-day#
-Day#
-Attendance Check failed. Please run again.#
-Attendance Check#
-This is not the current attendance check event#
-길드 상납 경험치가 max에 도달하여, 더 이상 길드 경험치를 누적할 수 없습니다.#
-개인 상납 경험치가 max에 도달하여, 더 이상 길드 경험치를 누적할 수 없습니다.#
-메시지#
-트위터에 메세지 전송을 실패 했습니다.#
-영문 4자, 한글 2자 이상으로 입력해야 합니다.#
-몬스터의 테이밍이 불가능한 지역입니다.#
-순위를 가져오고 있습니다...#
-해당 스킬은 파티장일때만 사용 가능합니다.#
-파트너의 SP가 부족하거나, 스킬 사용 불가 상태입니다.#
-아르바이트 노점 강제 종료 알림메일#
-안녕하세요. 운영팀입니다.\r\n해당 아르바이트 노점은 운영정책 위배되는 사항이 확인되어 강제 종료되었습니다.\r\n자세한 확인을 원하시는 경우에는 1:1 문의를 접수해 주시기 바랍니다.\r\n감사합니다#
-The guild tax rate can't be set to more than 50%.#
-The party has been registered with the Adventurer's Agency, and cannot change the party leader.#
-모험가 중개소에 파티를 등록할 수 없습니다#
+#
+Attendance check failed. Please try again.#
+Attendance check#
+Currently there is no attendance check event.#
+Guild experience reaches max, You can no longer accumulate Guild EXP#
+Character experience reaches max, You can no longer accumulate Guild EXP#
+message#
+Failed to send message to twitter#
+Must at least 4 characters in English, or 2 characters in Hangul.#
+Monster taming is prohibited in this map.#
+Fetching rank...#
+This skill can only be used when in party.#
+Partner's SP is insufficient or skill is disabled.#
+Force close part time shop notification email#
+Hello. Operation team.\r\nThose part-time job booths were confirmed to be inconsistent with the operation policy and were forcibly terminated.\r\nIf you would like more information, please contact us.\r\n thank you#
+You can't enter value more than 50%.#
+Sent a request to join the party.#
+You can not register party at an adventurer's office#
 Accept#
-Reject#
-Healer#
-해당 캐릭터를 찾을 수 없습니다.#
-노점 강제 철거#
-해당 파티의 파티장을 찾을 수 없습니다.#
-잡레벨이 낮아 파티에 가입 할 수 없습니다.#
-The player is currently in an area that doesn't allow joining a party.#
+Refuse#
+The setting permission is to the party leader.#
+The character could not be found.#
+Close shop#
+Unable to find applicable party.#
+You can not join the party because your job level is low.#
+The current requestor is in an area where you can not join the party.#
 Party number exceeded.#
-%s's party leader accepted the join request.#
-%s's party leader refused the join request.#
-%s is already in a party.#
-%s's party join request has been accepted.#
-%s's party join request has been declined.#
-%s's application was rejected because the party request could not be received.#
-Adventurer Agency List#
-Request to join party#
-파티장이 아닌 경우 모험가 중개소에 파티를 등록할 수 없습니다.#
-파티 모집을 중단할 수 없습니다.#
-Assist#
+%s party leader has approved you to join the party.#
+%s party leader has rejected you from joining the party.#
+%s is already in the party.#
+%s has accepted party invitation.#
+%s refused party invitation.#
+Since you can not receive party request, %s's party invitation has been rejected.#
+Adventurer's office list#
+Request to join the party#
+If you are not a party leader, you can not register party at the adventurer's office.#
+You can not stop the party recruitment.#
+This is party does not exist..#
 Zoom Out#
-%s : Zoom Out을 켜거나 끌수 있습니다 On Off#
-Zoom Out 기능을 켭니다 (On)#
-Zoom Out 기능을 해제합니다 (Off)#
+%s : Zoom Out can be turned On Off#
+Zoom Out is turned (On)#
+Zoom Out is turned (Off)#
 /zoom#
-Adventurer Agency#
-파티장인 경우, 가입 요청을 할 수 없습니다.#
-The maximum level to join a party must be higher than the minimum level setting.#
-더 이상 직업을 선택할 수 없습니다.#
-Blacklist this user from sending you join requests. (Valid until next game restart)#
-잠시 후 다시 열어주시기 바랍니다.#
-공성시작 전 %d분 동안은 해당 기능을 이용하실 수 없습니다.#
+Adventurer's agent#
+You can not request to join, if you are a party leader.#
+Registering adventurer's agent. Please wait.#
+I can not choose anymore job.#
+The user can't receive invitation.#
+After a few moments, please re-open.#
+This function is not available for %d minutes during WoE.#
 /viewclear#
-건물 반 투명화 ON#
-건물 반 투명화 OFF#
-건물 투명화#
-알로 되돌리기가 실패했습니다. 로덱스 작성창을 닫아주세요.#
+Translucent building ON#
+Translucent building OFF#
+Building transparency#
+Failed to revert, please close the window.#
 Emblem Frame#
-Emblem 테두리를 그려줍니다#
-Emblem 테두리를 그려주지 않습니다#
-장착된 무기가 없습니다.#
-에너지 구체가 부족합니다.#
-배울 수 없는 스킬(%s)이 포함되어있습니다.#
+Emblem displayed with border#
+Emblem displayed without border#
+No equipped weapon.#
+Insufficient energy sphere.#
+Contains skill (%s) that can't be learned.#
 /frame#
-웨폰 블로킹 발동후 제한시간 내에 사용가능한 스킬입니다.#
-아이디혹은 패스워드가 잘못되었읍니다.#
+After Weapon Blocking is triggered, possible skills are available for use for limited duration.#
+The username or password is incorrect.#
 E X P : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DROP  : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DEATH : %.1f%% ( basic 100.0%% %s %.1f%%)#
-Forbidden symbols in character name.#
+Available in English or Russian only.#
 you must have an AccessTicket to login#
-창고를 불러오는 중입니다.#
+Loading Guild Storage.#
 NOW LOADING..#
 Delete#
 Reply#
 Send#
-Name Check#
+Validate name#
 Notice#
-Normal#
+General#
 Return#
 Search#
-펫 먹이주기에 실패했습니다. 먹이를 줄 수 없는 상태입니다.#
-호문 먹이주기에 실패했습니다. 먹이를 줄 수 없는 상태입니다.#
-화폐#
-%s %d개#
-교환에 실패하였습니다.#
-교환이 잘 이루어졌습니다.#
-교환에 필요한 재화가 부족합니다.#
-해당 아이템은 이미 판매되어 재고가 부족합니다.#
-사망#
+Failed to feed the pet. Pet in a state that can't be fed.#
+Failed to feed the homunculus. Homunculus in a state that can't be fed.#
+money#
+%s %d ea#
+Exchange failed.#
+Exchange successfuly completed.#
+Not enough items to exchange.#
+The item has been sold and out of stock.#
+KO'ed#
 PvP#
-아이템 소지 확장#
-^0000ff%s^000000을 소모하여, 아이템 최대 소지 종류수를 확장하시겠습니까? \n(^0000ff%d^000000)에서 (^0000ff%d^000000)로 확장됩니다.\n^ff0000※ 소모된 아이템 및 확장된 최대 소지 종류수는 되돌릴 수 없습니다.^000000#
-아이템 최대 소지 종류수 확장에 실패하였습니다.#
-아이템 최대 소지 종류수 확장을 위해, 다른 작업을 종료하여 주시기 바랍니다.#
-아이템 최대 소지 종류수 확장에 필요한 아이템을 소지하고 있지 않습니다.#
-더 이상 아이템 최대 소지 종류수를 확장 할 수 없습니다.#
-아이템 최대 소지 종류수 확장에 성공하였습니다.#
-같은 아이템을 %d개 이상 가질 수 없습니다.#
-소지 한계량 초과로 구입이 불가능합니다.#
-해당 아이템은 한 번에 한 개만 살 수 있습니다.#
-성제#
-소울리퍼#
-설정한 내용은 정상 종료 시 서버에 저장됩니다.#
+Expand possession limit#
+Do you want to expand the maximum possession limit by using ^0000ff%s^000000? \nIt will expand from (^0000ff%d^000000) to (^0000ff%d^000000).\n^ff0000 Expanded item possession limit can't be reversed.^000000#
+Failed to expand the maximum possession limit.#
+To expand the possession limit, please close other windows.#
+Failed to expand the maximum possession limit, insufficient required item.#
+You can no longer expand the maximum possession limit.#
+You have successfully expanded the possession limit.#
+You can't have more the same %d item at a time.#
+It is not possible to purchase as it will exceeds the possession limit.#
+You can only buy one item at a time.#
+Star Emperor#
+Soul Reaper#
+The settings are stored on the server on normal exit.#
 Capture Monster#
 message#
 TITLE#
-데미지 표기 확장#
+Expand damage mark#
 맵 이름 표기#
 시스템 메세지 : 현재 노점보기 기능이 %s 상태입니다. (/노점보기)#
 수직 동기#
