@@ -2614,9 +2614,9 @@ Zeny ที่ได้รับ#
 คุณไม่สามารถส่ง Zeny ได้อีก#
 ค่าใช้จ่าย: %s Zeny#
 ไม่พบชื่อผู้รับ#
-อัตรา E X P : %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
+อัตรา EXP   : %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
 อัตรา DROP  : %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
-โทษของการหมดสติ : %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
+โทษของการหมดสติ: %.1f%% ( ปกติ %.1f%% Premium %.1f%% + %s %.1f%%)#
 คุณสามารถสะสมแต้ม PC Gold-Club ได้มากสุด %d แต้ม#
 คำสั่งดังกล่าวไม่สามารถใช้ได้ใน Server นี้#
 ไม่สามารถใช้ใน Server นี้ได้#
@@ -2694,7 +2694,7 @@ Challenge ที่สำเร็จ#
 โปรดมีช่องว่างภายในช่องเก็บของอย่างน้อย 5 ช่อง#
 อัตรา EXP   : %.1f%% ( ปกติ 100.0%% PC Cafe %.1f%% + %s %.1f%% )#
 อัตรา DROP  : %.1f%% ( ปกติ 100.0%% PC Cafe %.1f%% + %s %.1f%% )#
-โทษของการหมดสติ : %.1f%% ( ปกติ 100.0%% PC Cafe %.1f%% + %s %.1f%% )#
+โทษของการหมดสติ: %.1f%% ( ปกติ 100.0%% PC Cafe %.1f%% + %s %.1f%% )#
 จำนวน Item ที่แนบเกิดกำหนดแล้ว#
 แจ้งเตือนเมื่อซื้อ Item#
 ไม่สามารถแนบ Item ได้#
@@ -2786,113 +2786,113 @@ Zeny ไม่เพียงพอ#
 Zeny ไม่เพียงพอ#
 เงินในคลังไม่เพียงพอ#
 Zeny เกินจำนวนที่กำหนด#
-Drop X#
-Storage X#
-Cart X#
-Mail X#
-Trade X#
-Auction X#
-Guild Storage X#
-Sell to NPC X#
-Item moves restriction.#
-Please Create a Character!#
-You need to disarm the equipped projectiles.#
-You cannot enter Memorial Dungeon with excess members#
-Memorial Dungeon Access was denied due to exceeding number of players#
+โยน X#
+คลังเก็บของ X#
+รถเข็น X#
+จดหมาย X#
+การแลกเปลี่ยน X#
+การประมูล X#
+คลังเก็บของ Guild X#
+ขายไปยัง NPC X#
+ข้อห้ามการเคลื่อนย้าย Item#
+โปรดสร้างตัวละคร!#
+คุณต้องถอดกระสุนที่สวมใส่อยู่เสียก่อน#
+คุณไม่สามารถเข้า Memorial Dungeon ด้วยจำนวนสมาชิกที่เกินกำหนด#
+การเข้า Memorial Dungeon ถูกปฎิเสธเนื่องจากมีจำนวนผู้เข้าร่วมมากเกินไป#
 %.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
 %.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
-Consuming Item denied due to multiple same item.#
-Consuming Item denied due to effect of same consumed item.#
-Flicker Effect ON#
-Flicker Effect OFF#
-Illegal Programs has been detected#
-Send Mail#
-E X P : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-DROP  : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-DEATH : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-The content cannot be used as a name.#
-Style Shop#
-No serial number, Please visit the store to buy.#
-Please turn on Serial item number window box.#
-Bank#
-Slot is full, please delete a character.#
-Item cannot be restored, are you sure want to apply it?#
-Registered as the following style.#
-There are plenty of golds in the bank, Please go to the bank now.#
-moving...#
-You are not allowed to fly over the sovereign airspace of the country.#
-Airship flight is temporarily unavailable due to atmospheric instability caused by magic.#
-Private airship#
-Please try again in a moment.#
-Not enough Zeny to use the private airship.#
-Not enough Cans to use the private airship.#
-You cannot meet the level to use the private airship.#
-You cannot move to the selected point by the private airship.#
-You cannot use the private airship where you are now.#
-Accessory#
-Second costume#
-Wardrobe#
-This hairstyle cannot be dyed.#
-Press an arrow to choose the style you want.#
-Come and see the new styles.\n(Purchased accessories will be sent via RODEX.)#
-Basic style#
-You can level up the skill from the base Lv. %d.#
-Special symbol can't be used in name#
-MaxHP is to low to use this skill#
-MaxSP is to low to use this skill#
-Compare items#
-Drop lock#
-Screenshots are not attached#
+การใช้ Item ถูกปฎิเสธเนื่องจากมี Item ประเภทเดียวกันอยู่#
+การใช้ Item ถูกปฎิเสธเนื่องจากกำลังใช้ Item ดังกล่าวอยู่#
+เปิดการใช้งาน ผลของกระกระพริบ#
+ปิดการใช้งาน ผลของกระกระพริบ#
+ตรวจพบโปรแกรมโกง#
+ส่งจดหมาย#
+อัตรา EXP   : %.1f%% ( ปกติ 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
+อัตรา DROP  : %.1f%% ( ปกติ 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
+โทษของการหมดสติ: %.1f%% ( ปกติ 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
+ข้อความดังกล่าวไม่สามารถใช้เป็นชื่อได้#
+ร้านค้าการแต่งกาย#
+ไม่พบ Serial Number โปรดซื้อที่ร้านค้า#
+โปรดเปิดหน้าต่าง Item Serial Number#
+ธนาคาร#
+ช่องเต็มแล้ว โปรดลบตัวละครเดิมเสียก่อน#
+ไม่สามารถคืน Item ได้ ต้องการใช้งานมันจริง ๆ หรือไม่?#
+ใช้งานการแต่งกายดังกล่าวเรียบร้อยแล้ว#
+ตอนนี้มีทองมากมายภายในธนาคาร โปรดตรวจสอบที่ธนาคาร#
+กำลังเคลื่อนที่...#
+คุณไม่ได้รับอนุญาตให้บินข้ามเขตของประเทศนี้ได้#
+เรือเหาะถูกปิดการใช้งานชั่วคราว เนื่องจากมีพลังเวทย์มนต์แปรปรวนอยู่มากบนน่านฟ้า#
+เรือเหาะส่วนตัว#
+โปรดลองใหม่ภายหลัง#
+มี Zeny ไม่เพียงพอที่จะใช้เรือเหาะส่วนตัว#
+มี Cans ไม่เพียงพอที่จะใช้เรือเหาะส่วนตัว#
+เลเวลต่ำกว่าที่จะใช้เรือเหาะส่วนตัว#
+ไม่สามารถเคลื่อนที่ไปยังจุดหมายที่กำหนดได้ด้วยเรือเหาะส่วนตัว#
+คุณไม่สามารถใช้เรือเหาะส่วนตัวได้ภายในแผนที่นี้#
+เครื่องประดับ#
+ชุดที่สอง#
+ตู้เสื้อผ้า#
+ทรงผมดังกล่าวไม่สามารถย้อมสีได้#
+กดที่ลูกศรเพื่อเลือกรูปแบบที่ต้องการ#
+ดูการแต่งกายใหม่ ๆ กัน\n(เครื่องประดับที่ซื้อจะถูกส่งไปทาง RODEX)#
+กายแต่งกายปกติ#
+คุณสามารถเพิ่มเลเวล Skill จากเลเวลพื้นฐาน %d#
+ตัวอักษรพิเศษไม่สามารถใช้งานในชื่อได้#
+MaxHP ต่ำเกินกว่าที่จะใช้ Skill ดังกล่าวได้#
+MaxSP ต่ำเกินกว่าที่จะใช้ Skill ดังกล่าวได้#
+เปรียบเทียบ Item#
+ป้องกันการโยน#
+ไม่ได้แนบรูปถ่าย#
 TWITTER#
-General#
-Notice#
-Clear#
-Refresh#
-%d minute#
-%d hour#
-%d day#
-Returned#
-Do you want to delete the message?#
-Show information#
-Zoom in#
-Zoom out#
-Maximize#
-Show world map#
-Total possession item type#
+ทั่วไป#
+ข่าวสาร#
+ล้างค่า#
+โหลดใหม่#
+%d นาที#
+%d ชั่วโมง#
+%d วัน#
+กลับมา#
+ต้องการลบข้อความดังกล่าวใช่หรือไม่?#
+แสดงข้อมูล#
+ซูมเข้า#
+ซูมออก#
+เต็มจอ#
+แสดงแผนที่โลก#
+ประเภท Item ที่มี#
 /minimap#
-Show minimap buttons#
-Hide minimap buttons#
-Show guild member login status#
-Intimacy: %s#
-Confirmation#
-Team name#
-Leader#
-Time limit exceeded. Closing the client#
-Input error. Closing the client#
-Incorrect input. A small buff has given to you#
-Enter 4 english words and 2 chinese words#
-Your entered answer is [%s]. Is it right?#
-Icon is unchecked#
-Incorrect input (Remaining chance: %d)#
-Do you want to announce %d to player?#
-Message has been sent to player#
-Needed Data for Query illegal software are not signed.#
-The player is being monitored.#
-Already signed in investigation system.#
-Failed to store icon.#
-Failed to store replied answer.#
-Hello, illegal software is being monitored.#
-Please enter the text below within the specified time.#
-According to game regulation, when you enter the wrong text three times, you will get banned.#
-Remaining chance : %d#
-Role#
-Range#
-You use the left mouse button to specify the role#
-You use the left mouse button to specify the range#
-Not a valid range, please press Enter#
-E X P : %.1f%% ( basic %.1f%% %s %.1f%%)#
-DROP  : %.1f%% ( basic %.1f%% %s %.1f%%)#
-DEATH : %.1f%% ( basic %.1f%% %s %.1f%%)#
+เปิดการใช้งาน การแสดงปุ่มภายใน Minimap#
+ปิดการใช้งาน การแสดงปุ่มภายใน Minimap#
+แสดงการเข้าเกมของสมาชิกภายใน Guild#
+ความสนิทสนม: %s#
+การยืนยัน#
+ชื่อทีม#
+หัวหน้า#
+หมดเวลา กำลังปิดเกม#
+เกิดข้อผิดพลาดกับข้อมูลที่ระบุ กำลังปิดเกม#
+ข้อมูลที่ระบุผิดพลาด จะมีเพียง Buff เล็กน้อยที่มอบให้คุณ#
+ระบุตัวอักษรภาษาอังกฤษ 4 ตัวอักษรและภาษาจีน 2 ตัวอักษร#
+ยืนยันที่จะตอบคำถามว่า [%s]?#
+Icon ไม่ได้ถูกเลือก#
+ข้อมูลที่ระบุผิดพลาด (จำนวนครั้งคงเหลือ: %d)#
+คุณต้องการประกาศว่า %d ไปยังผู้เล่นอื่น?#
+ข้อความถูกส่งไปยังผู้เล่นแล้ว#
+ข้อมูลที่ต้องการสำหรับการตรวจสอบการโกงไม่ได้ถูกใช้งาน#
+ผู้เล่นจะถูกตรวจสอบ#
+ลงทะเบียนการตรวจสอบไว้อยู่แล้ว#
+เกิดข้อผิดพลาดในการจัดเก็บ Icon#
+เกิดข้อผิดพลาดในการจัดเก็บข้อความตอบกลับ#
+สวัสดี การตรวจสอบโปรแกรมโกงกำลังใช้งานอยู่#
+โปรดระบุข้อความด้านล่างภายในเวลาที่กำหนด#
+หากระบุผิด 3 ครั้งคุณจะถูกระงับ ID#
+จำนวนครั้งคงเหลือ: %d#
+บทบาท#
+ระยะ#
+ใช้เม้าส์ซ้ายเพื่อเลือกบทบาท#
+ใช้เม้าส์ขวาเพื่อกำหนดระยะ#
+ระยะที่ระบุผิดพลาดโปรดกดปุ่ม [Enter]#
+อัตรา EXP   : %.1f%% ( ปกติ %.1f%% %s %.1f%%)#
+อัตรา DROP  : %.1f%% ( ปกติ %.1f%% %s %.1f%%)#
+โทษของการหมดสติ: %.1f%% ( ปกติ %.1f%% %s %.1f%%)#
 The role name will be sent: %s #
 Synthesis of the required materials#
 Insufficient synthesis materials#
