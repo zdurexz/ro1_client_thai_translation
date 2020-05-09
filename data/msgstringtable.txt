@@ -1113,14 +1113,14 @@ Card#
 ดูสถานะ#
 ให้อาหาร#
 อยู่นิ่ง ๆ#
-Super Novice (ชาย)#
-Super Novice (หญิง)#
+Super Novice (M)#
+Super Novice (F)#
 Taekwon Boy#
 Taekwon Girl#
-Taekwon Master (ชาย)#
-Taekwon Master (หญิง)#
-Soul Linker (ชาย)#
-Soul Linker (หญิง)#
+Taekwon Master (M)#
+Taekwon Master (F)#
+Soul Linker (M)#
+Soul Linker (F)#
 โปรดตรวจสอบการเชื่อมต่อ มี 2 ID ที่เชื่อมต่อด้วยการเล่นที่ใช้ค่าชั่วโมงของ Internet Cafe#
 ID ของคุณจ่ายค่าบริการแบบรายเดือน (จำนวนวันคงเหลือ: %d วัน)#
 ID ของคุณจ่ายค่าบริการแบบรายชั่วโมง (เวลาคงเหลือ: %d ชั่วโมง %d นาที %d วินาที)#
@@ -1683,7 +1683,7 @@ High Novice#
 Super Novice#
 Gunslinger#
 Ninja#
-Taekwon หญิง/ชาย#
+Taekwon F/M#
 Star Gladiator#
 Soul Linker#
 การรับสมัครเข้า Party#
@@ -3305,10 +3305,10 @@ https://discord.gg/TK6rVtY#
 ใช้แต้ม Free#
 แต้มที่มี#
 อัปเดตจำนวน#
-Star Emperor(หญิง)#
-Soul Reaper(หญิง)#
-Star Emperor(ชาย)#
-Soul Ripper(ชาย)#
+Star Emperor(F)#
+Soul Reaper(F)#
+Star Emperor(M)#
+Soul Ripper(M)#
 คุณแบก Item มากเกิน %d การฟื้นฟู HP และ SP ตามปกติจะไม่ฟื้นฟู#
 จำนวน Item ที่สามารถซื้อได้คือ 8#
 https://discord.gg/TK6rVtY#
