@@ -1,2 +1,5 @@
 data\luafiles514\lua files\skillinfoz\skilldescript.lub
 แปลไทยโดยคุณ Jumbo # 8053 (Discord)
+
+Important files from https://github.com/llchrisll/ROenglishRE
+llchrisll <h0und3y3@gmail.com>
